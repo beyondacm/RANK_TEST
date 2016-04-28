@@ -1,0 +1,688 @@
+0,rash,1
+1,rash,1
+2,rash,1
+3,rash,1
+4,rash,1
+5,rash,1
+6,rash,1
+7, makeup allergi,3
+8, makeup allergi,3
+9, makeup allergi,3
+10, makeup allergi,3
+11, makeup allergi,3
+12, makeup allergi,3
+13, pregnanc pain breast bloat,5
+14, pregnanc pain breast bloat,5
+15, pregnanc pain breast bloat,5
+16, pregnanc pain breast bloat,5
+17, pregnanc pain breast bloat,5
+18, pregnanc pain breast bloat,5
+19, bald,2
+20, bald,2
+21, bald,2
+22, bald,2
+23, bald,2
+24, bald,2
+25,mammogram,1
+26,mammogram,1
+27,mammogram,1
+28,mammogram,1
+29,mammogram,1
+30,mammogram,1
+31,mammogram,1
+32,mammogram,1
+33,mammogram,1
+34,mammogram,1
+35, serotonin buspar lexapro syndrom,5
+36, serotonin buspar lexapro syndrom,5
+37, serotonin buspar lexapro syndrom,5
+38, serotonin buspar lexapro syndrom,5
+39, serotonin buspar lexapro syndrom,5
+40, serotonin buspar lexapro syndrom,5
+41, serotonin buspar lexapro syndrom,5
+42, abdomin pain back,4
+43, abdomin pain back,4
+44, abdomin pain back,4
+45, abdomin pain back,4
+46, abdomin pain back,4
+47, abdomin pain back,4
+48, abdomin pain back,4
+49, abdomin pain back,4
+50, heart diseas arteri dimer coronari,6
+51, heart diseas arteri dimer coronari,6
+52, heart diseas arteri dimer coronari,6
+53, heart diseas arteri dimer coronari,6
+54, heart diseas arteri dimer coronari,6
+55, heart diseas arteri dimer coronari,6
+56, heart diseas arteri dimer coronari,6
+57, heart diseas arteri dimer coronari,6
+58, heart diseas arteri dimer coronari,6
+59, heart diseas arteri dimer coronari,6
+60, headach dizzi ach bodi vertigo nausea,7
+61, headach dizzi ach bodi vertigo nausea,7
+62, headach dizzi ach bodi vertigo nausea,7
+63, headach dizzi ach bodi vertigo nausea,7
+64, headach dizzi ach bodi vertigo nausea,7
+65, headach dizzi ach bodi vertigo nausea,7
+66, headach dizzi ach bodi vertigo nausea,7
+67, surgeri mri,3
+68, surgeri mri,3
+69, surgeri mri,3
+70, surgeri mri,3
+71, surgeri mri,3
+72, hcv hiv,3
+73, hcv hiv,3
+74, hcv hiv,3
+75, hcv hiv,3
+76, hcv hiv,3
+77, hcv hiv,3
+78,,0
+79,,0
+80,,0
+81,,0
+82,,0
+83,,0
+84,,0
+85, foot tingl numb nerv,5
+86, foot tingl numb nerv,5
+87, foot tingl numb nerv,5
+88, foot tingl numb nerv,5
+89, foot tingl numb nerv,5
+90, foot tingl numb nerv,5
+91, foot tingl numb nerv,5
+92, fever ach bodi sore throat cough,7
+93, fever ach bodi sore throat cough,7
+94, fever ach bodi sore throat cough,7
+95, fever ach bodi sore throat cough,7
+96, fever ach bodi sore throat cough,7
+97, fever ach bodi sore throat cough,7
+98, fever ach bodi sore throat cough,7
+99,knee pain,2
+100,knee pain,2
+101,knee pain,2
+102,knee pain,2
+103,knee pain,2
+104,knee pain,2
+105,knee pain,2
+106,,0
+107,,0
+108,,0
+109,,0
+110,,0
+111,,0
+112, ivi poison,3
+113, ivi poison,3
+114, ivi poison,3
+115, ivi poison,3
+116, ivi poison,3
+117,shoulder pain chest lung dimer red,6
+118,shoulder pain chest lung dimer red,6
+119,shoulder pain chest lung dimer red,6
+120,shoulder pain chest lung dimer red,6
+121,shoulder pain chest lung dimer red,6
+122,shoulder pain chest lung dimer red,6
+123,shoulder pain chest lung dimer red,6
+124, control period sex birth earli pill,7
+125, control period sex birth earli pill,7
+126, control period sex birth earli pill,7
+127, control period sex birth earli pill,7
+128, control period sex birth earli pill,7
+129,ercp gallbladd remov bile,4
+130,ercp gallbladd remov bile,4
+131,ercp gallbladd remov bile,4
+132,ercp gallbladd remov bile,4
+133,ercp gallbladd remov bile,4
+134,ercp gallbladd remov bile,4
+135, pain abdomin insomnia back fatigu nausea,7
+136, pain abdomin insomnia back fatigu nausea,7
+137, pain abdomin insomnia back fatigu nausea,7
+138, pain abdomin insomnia back fatigu nausea,7
+139, pain abdomin insomnia back fatigu nausea,7
+140, pain abdomin insomnia back fatigu nausea,7
+141, sexual,2
+142, sexual,2
+143, sexual,2
+144, sexual,2
+145, sexual,2
+146, sexual,2
+147, dri throat cough,4
+148, dri throat cough,4
+149, dri throat cough,4
+150, dri throat cough,4
+151, dri throat cough,4
+152,,0
+153,,0
+154,,0
+155,,0
+156,,0
+157,,0
+158,,0
+159, dizzi period nausea,4
+160, dizzi period nausea,4
+161, dizzi period nausea,4
+162, dizzi period nausea,4
+163, dizzi period nausea,4
+164, dizzi period nausea,4
+165,caviti pain tooth,3
+166,caviti pain tooth,3
+167,caviti pain tooth,3
+168,caviti pain tooth,3
+169,caviti pain tooth,3
+170,caviti pain tooth,3
+171,caviti pain tooth,3
+172,caviti pain tooth,3
+173,caviti pain tooth,3
+174,caviti pain tooth,3
+175, period pregnanc breast test nausea,6
+176, period pregnanc breast test nausea,6
+177, period pregnanc breast test nausea,6
+178, period pregnanc breast test nausea,6
+179, period pregnanc breast test nausea,6
+180, period pregnanc breast test nausea,6
+181, dizzi acn diseas lymphoma crohn,6
+182, dizzi acn diseas lymphoma crohn,6
+183, dizzi acn diseas lymphoma crohn,6
+184, dizzi acn diseas lymphoma crohn,6
+185, dizzi acn diseas lymphoma crohn,6
+186, dizzi acn diseas lymphoma crohn,6
+187, dizzi acn diseas lymphoma crohn,6
+188, pain back numb,4
+189, pain back numb,4
+190, pain back numb,4
+191, pain back numb,4
+192, pain back numb,4
+193, pain back numb,4
+194, pain back numb,4
+195, pain back numb,4
+196, breast cancer,3
+197, breast cancer,3
+198, breast cancer,3
+199, breast cancer,3
+200, breast cancer,3
+201, breast cancer,3
+202, numb nerv,3
+203, numb nerv,3
+204, numb nerv,3
+205, numb nerv,3
+206, numb nerv,3
+207, bleed birth,3
+208, bleed birth,3
+209, bleed birth,3
+210, bleed birth,3
+211, bleed birth,3
+212, bleed birth,3
+213, stool pain blood colonoscopi,5
+214, stool pain blood colonoscopi,5
+215, stool pain blood colonoscopi,5
+216, stool pain blood colonoscopi,5
+217, stool pain blood colonoscopi,5
+218,,1
+219,,1
+220,,1
+221,,1
+222,,1
+223,,1
+224,,1
+225,,1
+226,,1
+227,,1
+228, pain neck sore chest throat,6
+229, pain neck sore chest throat,6
+230, pain neck sore chest throat,6
+231, pain neck sore chest throat,6
+232, pain neck sore chest throat,6
+233,itchi,1
+234,itchi,1
+235,itchi,1
+236,itchi,1
+237,itchi,1
+238,itchi,1
+239,itchi,1
+240,itchi,1
+241, abscess pain jaw antibiot tooth,6
+242, abscess pain jaw antibiot tooth,6
+243, abscess pain jaw antibiot tooth,6
+244, abscess pain jaw antibiot tooth,6
+245, abscess pain jaw antibiot tooth,6
+246, abscess pain jaw antibiot tooth,6
+247, abscess pain jaw antibiot tooth,6
+248, abscess pain jaw antibiot tooth,6
+249, abscess pain jaw antibiot tooth,6
+250, abscess pain jaw antibiot tooth,6
+251, abscess pain jaw antibiot tooth,6
+252, abscess pain jaw antibiot tooth,6
+253, abscess pain jaw antibiot tooth,6
+254,abscess dental,2
+255,abscess dental,2
+256,abscess dental,2
+257,abscess dental,2
+258,abscess dental,2
+259,abscess dental,2
+260,abscess dental,2
+261,abscess dental,2
+262,abscess dental,2
+263,abscess dental,2
+264,abscess dental,2
+265,abscess dental,2
+266,abscess dental,2
+267,abscess dental,2
+268,abscess dental,2
+269,abscess dental,2
+270,abscess dental,2
+271,abscess dental,2
+272, upper pain weight bloat abdomin lose nausea,8
+273, upper pain weight bloat abdomin lose nausea,8
+274, upper pain weight bloat abdomin lose nausea,8
+275, upper pain weight bloat abdomin lose nausea,8
+276, upper pain weight bloat abdomin lose nausea,8
+277, upper pain weight bloat abdomin lose nausea,8
+278, upper pain weight bloat abdomin lose nausea,8
+279,aspirin,1
+280,aspirin,1
+281,aspirin,1
+282,aspirin,1
+283,aspirin,1
+284,aspirin,1
+285,burn,1
+286,burn,1
+287,burn,1
+288,burn,1
+289,burn,1
+290,burn,1
+291, pain muscl fibromyalgia pregabalin gabapentin,6
+292, pain muscl fibromyalgia pregabalin gabapentin,6
+293, pain muscl fibromyalgia pregabalin gabapentin,6
+294, pain muscl fibromyalgia pregabalin gabapentin,6
+295, pain muscl fibromyalgia pregabalin gabapentin,6
+296, pain muscl fibromyalgia pregabalin gabapentin,6
+297, pain muscl fibromyalgia pregabalin gabapentin,6
+298, pain muscl fibromyalgia pregabalin gabapentin,6
+299, clindamycin cancer actinomycosi ent bone,6
+300, clindamycin cancer actinomycosi ent bone,6
+301, clindamycin cancer actinomycosi ent bone,6
+302, clindamycin cancer actinomycosi ent bone,6
+303, clindamycin cancer actinomycosi ent bone,6
+304, clindamycin cancer actinomycosi ent bone,6
+305, clindamycin cancer actinomycosi ent bone,6
+306, pregnanc vitamin iron,4
+307, pregnanc vitamin iron,4
+308, pregnanc vitamin iron,4
+309, pregnanc vitamin iron,4
+310, pregnanc vitamin iron,4
+311, pregnanc vitamin iron,4
+312, pregnanc vitamin iron,4
+313, pregnanc vitamin iron,4
+314, headach vomit ten nausea,5
+315, headach vomit ten nausea,5
+316, headach vomit ten nausea,5
+317, headach vomit ten nausea,5
+318, headach vomit ten nausea,5
+319,nerv,1
+320,nerv,1
+321,nerv,1
+322,nerv,1
+323,nerv,1
+324,chest dizzi pain cough,4
+325,chest dizzi pain cough,4
+326,chest dizzi pain cough,4
+327,chest dizzi pain cough,4
+328,chest dizzi pain cough,4
+329,chest dizzi pain cough,4
+330, infect ear,3
+331, infect ear,3
+332, infect ear,3
+333, infect ear,3
+334, infect ear,3
+335, infect ear,3
+336, infect ear,3
+337, infect ear,3
+338, infect ear,3
+339, infect ear,3
+340,,0
+341,,0
+342,,0
+343,,0
+344,,0
+345,,0
+346, wisdom teeth,3
+347, wisdom teeth,3
+348, wisdom teeth,3
+349, wisdom teeth,3
+350, wisdom teeth,3
+351, wisdom teeth,3
+352, wisdom teeth,3
+353, wisdom teeth,3
+354, wisdom teeth,3
+355, wisdom teeth,3
+356,,0
+357,,0
+358,,0
+359,,0
+360,,0
+361, pain leg nerv numb knee,6
+362, pain leg nerv numb knee,6
+363, pain leg nerv numb knee,6
+364, pain leg nerv numb knee,6
+365, pain leg nerv numb knee,6
+366, pain leg nerv numb knee,6
+367, control mononessa pill birth,5
+368, control mononessa pill birth,5
+369, control mononessa pill birth,5
+370, control mononessa pill birth,5
+371, control mononessa pill birth,5
+372, period,2
+373, period,2
+374, period,2
+375, period,2
+376, period,2
+377, period,2
+378,control  clot implanon blood birth,6
+379,control  clot implanon blood birth,6
+380,control  clot implanon blood birth,6
+381,control  clot implanon blood birth,6
+382,control  clot implanon blood birth,6
+383,control  clot implanon blood birth,6
+384,control  clot implanon blood birth,6
+385,control  clot implanon blood birth,6
+386,control  clot implanon blood birth,6
+387, sexual,2
+388, sexual,2
+389, sexual,2
+390, sexual,2
+391, sexual,2
+392, sexual,2
+393, sexual,2
+394, bulg pain back mri,5
+395, bulg pain back mri,5
+396, bulg pain back mri,5
+397, bulg pain back mri,5
+398, bulg pain back mri,5
+399, bulg pain back mri,5
+400, bulg pain back mri,5
+401, bulg pain back mri,5
+402, knee surgeri brace acl,5
+403, knee surgeri brace acl,5
+404, knee surgeri brace acl,5
+405, knee surgeri brace acl,5
+406, knee surgeri brace acl,5
+407, knee surgeri brace acl,5
+408, depress bipolar,3
+409, depress bipolar,3
+410, depress bipolar,3
+411, depress bipolar,3
+412, depress bipolar,3
+413, depress bipolar,3
+414, depress bipolar,3
+415, depress bipolar,3
+416,,1
+417,,1
+418,,1
+419,,1
+420,,1
+421,,1
+422, diarrhea period pregnanc vomit test,6
+423, diarrhea period pregnanc vomit test,6
+424, diarrhea period pregnanc vomit test,6
+425, diarrhea period pregnanc vomit test,6
+426, diarrhea period pregnanc vomit test,6
+427, headach eye benadryl,4
+428, headach eye benadryl,4
+429, headach eye benadryl,4
+430, headach eye benadryl,4
+431, headach eye benadryl,4
+432, headach eye benadryl,4
+433, headach eye benadryl,4
+434,hair dandruff pubic,3
+435,hair dandruff pubic,3
+436,hair dandruff pubic,3
+437,hair dandruff pubic,3
+438,hair dandruff pubic,3
+439,hair dandruff pubic,3
+440, melatonin sleep aspirin,4
+441, melatonin sleep aspirin,4
+442, melatonin sleep aspirin,4
+443, melatonin sleep aspirin,4
+444, melatonin sleep aspirin,4
+445, melatonin sleep aspirin,4
+446, melatonin sleep aspirin,4
+447, melatonin sleep aspirin,4
+448, migrain ibuprofen,3
+449, migrain ibuprofen,3
+450, migrain ibuprofen,3
+451, migrain ibuprofen,3
+452, migrain ibuprofen,3
+453, urin allergi diet,4
+454, urin allergi diet,4
+455, urin allergi diet,4
+456, urin allergi diet,4
+457, urin allergi diet,4
+458, urin allergi diet,4
+459, std sex,3
+460, std sex,3
+461, std sex,3
+462, std sex,3
+463, std sex,3
+464, cast ankl fractur,4
+465, cast ankl fractur,4
+466, cast ankl fractur,4
+467, cast ankl fractur,4
+468, cast ankl fractur,4
+469, cast ankl fractur,4
+470, cast ankl fractur,4
+471, cast ankl fractur,4
+472, head concuss,3
+473, head concuss,3
+474, head concuss,3
+475, head concuss,3
+476, head concuss,3
+477, head concuss,3
+478, head concuss,3
+479, head concuss,3
+480,gland implant swollen,3
+481,gland implant swollen,3
+482,gland implant swollen,3
+483,gland implant swollen,3
+484,gland implant swollen,3
+485, gland ent salivari neck,5
+486, gland ent salivari neck,5
+487, gland ent salivari neck,5
+488, gland ent salivari neck,5
+489, gland ent salivari neck,5
+490, gland ent salivari neck,5
+491, gland ent salivari neck,5
+492, gland ent salivari neck,5
+493, gland ent salivari neck,5
+494, stress pain chest,4
+495, stress pain chest,4
+496, stress pain chest,4
+497, stress pain chest,4
+498, stress pain chest,4
+499, stress pain chest,4
+500, stress pain chest,4
+501, stress pain chest,4
+502, stress pain chest,4
+503, stress pain chest,4
+504, infect ear ruptur swimmer,5
+505, infect ear ruptur swimmer,5
+506, infect ear ruptur swimmer,5
+507, infect ear ruptur swimmer,5
+508, infect ear ruptur swimmer,5
+509, infect ear ruptur swimmer,5
+510,,1
+511,,1
+512,,1
+513,,1
+514,,1
+515,,1
+516,mono,1
+517,mono,1
+518,mono,1
+519,mono,1
+520,mono,1
+521,mono,1
+522,mono,1
+523,allergi wheez,2
+524,allergi wheez,2
+525,allergi wheez,2
+526,allergi wheez,2
+527,allergi wheez,2
+528,allergi wheez,2
+529,allergi wheez,2
+530,sperm,1
+531,sperm,1
+532,sperm,1
+533,sperm,1
+534,sperm,1
+535,sperm,1
+536, run neck jaw pain tmj,6
+537, run neck jaw pain tmj,6
+538, run neck jaw pain tmj,6
+539, run neck jaw pain tmj,6
+540, run neck jaw pain tmj,6
+541, run neck jaw pain tmj,6
+542, run neck jaw pain tmj,6
+543, run neck jaw pain tmj,6
+544, run neck jaw pain tmj,6
+545, surgeri back line antibiot picc,6
+546, surgeri back line antibiot picc,6
+547, surgeri back line antibiot picc,6
+548, surgeri back line antibiot picc,6
+549, surgeri back line antibiot picc,6
+550, surgeri back line antibiot picc,6
+551, surgeri back line antibiot picc,6
+552, surgeri back line antibiot picc,6
+553, surgeri back line antibiot picc,6
+554, surgeri back line antibiot picc,6
+555, surgeri back line antibiot picc,6
+556, surgeri back line antibiot picc,6
+557, urin fever bactrim infect vomit kidney nausea,8
+558, urin fever bactrim infect vomit kidney nausea,8
+559, urin fever bactrim infect vomit kidney nausea,8
+560, urin fever bactrim infect vomit kidney nausea,8
+561, urin fever bactrim infect vomit kidney nausea,8
+562, urin fever bactrim infect vomit kidney nausea,8
+563, urin fever bactrim infect vomit kidney nausea,8
+564, urin fever bactrim infect vomit kidney nausea,8
+565,pimpl,1
+566,pimpl,1
+567,pimpl,1
+568,pimpl,1
+569,pimpl,1
+570, lichen numb planus,4
+571, lichen numb planus,4
+572, lichen numb planus,4
+573, lichen numb planus,4
+574, lichen numb planus,4
+575, lichen numb planus,4
+576, lichen numb planus,4
+577, lichen numb planus,4
+578,breastfeed,1
+579,breastfeed,1
+580,breastfeed,1
+581,breastfeed,1
+582,breastfeed,1
+583,breastfeed,1
+584,breastfeed,1
+585, headach head dizzi sleep sinus,6
+586, headach head dizzi sleep sinus,6
+587, headach head dizzi sleep sinus,6
+588, headach head dizzi sleep sinus,6
+589, headach head dizzi sleep sinus,6
+590, headach head dizzi sleep sinus,6
+591, headach mood backach test nausea,6
+592, headach mood backach test nausea,6
+593, headach mood backach test nausea,6
+594, headach mood backach test nausea,6
+595, headach mood backach test nausea,6
+596, numb,2
+597, numb,2
+598, numb,2
+599, numb,2
+600, numb,2
+601, numb,2
+602, numb,2
+603, numb,2
+604, numb,2
+605, pelvic discomfort nausea migrain,5
+606, pelvic discomfort nausea migrain,5
+607, pelvic discomfort nausea migrain,5
+608, pelvic discomfort nausea migrain,5
+609, pelvic discomfort nausea migrain,5
+610,,0
+611,,0
+612,,0
+613,,0
+614,,0
+615,,0
+616,surgeri crutch,2
+617,surgeri crutch,2
+618,surgeri crutch,2
+619,surgeri crutch,2
+620,surgeri crutch,2
+621,surgeri crutch,2
+622, pain back bladder ulcer test,6
+623, pain back bladder ulcer test,6
+624, pain back bladder ulcer test,6
+625, pain back bladder ulcer test,6
+626, pain back bladder ulcer test,6
+627, pain back bladder ulcer test,6
+628, cyst ovarian,3
+629, cyst ovarian,3
+630, cyst ovarian,3
+631, cyst ovarian,3
+632, cyst ovarian,3
+633, cartilag ruptur ten,4
+634, cartilag ruptur ten,4
+635, cartilag ruptur ten,4
+636, cartilag ruptur ten,4
+637, cartilag ruptur ten,4
+638, cartilag ruptur ten,4
+639, headach pain sore infect dri joint mouth throat ear,10
+640, headach pain sore infect dri joint mouth throat ear,10
+641, headach pain sore infect dri joint mouth throat ear,10
+642, headach pain sore infect dri joint mouth throat ear,10
+643, headach pain sore infect dri joint mouth throat ear,10
+644, headach pain sore infect dri joint mouth throat ear,10
+645, spin dizzi vomit nausea,5
+646, spin dizzi vomit nausea,5
+647, spin dizzi vomit nausea,5
+648, spin dizzi vomit nausea,5
+649, spin dizzi vomit nausea,5
+650,creami discharg,2
+651,creami discharg,2
+652,creami discharg,2
+653,creami discharg,2
+654,creami discharg,2
+655,creami discharg,2
+656,,0
+657,,0
+658,,0
+659,,0
+660,,0
+661,shoulder  pain stiff,4
+662,shoulder  pain stiff,4
+663,shoulder  pain stiff,4
+664,shoulder  pain stiff,4
+665,shoulder  pain stiff,4
+666,shoulder  pain stiff,4
+667,gallbladd yoga abdomin surgeri remov workout,6
+668,gallbladd yoga abdomin surgeri remov workout,6
+669,gallbladd yoga abdomin surgeri remov workout,6
+670,gallbladd yoga abdomin surgeri remov workout,6
+671,gallbladd yoga abdomin surgeri remov workout,6
+672,gallbladd yoga abdomin surgeri remov workout,6
+673,peripher neuropathi,2
+674,peripher neuropathi,2
+675,peripher neuropathi,2
+676,peripher neuropathi,2
+677,peripher neuropathi,2
+678,peripher neuropathi,2
+679,peripher neuropathi,2
+680,peripher neuropathi,2
+681,peripher neuropathi,2
+682,peripher neuropathi,2
+683,stress,1
+684,stress,1
+685,stress,1
+686,stress,1
+687,stress,1
