@@ -1,519 +1,519 @@
 0,,1
-1,,1
+1,,0
 2,,1
-3,,1
-4, atop dermat,3
+3, contracept,2
+4, pregnanc,2
 5,,1
 6,,1
-7,,1
+7, ankl,2
 8,,1
-9,,1
+9, swell ankl,3
 10,,1
-11,,0
+11, ankl,2
 12,,1
-13, pregnanc,2
-14,,1
-15, pregnanc,2
-16, pregnanc,2
-17,,1
-18,,1
+13, colon cancer,3
+14, colon cancer rectal,4
+15, bleed cancer rectal,4
+16,,1
+17,,0
+18,,0
 19,,1
-20,,1
-21,,0
-22,,1
+20,,0
+21,,1
+22, cancer,2
 23,,1
-24,,1
-25,digit mammogram,2
-26,,0
-27,,0
-28,digit mammogram,2
-29,,0
-30,digit mammogram,2
-31,,0
-32,digit mammogram,2
-33,,0
-34,,0
-35, psychiatr drug,3
-36, psychiatr drug,3
+24,,0
+25,,1
+26, cancer,2
+27, colon cancer rectal,4
+28,,0
+29, pelvic pain,3
+30, cancer,2
+31,,1
+32, pelvic pain,3
+33, abdomin pain,3
+34, health cancer,3
+35, cancer,2
+36,,1
 37,,1
 38,,1
-39, psychiatr drug,3
+39,,1
 40,,1
-41,,0
-42,,1
-43,,0
-44,,0
-45,,1
-46, abdomin pain,3
-47,,1
-48,,1
-49,,1
-50, heart diseas,3
-51, diseas,2
-52,,1
-53, heart diseas,3
-54, heart diseas,3
-55, arteri diseas coronari,4
-56, heart diseas,3
-57,,1
-58, heart diseas coronari arteri,5
-59,,0
-60,,0
-61, headach,2
-62, headach,2
+41,,1
+42,,0
+43,,1
+44,,1
+45, femal cancer health breast carcinoma,6
+46, breast cancer,3
+47, cancer,2
+48, carcinoma breast cancer,4
+49, breast cancer,3
+50, breast cancer,3
+51,,1
+52, cancer,2
+53,,1
+54,,1
+55, femal health,3
+56,,1
+57, femal,2
+58,,1
+59,,1
+60,,1
+61,,1
+62,,1
 63,,0
-64, headach,2
+64,,1
 65,,1
-66,,0
-67, mri,2
+66,,1
+67,,1
 68,,1
-69, surgeri mri,3
+69,,0
 70,,1
-71, surgeri,2
-72, virus human immunodefici,4
+71,,1
+72,,1
 73,,1
 74,,1
 75,,1
-76,,1
+76,,0
 77,,1
-78,,0
-79,,0
-80,,0
-81,,0
+78,,1
+79,,1
+80, pain,2
+81,,1
 82,,0
-83,,0
+83,,1
 84,,0
 85,,1
-86,,0
-87,,1
-88, tingl nerv,3
+86,,1
+87, ciprofloxacin metronidazol diverticul,4
+88,,1
 89,,1
 90,,1
-91, nerv,2
-92,,0
-93, fever cough,3
+91,,1
+92,,1
+93,,1
 94,,1
 95,,1
 96,,1
 97,,1
 98,,0
-99,,0
-100,pain,1
-101,knee pain,2
-102,,0
-103,knee pain,2
-104,,0
-105,,0
-106,,0
-107,,0
-108,,0
-109,,0
-110,,0
-111,,0
-112,,0
-113,,0
-114,,1
-115,,1
-116,,1
-117,,1
-118, diseas electrocardiogram,3
-119,,0
-120, femal diseas pain chest health,6
-121, diseas,2
-122,chest pain,2
-123,,0
-124, health,2
+99,,1
+100,,1
+101,,1
+102,,1
+103,,1
+104,,1
+105,,1
+106,,1
+107, surgeri eye,3
+108, surgeri,2
+109, glass eye len,4
+110,,1
+111, eye,2
+112,,1
+113, lasik surgeri eye,4
+114, lasik surgeri,3
+115, lasik eye astigmat,4
+116, surgeri eye,3
+117, eye,2
+118, lasik surgeri eye astigmat,5
+119, lasik surgeri eye,4
+120, lasik surgeri eye lasek,5
+121, pregnanc,2
+122,,0
+123,,1
+124,,0
 125,,1
-126,,0
-127, pregnanc femal health healthi,5
-128, pregnanc,2
-129, ercp,2
+126, pregnanc,2
+127, headach vertigo pain back,5
+128, pain back,3
+129,,1
 130,,1
-131,,1
-132,,1
-133,,1
-134,,1
-135, abdomin discomfort pain back,5
-136,,0
-137, fatigu pain back,4
-138,,1
-139,,1
-140, pain,2
-141, transmit diseas sexual,4
-142, infect,2
+131,,0
+132,,0
+133, headach pain,3
+134, dermat skin,3
+135,,1
+136, dermat rash,3
+137,,1
+138, dermat rash skin,4
+139,cataract,1
+140, surgeri cataract,3
+141, surgeri cataract,3
+142, surgeri cataract,3
 143,,0
-144,,1
+144, surgeri eyelid,3
 145,,1
-146, diseas,2
-147, cough,2
+146, surgeri vision,3
+147, surgeri retina diabet,4
 148,,1
-149,,1
-150,pain,1
-151,,1
+149, vision,2
+150, surgeri cataract,3
+151, vision cataract,3
 152,,0
 153,,0
-154,,0
-155,,0
-156,,0
-157,,0
-158,,0
-159,,1
-160,,0
-161, pregnanc,2
-162, pregnanc femal health healthi,5
-163, pregnanc,2
-164, pregnanc,2
-165, tmj pain syndrom,4
-166, pain dental tooth surgeri tmj oral maxillofaci manag,9
-167, surgeri oral tmj syndrom,5
-168, pain dental tooth surgeri tmj oral maxillofaci manag,9
-169, dental tooth surgeri oral maxillofaci,6
-170, pain dental tooth tmj syndrom,6
-171, dental cari pain tooth,5
-172, tmj pain syndrom,4
-173, pain dental tooth tmj syndrom,6
-174, dental manag,3
-175, pregnanc infertil,3
-176, hormon period,3
-177, pregnanc,2
-178, pregnanc,2
-179,,1
-180, femal health,3
-181, diseas crohn,3
-182,,0
+154,,1
+155,,1
+156,,1
+157,chest pain,2
+158,,1
+159,chest pain,2
+160, pain,2
+161,,1
+162,,0
+163, headach seizur defici convuls vitamin health,7
+164,,0
+165,,1
+166,,1
+167, psychiatr health,3
+168, health,2
+169,,0
+170,,0
+171,disloc ,2
+172,,1
+173,,1
+174,,0
+175, contracept,2
+176, femal health,3
+177,,1
+178, femal health,3
+179, contracept femal health,4
+180,,1
+181,,1
+182,,1
 183,,1
-184, acn,2
-185,,1
-186, acn,2
-187,,1
-188, pain,2
-189, numb,2
-190,,1
-191, pain,2
-192,,1
+184,,1
+185, chickenpox,2
+186,,1
+187, pregnanc femal health level,5
+188, pregnanc femal health,4
+189,,1
+190, femal fibroid,3
+191, pregnanc,2
+192, pregnanc femal health hysterectomi,5
 193,,0
-194, pain back,3
-195, pain back,3
-196, mri breast,3
-197,,1
+194,,1
+195,,1
+196,,1
+197, health,2
 198,,1
-199, breast cancer,3
+199,,1
 200,,1
-201,,1
-202,,1
+201, health,2
+202, infect health rash,4
 203,,0
-204, numb exercis,3
-205,,1
-206,,1
-207,,1
-208,,1
-209,,1
-210,,1
-211,,1
-212,,1
-213,,1
-214,,1
+204,,1
+205, dermat,2
+206, oncolog breast cancer,4
+207, breast cancer,3
+208, carcinoma breast cancer,4
+209, breast cancer,3
+210, breast cancer,3
+211, femal cancer health breast carcinoma,6
+212, medic oncolog cancer breast,5
+213, carcinoma breast cancer,4
+214, carcinoma breast cancer,4
 215,,1
 216,,1
-217,,1
-218,,1
+217, sleep apnea,3
+218, sleep pressur snore apnea,5
 219,,1
 220,,1
 221,,1
-222, rash,2
-223,,1
+222, sleep,2
+223, sleep apnea,3
 224,,1
-225,,1
-226,,1
+225,sprain,1
+226,,0
 227,,0
-228,,1
+228,,0
 229,,0
-230, chest pain,3
-231, pain,2
-232,,1
-233,,0
-234, sleep,2
-235,,1
+230,,0
+231,sprain,1
+232,,0
+233,,1
+234, vein varicos leg,4
+235, vein varicos leg,4
 236,,1
-237,,0
+237,,1
 238,,1
-239, rash,2
-240, rash,2
-241, pain facial,3
-242, dental,2
-243, abscess dental pain tooth,5
-244, abscess pain,3
-245, abscess pain,3
-246, dental,2
-247, pain,2
-248, abscess dental pain tooth,5
-249, abscess antibiot,3
-250, dental pain,3
-251, abscess dental pain tooth,5
-252, dental pain tooth,4
-253, pain facial,3
-254, antibiot,2
-255, abscess dental tooth dentistri,5
-256, abscess dental tooth dentistri,5
-257,,0
-258,,1
-259, abscess dental tooth dentistri,5
-260, dental tooth,3
-261, dental,2
-262, tooth,2
-263,,1
-264, tooth,2
+239, femal health,3
+240,,1
+241,,1
+242,,1
+243,,1
+244, surgeri,2
+245,,1
+246, surgeri exercis,3
+247, surgeri,2
+248,,1
+249, surgeri,2
+250,,1
+251, surgeri,2
+252,,1
+253, surgeri diarrhea,3
+254,,1
+255, surgeri,2
+256, surgeri,2
+257,,1
+258, muscl,2
+259,,0
+260,,1
+261,,1
+262,,1
+263, cancer colonoscopi,3
+264,,1
 265,,1
-266, abscess dental tooth dentistri,5
-267, abscess antibiot tooth,4
-268, tooth dentistri,3
-269, dental tooth dentistri,4
-270, abscess dental tooth dentistri,5
-271, dental,2
-272,,0
-273, abdomin diseas pain,4
+266,,1
+267,,0
+268, ct scan,3
+269, colon cancer,3
+270,,1
+271,,1
+272,,1
+273, femal mens pregnanc health healthi,6
 274,,1
-275,,1
-276,,0
-277,,0
-278, diseas,2
+275, sex,2
+276,,1
+277, pregnanc femal health healthi,5
+278,,1
 279,,1
 280,,1
 281,,1
 282,,1
 283,,1
-284,,1
+284,,0
 285,,1
-286,,0
+286,,1
 287,,1
-288,,1
+288, sight,2
 289,,1
-290,,0
+290, eyeglass eye glass,4
 291,,1
-292,,1
-293, pain fibromyalgia,3
-294,,0
-295, pain,2
-296, pain fibromyalgia,3
-297, pain,2
+292, eyeglass eye glass,4
+293,,1
+294,,1
+295,,1
+296,,1
+297,,1
 298,,1
-299,,1
-300,,1
-301, throat surgeri,3
-302,,1
-303,,1
-304, throat,2
-305, ear nose cancer,4
-306,,1
+299,,0
+300, feel anxieti anxious,4
+301,,1
+302,anxieti,1
+303, asthma,2
+304, asthma,2
+305, asthma,2
+306,,0
 307,,1
-308, pregnanc,2
-309,,1
-310,,1
-311, healthi,2
-312, health vitamin,3
-313,,1
-314,,1
-315,,0
-316,,1
-317,,0
-318,,0
-319,,0
-320,nerv,1
-321,,0
-322,,0
-323,,0
+308, cough asthma,3
+309, asthma,2
+310, cancer,2
+311, cancer,2
+312,thyroid  cancer medic inflamm antithyroid,6
+313,thyroid  nodul,3
+314, cancer,2
+315,thyroid  cancer medic inflamm antithyroid,6
+316, thyroid,2
+317,thyroid  medic antithyroid inflamm,5
+318,thyroid  biopsi nodul cancer,5
+319,,1
+320,,1
+321,,1
+322,skin,1
+323, skin,2
 324,,1
-325,,1
+325, skin,2
 326,,1
-327, pain tight chest pressur angina,6
-328,,0
-329, pain,2
-330,,1
-331,,0
+327, skin,2
+328,,1
+329, health,2
+330, pregnanc femal health healthi,5
+331, pregnanc health,3
 332,,1
 333,,1
 334,,1
-335,,1
+335,,0
 336,,1
-337,,0
-338, infect otiti ear media,5
+337,,1
+338,,1
 339,,1
-340,,0
-341,,0
-342,,0
-343,,0
-344,vagin,1
+340,,1
+341,,1
+342,,1
+343, hemoglobin glucos,3
+344, headach dizzi,3
 345,,0
-346,,1
-347, tooth,2
-348, tooth teeth,3
-349, tooth,2
+346,,0
+347,,1
+348, headach,2
+349, headach,2
 350,,1
-351, teeth,2
+351,,1
 352,,1
-353, tooth,2
-354,wisdom extract tooth,3
+353,,0
+354,,1
 355,,1
-356,,0
+356,,1
 357,,0
-358,,0
-359,,0
-360,,0
-361, nerv,2
-362,,0
-363, knee pain leg,4
-364, pain nerv,3
-365, pain numb,3
-366,,1
-367, contracept,2
-368,,1
-369, contracept femal health pill,5
-370, contracept femal health,4
-371, contracept,2
-372, health,2
-373,,1
-374, femal health,3
-375, health,2
-376, pregnanc,2
-377, health,2
-378, contracept femal pain mens health,6
+358,,1
+359,,1
+360,,1
+361,,1
+362, femal health cancer,4
+363,,1
+364, cancer,2
+365, cancer,2
+366, thyroid cancer medic inflamm antithyroid,6
+367, thyroid,2
+368, thyroid medic antithyroid inflamm,5
+369, thyroid cancer medic health nodul inflamm antithyroid,8
+370, femal health cancer,4
+371, fibromyalgia injuri joint tissu hypermobl sciatica soft syndrom,9
+372, fibromyalgia injuri joint tissu hypermobl sciatica soft syndrom,9
+373, fibromyalgia,2
+374, fibromyalgia injuri joint tissu hypermobl sciatica soft syndrom,9
+375, fibromyalgia injuri joint tissu hypermobl sciatica soft syndrom,9
+376, joint,2
+377, fibromyalgia injuri joint tissu hypermobl sciatica soft syndrom,9
+378,,0
 379,,1
-380, pain mens,3
-381, health femal pain mens,5
+380, pain,2
+381, pain,2
 382,,0
-383, contracept health,3
-384,,0
-385,,1
+383, pain,2
+384, epidur pain nerv mri therapi inject,7
+385, pain,2
 386,,1
-387, femal,2
-388, femal diseas health,4
-389, diseas,2
-390,,1
+387,,1
+388,,1
+389,,1
+390,,0
 391,,0
-392, femal health,3
-393, femal health,3
-394, pain back,3
+392,,1
+393,,1
+394,,1
 395,,1
-396,,1
+396,,0
 397,,1
-398, disk bulg mri,4
-399,,0
+398,count  blood anemia,4
+399,,1
 400,,1
-401, bulg disk pain back,5
-402, knee,2
+401, fever health children cough,5
+402, fever health children,4
 403,,1
 404,,1
-405, reconstruct knee brace acl,5
-406, reconstruct knee acl,4
-407, surgeri acl,3
-408, depress mood disord manic bipolar,6
-409, disord,2
-410, depress bipolar disord manic,5
-411, depress bipolar disord,4
-412, depress bipolar disord,4
-413, depress bipolar disord manic,5
-414, depress bipolar disord,4
-415, depress disord,3
-416, pregnanc,2
-417, pregnanc,2
-418, pregnanc,2
-419, pregnanc femal health healthi,5
-420,,1
-421,,0
-422,,0
+405, rhiniti,2
+406,,0
+407,,0
+408,,0
+409,tingl,1
+410,,0
+411,,0
+412,,1
+413, breast cancer,3
+414, breast cancer,3
+415, breast cancer,3
+416, carcinoma breast cancer,4
+417,,0
+418, cancer,2
+419,,0
+420,,0
+421,,1
+422,,1
 423,,1
 424,,1
-425, pregnanc,2
-426, pregnanc test,3
-427,,1
-428, pediatr health pulmonolog,4
-429, eye,2
-430, eye,2
-431, health eye,3
-432, eye,2
-433, pain,2
-434,,1
-435,,1
-436,,1
-437,,1
-438,,1
-439,,1
-440, sleep,2
-441,,1
-442, sleep,2
-443,,1
-444,,1
-445,,1
-446, sleep,2
-447, sleep,2
-448,,1
-449, headach migrain,3
-450,,0
-451, headach migrain,3
-452, headach,2
-453, transmit diseas sexual urethr,5
-454, transmit diseas sexual urethr,5
+425,,1
+426,,1
+427, pain,2
+428,,0
+429,,1
+430, knee,2
+431, leg,2
+432,,1
+433,,0
+434,,0
+435,,0
+436,,0
+437,,0
+438,,0
+439, carcinoma breast cancer,4
+440, carcinoma breast cancer,4
+441, cancer,2
+442, breast cancer,3
+443, oncolog cancer,3
+444, medic health,3
+445, femal cancer health breast oncolog carcinoma,7
+446, oncolog cancer,3
+447, carcinoma breast cancer,4
+448, infect transmit diseas sexual,5
+449,,1
+450, sexual diseas chlamydia infect transmit prostat,7
+451,,1
+452,,1
+453,,1
+454,,0
 455,,1
-456,,1
+456,,0
 457,,1
-458,,1
-459, infect health transmit male sexual,6
-460,,1
-461,,1
-462,,1
-463,,1
-464, surgeri ankl,3
-465, surgeri ankl fractur,4
-466,ankl,1
+458,,0
+459,,0
+460,,0
+461,,0
+462,,0
+463,,0
+464,,1
+465,,0
+466,,1
 467,,1
-468,,0
-469,,1
-470, surgeri,2
-471, surgeri,2
+468,,1
+469, chest pain,3
+470,,1
+471,,0
 472,,1
 473,,1
-474,,1
+474, chest pain,3
 475,,1
-476, head injuri,3
+476,,0
 477,,1
 478,,1
 479,,1
-480,,0
+480,,1
 481,,1
-482, antibiot,2
-483,,1
+482,,1
+483,,0
 484,,0
-485,,1
-486, surgeri,2
-487,,1
+485,,0
+486, stenosi,2
+487,,0
 488,,1
-489, surgeri,2
-490,,1
-491,,0
-492, surgeri,2
-493,,1
-494, depress stress,3
-495, depress stress psychiatri,4
-496, depress,2
-497,,1
-498, depress,2
+489,,1
+490, pediatr health pulmonolog,4
+491, fever cough,3
+492, pediatr health pulmonolog,4
+493, health,2
+494,,0
+495,,0
+496, pain,2
+497, arthriti,2
+498,,1
 499,,0
 500,,1
-501,,0
-502, pain,2
-503, depress,2
-504,,1
-505,,1
-506, infect ear,3
-507, infect ear,3
+501,,1
+502, arthriti,2
+503,,1
+504, fever,2
+505, pain,2
+506, pain,2
+507,,1
 508,,1
 509,,1
-510, clonazepam klonopin,3
-511, clonazepam klonopin,3
-512,,1
-513,,1
-514,,1
-515, clonazepam klonopin,3
+510,,0
+511,,0
+512,,0
+513,ulcer,1
+514,,0
+515,,0
 516,,0
 517,,0
 518,,0
@@ -522,167 +522,196 @@
 521,,0
 522,,0
 523,,0
-524,,1
-525, hypersensit allergi rhiniti child,5
+524,sore,1
+525,,0
 526,,0
 527,,0
-528, allergi rhiniti child,4
-529, allergi rhiniti,3
-530,,1
+528,,0
+529,,0
+530,,0
 531,,1
 532,,1
 533,,1
 534,,1
 535,,1
-536, tmj pain syndrom,4
-537, pain surgeri tooth tmj oral maxillofaci manag,8
-538, tmj oral syndrom,4
-539, pain surgeri tooth tmj oral maxillofaci manag,8
-540, tmj syndrom pain tooth,5
-541, pain surgeri tooth tmj oral maxillofaci manag,8
-542, tmj pain syndrom,4
-543, pain surgeri tooth tmj oral maxillofaci manag,8
-544, pain surgeri tooth tmj oral maxillofaci manag,8
-545,,1
-546, spine surgeri,3
-547,,0
-548, antibiot,2
-549, surgeri antibiot,3
-550,,0
-551, surgeri,2
-552,,1
-553, surgeri orthoped,3
+536,pregnanc ,2
+537,,1
+538, leg thrombosi clot deep venous blood,7
+539,,1
+540,,1
+541,,1
+542,,1
+543,,1
+544,,1
+545,,0
+546,,1
+547,,1
+548,,1
+549,,0
+550, ovarian,2
+551,,1
+552, anxieti,2
+553, anxieti,2
 554,,1
-555, back,2
-556, surgeri orthoped,3
-557,,1
-558,,1
-559,,1
-560, urinari kidney,3
-561, urin tract urinari infect,5
-562, urin tract urinari infect,5
-563, kidney,2
+555, anxieti,2
+556, anxieti,2
+557, anxieti health psycholog,4
+558, attack anxieti panic,4
+559, feel anxieti anxious,4
+560,,1
+561, attack anxieti panic,4
+562, ulcer,2
+563,,1
 564,,1
 565,,0
-566,,0
-567,,0
-568,,0
-569,,0
-570,,1
+566,,1
+567,,1
+568, allergi,2
+569, allergi,2
+570, allergi,2
 571,,1
-572, drug,2
-573,,0
+572,,1
+573,,1
 574,,1
 575,,1
-576,,1
+576,,0
 577,,1
-578,,0
-579,,0
-580,,0
-581,,0
-582,,0
-583,,0
-584,,0
+578,,1
+579,,1
+580,,1
+581, compress varicos vein,4
+582,,1
+583,,1
+584,,1
 585,,1
-586, pain,2
-587, pain,2
-588, headach dizzi,3
-589, headach pain sleep,4
-590,,0
-591,,1
-592,,0
-593,,0
-594, headach pain back,4
-595, pregnanc,2
-596,,1
-597,,1
-598,,1
-599,,1
-600, numb syndrom,3
-601, nerv,2
-602,,1
+586,,1
+587, fever,2
+588,,1
+589,,1
+590, headach,2
+591, stress,2
+592,,1
+593, headach,2
+594,,0
+595,,0
+596,,0
+597,,0
+598,,0
+599,,0
+600,,0
+601,,0
+602,,0
 603,,0
-604,,1
-605, headach migrain,3
-606, headach migrain,3
-607, health,2
-608, health,2
-609, headach,2
+604,,0
+605, pregnanc,2
+606,,1
+607, pregnanc,2
+608, pregnanc,2
+609,,1
 610,,0
-611,,0
-612,,0
-613,,0
-614,,0
-615,,0
-616,,0
-617, surgeri,2
-618, surgeri,2
-619, surgeri,2
-620,,1
-621,,1
-622, gallston diseas,3
+611,,1
+612, urinari infect tract,4
+613,,1
+614, urinari infect tract,4
+615,,1
+616,,1
+617,,0
+618, heart infarct myocardi attack cardiac,6
+619, feel anxious attack anxieti sleep,6
+620, cardiac,2
+621, attack anxieti,3
+622, sleep stress anxieti insomnia,5
 623,,1
-624,,1
-625, gallston diseas,3
+624, sleep stress anxieti insomnia,5
+625,,0
 626,,1
-627,,1
-628,,0
-629, femal health breast,4
-630, health,2
-631,,1
-632, health ovarian breast,4
-633,,0
-634,,1
+627, std vagin diseas chlamydia infect gonorrhea transmit sexual,9
+628, transmit diseas sexual,4
+629,,1
+630,,1
+631, std transmit sexual infect,5
+632, transmit diseas sexual,4
+633, infect,2
+634,,0
 635,,1
 636,,1
-637,,1
-638,,0
-639, pain,2
-640, infect,2
-641, infect otiti ear media,5
-642,,1
-643, infect otiti ear media,5
+637,,0
+638,,1
+639,,1
+640,surgeri,1
+641,,0
+642,,0
+643,surgeri,1
 644,,0
-645,,1
-646,,1
-647,,1
+645,surgeri,1
+646,surgeri,1
+647, pain,2
 648,,0
-649, vomit,2
+649, medicin,2
 650,,1
-651,,0
+651, pain,2
 652,,1
-653,,1
+653, pain,2
 654,,1
-655,,1
-656,,0
-657,,0
+655, backach,2
+656,,1
+657,,1
 658,,0
-659,,0
+659,,1
 660,,0
-661, pain muscl cannabinoid panel spasm,6
-662,shoulder  muscl,3
-663, tendon pain,3
-664, shoulder pain,3
-665, pain,2
-666,,1
-667, surgeri,2
-668, surgeri,2
-669, surgeri,2
-670, surgeri,2
-671, remov surgeri,3
-672,,1
+661,,1
+662,,1
+663, dizzi,2
+664,,1
+665,,1
+666, sciatica pain back nerv,5
+667,,1
+668, sclerosi multipl,3
+669, sciatica pain back nerv,5
+670, pain back,3
+671,,0
+672, sciatica pain back nerv,5
 673,,1
-674, nerv,2
-675, peripher neuropathi,3
-676, neurolog,2
-677,,1
-678,,1
+674, pain back,3
+675,,0
+676,,1
+677, pain,2
+678,,0
 679,,1
-680,,1
+680,,0
 681,,1
-682,,1
-683,stress,1
-684,,0
-685,,0
-686,,0
+682, pelvic pain,3
+683, pain pelvic pregnanc healthi bleed,6
+684,,1
+685, pregnanc,2
+686, ovul,2
 687,,0
+688, ultrasound,2
+689,knee swell,2
+690,,0
+691,,0
+692,,0
+693,,0
+694,,0
+695,knee,1
+696,,0
+697,,0
+698,,0
+699,,0
+700,,0
+701,,0
+702,,0
+703,,1
+704,,1
+705,,1
+706,,0
+707,,1
+708,,1
+709,,1
+710,,0
+711, femal health,3
+712,,1
+713,,0
+714,,1
+715,,1
+716, femal fibroid,3

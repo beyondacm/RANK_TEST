@@ -1,688 +1,717 @@
-ophthalmolog
-podiatri
-podiatri
-allergi immunolog
-allergi immunolog
-ophthalmolog
-famili medicin
-ophthalmolog
-ophthalmolog
-ophthalmolog
-ophthalmolog
-dermatolog
-ophthalmolog
-obstetr gynecolog
 general practic
-obstetr gynecolog
-obstetr gynecolog
-obstetr gynecolog
-ophthalmolog
-dermatolog
-plastic surgeri
-famili medicin
-dermatolog
-dermatolog
-intern medicin
-diagnost radiolog
-patholog
-radiat oncolog
-diagnost radiolog
-obstetr gynecolog
-diagnost radiolog
-radiolog
-diagnost radiolog
-breast surgeri
-pediatr
-psychiatri
-psychiatri
-psychiatri
-psychiatri
-psychiatri
-psychiatri
-psychiatri
-general surgeri
-psychiatri
-intern medicin
-general surgeri
-intervent radiolog
-intern medicin
-emerg medicin
-famili medicin
-cardiolog
-patholog
-patholog
-intern medicin
-pediatr cardiolog
-cardiolog
-cardiolog
-famili medicin
-general surgeri
-cardiolog
-ent head neck surgeri
-neurolog
-pain manag
-pediatr
-famili medicin
-pediatr
-pain manag
-pain manag
-famili medicin
-orthoped surgeri
-rheumatolog
-orthoped surgeri
-general practic
-obstetr gynecolog
-allergi immunolog
-famili medicin
-rheumatolog
-hematolog
-dentistri
-hand surgeri
-intern medicin
-radiolog
-general practic
-gastroenterolog
-intern medicin
-neurosurgeri
-pain manag
-general surgeri
-neurolog
-orthoped surgeri
-intern medicin
-neurolog
-intern medicin
-pediatr
-intern medicin
-allergi immunolog
-general surgeri
-famili medicin
-intern medicin
-anesthesiolog
-urgent care
-orthoped surgeri
-podiatri
-rheumatolog
-rheumatolog
-famili medicin
-famili medicin
-famili medicin
-lasik surgeri
-dermatolog
-plastic surgeri
 urolog
-dermatolog
-dermatolog
-allergi immunolog
-famili medicin
-pediatr
-famili medicin
-cardiolog
-dentistri
-cardiac electrophysiolog
-cardiolog
-cardiolog
-famili medicin
-famili medicin
-obstetr gynecolog
-famili medicin
+pharmacolog
 obstetr gynecolog
 obstetr gynecolog
-pediatr gastroenterolog
-general surgeri
-general practic
-patholog
-general surgeri
-emerg medicin
-pain manag
-intern medicin
-ophthalmolog
-allergi immunolog
-obstetr gynecolog
-general surgeri
-obstetr gynecolog
-urolog
-pediatr
-famili medicin
-famili medicin
-intern medicin
-allergi immunolog
-general practic
-general surgeri
-cardiolog
-ophthalmolog
-general surgeri
-pediatr
-famili medicin
-intern medicin
-dentistri
-intern medicin
-intern medicin
-intern medicin
-famili medicin
-famili medicin
-obstetr gynecolog
-famili medicin
-fertil medicin
-pain manag
-oral maxillofaci surgeri
-dentistri
-oral maxillofaci surgeri
-oral maxillofaci surgeri
-dentistri
-dentistri
-pain manag
-dentistri
-dentistri
-obstetr gynecolog
-obstetr gynecolog
-obstetr gynecolog
-obstetr gynecolog
-intern medicin
-gastroenterolog
-pediatr gastroenterolog
-intern medicin
-medic oncolog
-patholog
-patholog
-patholog
-emerg medicin
-pain manag
-neurolog
-intern medicin
-cardiolog
-rheumatolog
-famili medicin
-famili medicin
-neurosurgeri
-radiolog
-obstetr gynecolog
-famili medicin
-hematolog oncolog
-famili medicin
-fertil medicin
-orthoped surgeri
-orthoped surgeri
-neurolog
-rheumatolog
-neurolog
-intern medicin
-obstetr gynecolog
-obstetr gynecolog
-gynecolog
-famili medicin
-psychiatri
-fertil medicin
-general surgeri
-intern medicin
-general surgeri
-pediatr
-pediatr
 podiatri
+podiatri
+podiatri
+intern medicin
 orthoped foot ankl surgeri
-wound care
-famili medicin
-oral maxillofaci surgeri
-wound care
+podiatri
+podiatri
 rheumatolog
-psychiatri
-endocrinolog
-physic medicin rehabilit
-intern medicin
-cardiolog
-general surgeri
-pediatr
-allergi immunolog
-psychiatri
-famili medicin
-pulmonolog
-famili medicin
-intern medicin
-allergi immunolog
-pediatr emerg medicin
-pain manag
-dentistri
-dentistri
-dentistri
-dentistri
-dentistri
-urgent care
-orthodont
-infecti diseas
-dentistri
-dentistri
-dentistri
-ent head neck surgeri
-infecti diseas
-cosmet dentistri
-dentistri
-anesthesiolog
-pain manag
-orthodont
-oral maxillofaci surgeri
-dentistri
-dentistri
-pain manag
-dentistri
-famili medicin
-dentistri
-endodont
-dentistri
-dentistri
-dentistri
-dentistri
-general surgeri
-general surgeri
-trauma surgeri
-gastroenterolog
-intern medicin
+medic oncolog
 colon rectal surgeri
-general surgeri
+colon rectal surgeri
+psychiatri
+nan
+colon rectal surgeri
+pediatr emerg medicin
 patholog
-rheumatolog
-cardiolog
 general surgeri
-wound care
-pain manag
-psychiatri
-dentistri
-allergi immunolog
-famili medicin
-intern medicin
-intern medicin
-psychiatri
-child psychiatri
-rheumatolog
-pharmacolog
-pain manag
-pain manag
-psychiatri
-intern medicin
-dentistri
-allergi immunolog
-ent head neck surgeri
-hospitalbas practic
-general practic
-intern medicin
-ent head neck surgeri
+general surgeri
 gastroenterolog
-obstetr gynecolog
-obstetr gynecolog
-obstetr gynecolog
-radiat oncolog
-patholog
-pediatr
-pain manag
-pulmonari critic care
-pulmonolog
-pediatr pulmonolog
-obstetr gynecolog
-cardiolog
-famili medicin
-pain manag
-podiatri
-orthoped spine surgeri
-intern medicin
-intern medicin
-ent head neck surgeri
-famili medicin
 hospitalbas practic
+trauma surgeri
+patholog
+colon rectal surgeri
+hematolog oncolog
+obstetr gynecolog
+general surgeri
 famili medicin
-medic oncolog
-intern medicin
-intern medicin
-famili medicin
-pediatr
-pediatr
-orthodont
-american board phlebolog
-ent head neck surgeri
-pediatr
-intern medicin
-famili medicin
+obstetr gynecolog
 emerg medicin
-intern medicin
 urolog
-obstetr gynecolog
-intern medicin
-intern medicin
-dentistri
-dentistri
-dentistri
-pain manag
-pediatr dentistri
-pain manag
-dentistri
-oral maxillofaci surgeri
-pediatr
-psychiatri
-patholog
-famili medicin
-pediatr
-general practic
-neurolog
-podiatri
-orthoped surgeri
-neurosurgeri
-general surgeri
-intern medicin
-obstetr gynecolog
-pharmacolog
-obstetr gynecolog
-obstetr gynecolog
-gynecolog
-adolesc medicin
-intern medicin
-psychiatri
-pediatr
-famili medicin
-famili medicin
-obstetr gynecolog
-famili medicin
-obstetr gynecolog
-obstetr gynecolog
-pediatr
-pediatr
-obstetr gynecolog
-famili medicin
-famili medicin
-fertil medicin
-famili medicin
-pediatr
-gynecolog
-dermatolog
-psychiatri
-general surgeri
-anesthesiolog
-neurosurgeri
-general practic
-holist medicin
-neurosurgeri
-diagnost radiolog
-famili medicin
-orthoped spine surgeri
-orthoped surgeri
-physic medicin rehabilit
-orthoped spine surgeri
-orthoped surgeri
-orthoped surgeri
-orthoped surgeri
-child psychiatri
-psychiatri
-psychiatri
-psychiatri
-psychiatri
-psychiatri
-psychiatri
-clinic psycholog
-fertil medicin
-obstetr gynecolog
-maternalfet medicin
-obstetr gynecolog
-fertil medicin
-fertil medicin
-obstetr gynecolog
-intern medicin
-obstetr gynecolog
-obstetr gynecolog
-famili medicin
-allergi immunolog
-pediatr pulmonolog
-lasik surgeri
-lasik surgeri
-ophthalmolog
-lasik surgeri
-allergi immunolog
-famili medicin
-obstetr gynecolog
-pediatr
-podiatri
-podiatri
-podiatri
-pediatr
-cardiolog
-psychiatri
-emerg medicin
-obstetr gynecolog
-pediatr
-wound care
-pain manag
-neurolog
-ophthalmolog
-intern medicin
-cosmet dentistri
-pain manag
-infecti diseas
-infecti diseas
-famili medicin
-famili medicin
-obstetr gynecolog
-patholog
-famili medicin
-intern medicin
-psychiatri
-urolog
-famili medicin
-podiatri
-podiatri
-podiatri
-famili medicin
-general surgeri
-famili medicin
-orthodont
-orthoped surgeri
-oral maxillofaci surgeri
-pediatr neurolog
-patholog
-famili medicin
-neurosurgeri
-neurosurgeri
-pediatr neurolog
-intern medicin
-medic oncolog
-hematolog
-infecti diseas
-famili medicin
 surgic oncolog
-cosmet dentistri
-dentistri
-dentistri
-dentistri
-ent head neck surgeri
-dentistri
-pediatr ent head neck surgeri
-pediatr dentistri
-dentistri
-psychiatri
-psychiatri
+radiolog
+infecti diseas
+nephrolog dialysi
+lasik surgeri
+ophthalmolog
+infecti diseas
 famili medicin
-pediatr allergi asthma
+famili medicin
+rheumatolog
+patholog
+medic oncolog
+hematolog oncolog
+general surgeri
+medic oncolog
+medic oncolog
+obstetr gynecolog
+hematolog oncolog
+plastic surgeri
+gynecolog
+patholog
+intern medicin
+obstetr gynecolog
+orthoped reconstruct surgeri
+podiatri
+orthoped surgeri
+podiatri
+orthoped surgeri
+orthoped surgeri
+pediatr urolog
+infecti diseas
+pediatr
+pediatr urolog
+dentistri
+gynecolog
+famili medicin
+patholog
+patholog
+patholog
+patholog
+general practic
+anesthesiolog
+patholog
+famili medicin
+obstetr gynecolog
+intervent radiolog
+general surgeri
+urolog
+fertil medicin
+obstetr gynecolog
+intern medicin
+podiatri
+general surgeri
+general surgeri
+addict medicin
+podiatri
+famili medicin
+general practic
+obstetr gynecolog
+podiatri
+podiatri
+allergi immunolog
+orthoped surgeri
+orthoped surgeri
+famili medicin
+general practic
+obstetr gynecolog
+nephrolog dialysi
+obstetr gynecolog
+rheumatolog
+holist medicin
+geriatr
+lasik surgeri
+lasik surgeri
+ophthalmolog
+pediatr
+retin surgeri
+pediatr
+lasik surgeri
+ophthalmolog
+ophthalmolog
+ophthalmolog
+ophthalmolog
+ophthalmolog
+lasik surgeri
+lasik surgeri
+famili medicin
+famili medicin
+obstetr gynecolog
+pediatr
+gynecolog
+obstetr gynecolog
+neurolog
+orthoped spine surgeri
+famili medicin
+ent head neck surgeri
+famili medicin
+physic medicin rehabilit
+pain manag
+dermatolog
+dermatolog
+allergi immunolog
+obstetr gynecolog
+allergi immunolog
+ophthalmolog
+ophthalmolog
+lasik surgeri
+ophthalmolog
+ophthalmolog
+ophthalmolog
+ophthalmolog
+ophthalmolog
+retin surgeri
+ophthalmolog
+ophthalmolog
+ophthalmolog
+ophthalmolog
+famili medicin
+dentistri
+allergi immunolog
+rheumatolog
+general surgeri
+cardiolog
+general practic
+cardiolog
+dentistri
+famili medicin
+intern medicin
+pediatr neurolog
+lasik surgeri
+allergi immunolog
+pediatr
+psychiatri
+pediatr
+hand surgeri
+pediatr
+orthoped surgeri
+intern medicin
+sport medicin
+famili medicin
+obstetr gynecolog
+obstetr gynecolog
+general practic
+psychiatri
+obstetr gynecolog
+dermatolog
+pediatr
 general practic
 pediatr
+dermatolog
+pediatr
+pediatr
 famili medicin
-intern medicin
-intern medicin
-psychiatri
-pediatr
-pediatr
-pediatr
-pediatr
+obstetr gynecolog
+obstetr gynecolog
+obstetr gynecolog
+fertil medicin
+obstetr gynecolog
+obstetr gynecolog
 famili medicin
 dentistri
-psychiatri
-psychiatri
-neurolog
-cardiac electrophysiolog
-psychiatri
-psychiatri
-ent head neck surgeri
-intern medicin
-intern medicin
-intern medicin
+infecti diseas
 pediatr
 famili medicin
 dermatolog
-allergi immunolog
-ent head neck surgeri
-allergi immunolog
-ophthalmolog
-allergi immunolog
-allergi immunolog
-allergi immunolog
-general surgeri
-gynecolog
-psychiatri
-general surgeri
+pediatr
+pediatr urolog
+pediatr
 intern medicin
-psychiatri
-pain manag
-oral maxillofaci surgeri
-dentistri
-oral maxillofaci surgeri
-dentistri
-oral maxillofaci surgeri
-pain manag
-oral maxillofaci surgeri
-oral maxillofaci surgeri
-famili medicin
-neurosurgeri
-infecti diseas
-pediatr
-urolog
-emerg medicin
-pediatr
-famili medicin
-orthoped surgeri
-orthoped surgeri
-neurosurgeri
-orthoped surgeri
-famili medicin
-pediatr nephrolog dialysi
-gynecolog
-urolog
-urogynecolog
-urogynecolog
-urolog
-patholog
-pediatr
-hospitalbas practic
-oral maxillofaci surgeri
-plastic surgeri
-pediatr
-ent head neck surgeri
-dentistri
-psychiatri
-emerg medicin
-pediatr
-travel medicin
-dentistri
-periodont
-famili medicin
 allergi immunolog
-pediatr
-pediatr
-pediatr
-pediatr
-pediatr
-pain manag
+allergi immunolog
+medic oncolog
+general surgeri
+hematolog oncolog
+general surgeri
+hematolog oncolog
+breast surgeri
+medic oncolog
+breast surgeri
+surgic oncolog
 obstetr gynecolog
-intern medicin
-neurolog
-pain manag
-neurosurgeri
-patholog
+oral maxillofaci surgeri
+cosmet dentistri
+sleep medicin
+anesthesiolog
+cardiolog
+rheumatolog
+psychiatri
+cosmet dentistri
+endocrinolog
+podiatri
 famili medicin
-intern medicin
-neurosurgeri
-famili medicin
-podiatri
-podiatri
-podiatri
-podiatri
-dentistri
-neurolog
-podiatri
-podiatri
 orthoped surgeri
-pediatr neurolog
-neurolog
-urgent care
+podiatri
+podiatri
+nan
+podiatri
+podiatri
+cardiolog
+american board phlebolog
+phlebolog
+podiatri
+podiatri
 intern medicin
-pain manag
-famili medicin
-famili medicin
-geriatr
-intern medicin
-holist medicin
+psychiatri
+psychiatri
+physic medicin rehabilit
 orthoped surgeri
+famili medicin
+ent head neck surgeri
 orthoped surgeri
+orthoped reconstruct surgeri
 orthoped surgeri
 orthoped surgeri
 orthoped reconstruct surgeri
-sport medicin
-orthoped surgeri
-general surgeri
-psychiatri
-plastic surgeri
-general surgeri
 physic medicin rehabilit
-nephrolog dialysi
-intern medicin
-patholog
-famili medicin
+general surgeri
+general practic
 gastroenterolog
-obstetr gynecolog
-emerg medicin
+intern medicin
+plastic surgeri
+dermatolog
 physic medicin rehabilit
-orthoped surgeri
-pain manag
+physic medicin rehabilit
 famili medicin
-podiatri
+neurolog
+cardiolog
+infecti diseas
+colon rectal surgeri
+surgic oncolog
+general surgeri
+infecti diseas
+radiolog
+radiolog
+medic oncolog
+general surgeri
+endocrinolog
+gynecolog
+obstetr gynecolog
+fertil medicin
+obstetr gynecolog
+obstetr gynecolog
+maternalfet medicin
+ophthalmolog
+pain manag
 dentistri
+famili medicin
+pediatr
+dermatolog
+famili medicin
+ophthalmolog
+ophthalmolog
+ophthalmolog
+ophthalmolog
+ophthalmolog
+ophthalmolog
+ophthalmolog
+ophthalmolog
+psychiatri
+pain manag
+ent head neck surgeri
+pulmonari critic care
+general practic
+allergi immunolog
+pediatr
+psychiatri
+intern medicin
+psychiatri
+allergi immunolog
+allergi immunolog
+intern medicin
+nan
+general practic
+pulmonari critic care
+allergi immunolog
+patholog
+hematolog oncolog
+endocrinolog
+ent head neck surgeri
+patholog
+endocrinolog
+ent head neck surgeri
+intervent radiolog
+breast surgeri
+endocrinolog
+podiatri
+podiatri
+famili medicin
+dermatolog
+ophthalmolog
+dermatolog
+podiatri
+pediatr
+obstetr gynecolog
+obstetr gynecolog
+obstetr gynecolog
+famili medicin
+obstetr gynecolog
+famili medicin
+famili medicin
+cardiolog
+intern medicin
+intern medicin
+endocrinolog
+endocrinolog
+famili medicin
+radiolog
+endocrinolog
+endocrinolog
+neurolog
+nan
+intern medicin
+infecti diseas
+pain manag
+pain manag
+gynecolog
+famili medicin
+intern medicin
+intern medicin
+general surgeri
+dermatolog
+obstetr gynecolog
+dermatolog
+infecti diseas
+infecti diseas
+infecti diseas
+adolesc medicin
+patholog
+endocrinolog
+general surgeri
+medic oncolog
+endocrinolog
+ent head neck surgeri
+intervent radiolog
+endocrinolog
+radiolog
+general practic
+general practic
+rheumatolog
+general practic
+general practic
+physic medicin rehabilit
+general practic
+pain manag
+orthoped surgeri
+orthoped surgeri
+anesthesiolog
+physic medicin rehabilit
+pain manag
+pain manag
+rheumatolog
+rheumatolog
+neurolog
+pediatr
+intern medicin
+addict medicin
+nan
+allergi immunolog
+general surgeri
+patholog
+hospitalbas practic
+intern medicin
+hospitalbas practic
+patholog
+intern medicin
 infecti diseas
 pediatr
-clinic psycholog
 pediatr
+intern medicin
+infecti diseas
+allergi immunolog
+famili medicin
+endocrinolog
+nan
+neurolog
+cardiolog
+surgic oncolog
+pediatr
+radiat oncolog
+breast surgeri
+medic oncolog
+general surgeri
+intern medicin
+dermatolog
+pediatr
+geriatr
+psychiatri
+dermatolog
+infecti diseas
+ent head neck surgeri
+ent head neck surgeri
+ent head neck surgeri
+orthoped surgeri
+famili medicin
+rheumatolog
+orthoped surgeri
+phlebolog
+intern medicin
+general surgeri
+infecti diseas
+pediatr urolog
+ophthalmolog
+patholog
+patholog
+general surgeri
+breast surgeri
+surgic oncolog
+radiat oncolog
+hematolog oncolog
+emerg medicin
+surgic oncolog
+hematolog oncolog
+general surgeri
+infecti diseas
+plastic surgeri
+urolog
+intern medicin
+famili medicin
+obstetr gynecolog
+famili medicin
+obstetr gynecolog
+gynecolog
+obstetr gynecolog
+intern medicin
+orthoped surgeri
+general surgeri
+intern medicin
+famili medicin
+addict medicin
+development behavior pediatr
+ent head neck surgeri
+pediatr
+pediatr
+geriatr
+cardiolog
+pediatr cardiolog
+famili medicin
+pediatr
+pediatr cardiolog
+cardiolog
+famili medicin
+clinic psycholog
+infecti diseas
+psychiatri
+obstetr gynecolog
+pediatr
+rheumatolog
+clinic psycholog
+intern medicin
+intern medicin
+intern medicin
+neurosurgeri
+intern medicin
+famili medicin
+pediatr
+pediatr pulmonolog
+pulmonari critic care
+pediatr pulmonolog
 pediatr
 famili medicin
-oral maxillofaci surgeri
+endocrinolog
+podiatri
+rheumatolog
+orthoped foot ankl surgeri
+orthoped surgeri
+famili medicin
+general surgeri
+rheumatolog
+general surgeri
+pediatr
+pain manag
+pain manag
+patholog
+general surgeri
 gastroenterolog
 famili medicin
-pediatr
-intern medicin
-intern medicin
+general surgeri
+ophthalmolog
+gastroenterolog
+famili medicin
+famili medicin
+obstetr gynecolog
+famili medicin
+general surgeri
+nan
 urolog
-pediatr
-psychiatri
-general practic
-obstetr gynecolog
-diagnost radiolog
-podiatri
+general surgeri
+famili medicin
+famili medicin
 intern medicin
-psychiatri
-general practic
-orthoped surgeri
-orthoped surgeri
-orthoped surgeri
-pain manag
 intern medicin
-general practic
-bariatr
+intern medicin
 ent head neck surgeri
-general surgeri
-plastic surgeri
-general surgeri
-rheumatolog
-neurosurgeri
-podiatri
-radiolog
-podiatri
-physic medicin rehabilit
-rheumatolog
-rheumatolog
+dentistri
+ent head neck surgeri
+oral maxillofaci surgeri
+pediatr
+patholog
+patholog
+pediatr
+famili medicin
+obstetr gynecolog
+cardiolog
+phlebolog
+cardiolog
 hematolog oncolog
+vascular surgeri
+dentistri
+facial plastic surgeri
+allergi immunolog
+famili medicin
+infecti diseas
+geriatr
+obstetr gynecolog
+famili medicin
+obstetr gynecolog
+radiolog
+clinic psycholog
+clinic psycholog
+famili medicin
+psychiatri
+famili medicin
+clinic psycholog
+adhd autism
+psychiatri
+cardiolog
+clinic psycholog
+gastroenterolog
+ophthalmolog
+infecti diseas
+cardiolog
+pediatr neurolog
 rheumatolog
+allergi immunolog
+pediatr
+famili medicin
+intern medicin
+orthodont
+pediatr urolog
+podiatri
+trauma surgeri
+nan
+clinic psycholog
+orthoped surgeri
+podiatri
+general surgeri
+intervent radiolog
+dermatolog
+oral maxillofaci surgeri
+intern medicin
+famili medicin
+urgent care
+pediatr
+psychiatri
+infecti diseas
+general practic
+clinic psycholog
+pediatr
+pain manag
+obstetr gynecolog
+famili medicin
+pediatr
+emerg medicin
+urolog
+general surgeri
+rheumatolog
+rheumatolog
+infecti diseas
+hematolog oncolog
+nephrolog dialysi
+patholog
+dermatolog
+fertil medicin
+obstetr gynecolog
+gynecolog
+urgent care
+famili medicin
+famili medicin
+patholog
+intern medicin
+intern medicin
+trauma surgeri
+sleep medicin
+general surgeri
+psychiatri
+anesthesiolog
+psychiatri
+psychiatri
+hospitalbas practic
+clinic psycholog
+nan
+intern medicin
+infecti diseas
+obstetr gynecolog
+urolog
+urolog
+general practic
+obstetr gynecolog
+urolog
+intern medicin
+ophthalmolog
+ophthalmolog
+intern medicin
+lasik surgeri
+dermatolog
+orthoped surgeri
+famili medicin
+orthoped surgeri
+podiatri
+famili medicin
+orthoped surgeri
+podiatri
+obstetr gynecolog
+nan
+intern medicin
+neurolog
+dentistri
+dentistri
+anesthesiolog
 psychiatri
 intern medicin
-obstetr gynecolog
 pediatr
+orthoped surgeri
+intern medicin
 fertil medicin
+fertil medicin
+ophthalmolog
+gynecolog
+neurolog
+famili medicin
+ophthalmolog
+pain manag
+orthoped surgeri
+neurolog
+pain manag
+anesthesiolog
+famili medicin
+pain manag
+rheumatolog
+intern medicin
+nan
+general surgeri
+obstetr gynecolog
+famili medicin
+wound care
+intern medicin
+obstetr gynecolog
+obstetr gynecolog
+obstetr gynecolog
+gynecolog
+obstetr gynecolog
+obstetr gynecolog
+emerg medicin
+radiolog
+orthoped surgeri
+podiatri
+orthoped foot ankl surgeri
+podiatri
+podiatri
+pediatr
+orthoped surgeri
+anesthesiolog
+rheumatolog
+orthoped foot ankl surgeri
+podiatri
+podiatri
+podiatri
+orthoped surgeri
+general surgeri
+pediatr
+hospitalbas practic
+cardiolog
+cardiolog
+general surgeri
+pediatr
+obstetr gynecolog
+famili medicin
+gynecolog
+nan
+hematolog oncolog
+obstetr gynecolog
+obstetr gynecolog

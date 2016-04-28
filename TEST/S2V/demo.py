@@ -21,8 +21,8 @@ logging.info("running %s" % " ".join(sys.argv))
 # model.save(input_file + '.model')
 # model.save_word2vec_format(input_file + '.vec')
 
-sent_file = 'TEST_LDA_SOURCE.txt'
-model = Sent2Vec(LineSentence(sent_file), model_file='S2V.model')
+sent_file = '/Users/gaozhipeng/ML/RANK_TEST/TEST/S2V/TEST_S2V_SOURCE.txt'
+model = Sent2Vec(LineSentence(sent_file), model_file='/Users/gaozhipeng/ML/RANK_TEST/TEST/S2V/S2V.model')
 model.save_sent2vec_format(sent_file + '.vec')
 
 program = os.path.basename(sys.argv[0])
