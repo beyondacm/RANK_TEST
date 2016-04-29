@@ -3,6 +3,12 @@ urolog
 pharmacolog
 obstetr gynecolog
 obstetr gynecolog
+obstetr gynecolog
+patholog
+psychiatri
+intern medicin
+rheumatolog
+obstetr gynecolog
 podiatri
 podiatri
 podiatri
@@ -11,6 +17,12 @@ orthoped foot ankl surgeri
 podiatri
 podiatri
 rheumatolog
+famili medicin
+orthoped surgeri
+intern medicin
+podiatri
+orthoped surgeri
+emerg medicin
 medic oncolog
 colon rectal surgeri
 colon rectal surgeri
@@ -27,6 +39,12 @@ trauma surgeri
 patholog
 colon rectal surgeri
 hematolog oncolog
+patholog
+colon rectal surgeri
+intern medicin
+colon rectal surgeri
+famili medicin
+hematolog oncolog
 obstetr gynecolog
 general surgeri
 famili medicin
@@ -37,12 +55,26 @@ surgic oncolog
 radiolog
 infecti diseas
 nephrolog dialysi
+obstetr gynecolog
+hematolog oncolog
+gastroenterolog
+plastic surgeri
+hematolog oncolog
+obstetr gynecolog
+cardiolog
+gynecolog oncolog
 lasik surgeri
 ophthalmolog
 infecti diseas
 famili medicin
 famili medicin
 rheumatolog
+pediatr
+allergi immunolog
+pediatr pulmonolog
+urgent care
+emerg medicin
+cardiolog
 patholog
 medic oncolog
 hematolog oncolog
@@ -51,17 +83,39 @@ medic oncolog
 medic oncolog
 obstetr gynecolog
 hematolog oncolog
+gynecolog
+hematolog oncolog
+medic oncolog
+general surgeri
+general surgeri
+general surgeri
+general surgeri
+hematolog oncolog
+hematolog oncolog
+hematolog oncolog
+addict medicin
 plastic surgeri
 gynecolog
 patholog
 intern medicin
 obstetr gynecolog
+obstetr gynecolog
+obstetr gynecolog
+obstetr gynecolog
+obstetr gynecolog
+psychiatri
 orthoped reconstruct surgeri
 podiatri
 orthoped surgeri
 podiatri
 orthoped surgeri
 orthoped surgeri
+orthoped surgeri
+hand surgeri
+orthoped surgeri
+orthoped surgeri
+podiatri
+podiatri
 pediatr urolog
 infecti diseas
 pediatr
@@ -69,6 +123,11 @@ pediatr urolog
 dentistri
 gynecolog
 famili medicin
+intervent radiolog
+infecti diseas
+infecti diseas
+intern medicin
+infecti diseas
 patholog
 patholog
 patholog
@@ -76,6 +135,12 @@ patholog
 general practic
 anesthesiolog
 patholog
+general practic
+gastroenterolog
+famili medicin
+patholog
+gastroenterolog
+intern medicin
 famili medicin
 obstetr gynecolog
 intervent radiolog
@@ -83,6 +148,12 @@ general surgeri
 urolog
 fertil medicin
 obstetr gynecolog
+famili medicin
+intern medicin
+famili medicin
+famili medicin
+pediatr urolog
+infecti diseas
 intern medicin
 podiatri
 general surgeri
@@ -92,6 +163,17 @@ podiatri
 famili medicin
 general practic
 obstetr gynecolog
+infecti diseas
+general surgeri
+famili medicin
+general surgeri
+famili medicin
+intern medicin
+famili medicin
+famili medicin
+pediatr
+dentistri
+pediatr
 podiatri
 podiatri
 allergi immunolog
@@ -99,18 +181,38 @@ orthoped surgeri
 orthoped surgeri
 famili medicin
 general practic
+podiatri
+famili medicin
+podiatri
+pediatr
+infecti diseas
+pediatr
+famili medicin
 obstetr gynecolog
 nephrolog dialysi
 obstetr gynecolog
 rheumatolog
 holist medicin
 geriatr
+urolog
+famili medicin
+pediatr
+pediatr urolog
+urogynecolog
+famili medicin
+famili medicin
 lasik surgeri
 lasik surgeri
 ophthalmolog
 pediatr
 retin surgeri
 pediatr
+anesthesiolog
+pediatr
+adhd autism
+famili medicin
+ophthalmolog
+ophthalmolog
 lasik surgeri
 ophthalmolog
 ophthalmolog
@@ -118,12 +220,28 @@ ophthalmolog
 ophthalmolog
 ophthalmolog
 lasik surgeri
+lasik surgeri
+lasik surgeri
+ophthalmolog
+lasik surgeri
+lasik surgeri
+ophthalmolog
+lasik surgeri
+ophthalmolog
+lasik surgeri
+ophthalmolog
+ophthalmolog
 lasik surgeri
 famili medicin
 famili medicin
 obstetr gynecolog
 pediatr
 gynecolog
+obstetr gynecolog
+emerg medicin
+obstetr gynecolog
+famili medicin
+obstetr gynecolog
 obstetr gynecolog
 neurolog
 orthoped spine surgeri
@@ -132,11 +250,24 @@ ent head neck surgeri
 famili medicin
 physic medicin rehabilit
 pain manag
+rheumatolog
+famili medicin
+allergi immunolog
+clinic psycholog
+general surgeri
+gastroenterolog
+pain manag
 dermatolog
 dermatolog
 allergi immunolog
 obstetr gynecolog
 allergi immunolog
+general practic
+rheumatolog
+pediatr
+pediatr
+famili medicin
+pediatr
 ophthalmolog
 ophthalmolog
 lasik surgeri
@@ -150,6 +281,14 @@ ophthalmolog
 ophthalmolog
 ophthalmolog
 ophthalmolog
+ophthalmolog
+famili medicin
+general surgeri
+cardiolog
+orthoped surgeri
+anesthesiolog
+retin surgeri
+pediatr neurolog
 famili medicin
 dentistri
 allergi immunolog
@@ -161,23 +300,49 @@ cardiolog
 dentistri
 famili medicin
 intern medicin
+clinic psycholog
+intern medicin
+pulmonari critic care
+clinic psycholog
+intern medicin
+cardiolog
+retin surgeri
 pediatr neurolog
 lasik surgeri
 allergi immunolog
 pediatr
 psychiatri
 pediatr
+urolog
+pediatr
+neurolog
+famili medicin
+nephrolog dialysi
+pediatr neurolog
+famili medicin
 hand surgeri
 pediatr
 orthoped surgeri
 intern medicin
 sport medicin
 famili medicin
+famili medicin
+pediatr
+neurolog
+orthoped surgeri
+intern medicin
+famili medicin
+famili medicin
 obstetr gynecolog
 obstetr gynecolog
 general practic
 psychiatri
 obstetr gynecolog
+gynecolog
+pharmacolog
+psychiatri
+medic oncolog
+obstetr gynecolog
 dermatolog
 pediatr
 general practic
@@ -185,6 +350,11 @@ pediatr
 dermatolog
 pediatr
 pediatr
+pediatr
+pediatr
+pediatr
+pediatr
+dermatolog
 famili medicin
 obstetr gynecolog
 obstetr gynecolog
@@ -192,18 +362,45 @@ obstetr gynecolog
 fertil medicin
 obstetr gynecolog
 obstetr gynecolog
+obstetr gynecolog
+gynecolog
+urogynecolog
+obstetr gynecolog
+obstetr gynecolog
+famili medicin
+geriatr
+obstetr gynecolog
+fertil medicin
+gynecolog
+nan
 famili medicin
 dentistri
 infecti diseas
 pediatr
 famili medicin
 dermatolog
+dermatolog
+emerg medicin
+endocrinolog
+gynecolog
+patholog
+urolog
 pediatr
 pediatr urolog
 pediatr
 intern medicin
 allergi immunolog
 allergi immunolog
+rheumatolog
+podiatri
+intern medicin
+dermatolog
+dermatolog
+pediatr nephrolog dialysi
+famili medicin
+infecti diseas
+pediatr
+dermatolog
 medic oncolog
 general surgeri
 hematolog oncolog
@@ -214,6 +411,14 @@ medic oncolog
 breast surgeri
 surgic oncolog
 obstetr gynecolog
+radiat oncolog
+pediatr
+breast surgeri
+general surgeri
+breast surgeri
+surgic oncolog
+breast surgeri
+surgic oncolog
 oral maxillofaci surgeri
 cosmet dentistri
 sleep medicin
@@ -223,6 +428,13 @@ rheumatolog
 psychiatri
 cosmet dentistri
 endocrinolog
+pain manag
+general practic
+development behavior pediatr
+intern medicin
+cosmet dentistri
+dentistri
+cardiolog
 podiatri
 famili medicin
 orthoped surgeri
@@ -231,6 +443,14 @@ podiatri
 nan
 podiatri
 podiatri
+plastic surgeri
+sport medicin
+hand surgeri
+podiatri
+orthoped surgeri
+podiatri
+podiatri
+intern medicin
 cardiolog
 american board phlebolog
 phlebolog
@@ -239,6 +459,13 @@ podiatri
 intern medicin
 psychiatri
 psychiatri
+american board phlebolog
+psychiatri
+general surgeri
+phlebolog
+intern medicin
+orthoped surgeri
+infecti diseas
 physic medicin rehabilit
 orthoped surgeri
 famili medicin
@@ -250,17 +477,41 @@ orthoped surgeri
 orthoped reconstruct surgeri
 physic medicin rehabilit
 general surgeri
+orthoped reconstruct surgeri
+orthoped reconstruct surgeri
+sport medicin
+sport medicin
+sport medicin
+orthoped surgeri
+podiatri
+general surgeri
 general practic
 gastroenterolog
 intern medicin
 plastic surgeri
 dermatolog
+gastroenterolog
+nutrit
+emerg medicin
+general surgeri
+gastroenterolog
 physic medicin rehabilit
 physic medicin rehabilit
 famili medicin
 neurolog
 cardiolog
 infecti diseas
+famili medicin
+famili medicin
+famili medicin
+radiolog
+pain manag
+famili medicin
+intern medicin
+urolog
+radiolog
+urolog
+intern medicin
 colon rectal surgeri
 surgic oncolog
 general surgeri
@@ -269,6 +520,14 @@ radiolog
 radiolog
 medic oncolog
 general surgeri
+hematolog oncolog
+bariatr
+radiolog
+patholog
+general surgeri
+aesthet medicin
+emerg medicin
+famili medicin
 endocrinolog
 gynecolog
 obstetr gynecolog
@@ -276,6 +535,12 @@ fertil medicin
 obstetr gynecolog
 obstetr gynecolog
 maternalfet medicin
+emerg medicin
+adolesc medicin
+maternalfet medicin
+obstetr gynecolog
+famili medicin
+fertil medicin
 ophthalmolog
 pain manag
 dentistri
@@ -283,6 +548,12 @@ famili medicin
 pediatr
 dermatolog
 famili medicin
+ent head neck surgeri
+ent head neck surgeri
+dentistri
+intern medicin
+neurolog
+famili medicin
 ophthalmolog
 ophthalmolog
 ophthalmolog
@@ -291,6 +562,11 @@ ophthalmolog
 ophthalmolog
 ophthalmolog
 ophthalmolog
+ophthalmolog
+ophthalmolog
+ophthalmolog
+ophthalmolog
+famili medicin
 psychiatri
 pain manag
 ent head neck surgeri
@@ -301,6 +577,15 @@ pediatr
 psychiatri
 intern medicin
 psychiatri
+neurolog
+ent head neck surgeri
+emerg medicin
+psychiatri
+general practic
+clinic psycholog
+neurolog
+cardiolog
+famili medicin
 allergi immunolog
 allergi immunolog
 intern medicin
@@ -308,6 +593,12 @@ nan
 general practic
 pulmonari critic care
 allergi immunolog
+intern medicin
+allergi immunolog
+allergi immunolog
+allergi immunolog
+pulmonari critic care
+orthodont
 patholog
 hematolog oncolog
 endocrinolog
@@ -318,6 +609,13 @@ ent head neck surgeri
 intervent radiolog
 breast surgeri
 endocrinolog
+endocrinolog
+endocrinolog
+patholog
+patholog
+medic oncolog
+plastic surgeri
+endocrinolog
 podiatri
 podiatri
 famili medicin
@@ -326,10 +624,21 @@ ophthalmolog
 dermatolog
 podiatri
 pediatr
+allergi immunolog
+ent head neck surgeri
+pediatr emerg medicin
+dermatolog
+intern medicin
 obstetr gynecolog
 obstetr gynecolog
 obstetr gynecolog
 famili medicin
+obstetr gynecolog
+psychiatri
+pediatr urolog
+obstetr gynecolog
+obstetr gynecolog
+obstetr gynecolog
 obstetr gynecolog
 famili medicin
 famili medicin
@@ -342,12 +651,24 @@ famili medicin
 radiolog
 endocrinolog
 endocrinolog
+intern medicin
+endocrinolog
+hospitalbas practic
+pediatr endocrinolog
+podiatri
+patholog
 neurolog
 nan
 intern medicin
 infecti diseas
 pain manag
 pain manag
+pain manag
+dentistri
+pain manag
+intern medicin
+neurolog
+ent head neck surgeri
 gynecolog
 famili medicin
 intern medicin
@@ -355,11 +676,26 @@ intern medicin
 general surgeri
 dermatolog
 obstetr gynecolog
+infecti diseas
+adolesc medicin
+gynecolog
+dermatolog
+obstetr gynecolog
+gynecolog
+infecti diseas
 dermatolog
 infecti diseas
 infecti diseas
 infecti diseas
 adolesc medicin
+allergi immunolog
+pediatr
+periodont
+cosmet dentistri
+dermatolog
+dermatolog
+pediatr
+dermatolog
 patholog
 endocrinolog
 general surgeri
@@ -369,6 +705,15 @@ ent head neck surgeri
 intervent radiolog
 endocrinolog
 radiolog
+endocrinolog
+ent head neck surgeri
+general surgeri
+breast surgeri
+surgic oncolog
+endocrinolog
+general surgeri
+patholog
+famili medicin
 general practic
 general practic
 rheumatolog
@@ -376,6 +721,14 @@ general practic
 general practic
 physic medicin rehabilit
 general practic
+cardiolog
+psychiatri
+psychiatri
+intern medicin
+cardiolog
+orthoped surgeri
+general practic
+gynecolog
 pain manag
 orthoped surgeri
 orthoped surgeri
@@ -386,29 +739,67 @@ pain manag
 rheumatolog
 rheumatolog
 neurolog
+rheumatolog
+addict medicin
+pain manag
+orthoped surgeri
+orthoped surgeri
+orthoped surgeri
+anesthesiolog
+physic medicin rehabilit
 pediatr
 intern medicin
 addict medicin
 nan
 allergi immunolog
 general surgeri
+integr medicin
+intern medicin pediatr
+ophthalmolog
+ophthalmolog
+allergi immunolog
+allergi immunolog
+pediatr
 patholog
 hospitalbas practic
 intern medicin
 hospitalbas practic
 patholog
 intern medicin
+rheumatolog
+sleep medicin
+pharmacolog
+hematolog oncolog
+hematolog oncolog
+patholog
+famili medicin
+endocrinolog
+infecti diseas
+pediatr
+pain manag
 infecti diseas
 pediatr
 pediatr
 intern medicin
 infecti diseas
 allergi immunolog
+intern medicin
+famili medicin
+pulmonari critic care
+famili medicin
+plastic surgeri
+pediatr
+pediatr
 famili medicin
 endocrinolog
 nan
 neurolog
 cardiolog
+neurolog
+ent head neck surgeri
+pediatr neurolog
+rheumatolog
+famili medicin
 surgic oncolog
 pediatr
 radiat oncolog
@@ -417,6 +808,13 @@ medic oncolog
 general surgeri
 intern medicin
 dermatolog
+patholog
+radiat oncolog
+radiat oncolog
+famili medicin
+radiolog
+medic oncolog
+pediatr
 pediatr
 geriatr
 psychiatri
@@ -425,18 +823,38 @@ infecti diseas
 ent head neck surgeri
 ent head neck surgeri
 ent head neck surgeri
+intern medicin
+pediatr
+pediatr ent head neck surgeri
+pediatr
+allergi immunolog
+famili medicin
+famili medicin
 orthoped surgeri
 famili medicin
 rheumatolog
 orthoped surgeri
 phlebolog
 intern medicin
+cardiolog
+physic medicin rehabilit
+famili medicin
+podiatri
+wound care
+phlebolog
+vascular surgeri
 general surgeri
 infecti diseas
 pediatr urolog
 ophthalmolog
 patholog
 patholog
+general practic
+intern medicin
+pediatr nephrolog dialysi
+pediatr urolog
+gastroenterolog
+dermatolog
 general surgeri
 breast surgeri
 surgic oncolog
@@ -446,27 +864,64 @@ emerg medicin
 surgic oncolog
 hematolog oncolog
 general surgeri
+patholog
+pulmonolog
+radiat oncolog
+pediatr
+general surgeri
+patholog
+pediatr
+hematolog oncolog
+breast surgeri
 infecti diseas
 plastic surgeri
 urolog
 intern medicin
 famili medicin
+pediatr
+infecti diseas
+famili medicin
+infecti diseas
+famili medicin
+neurolog
+infecti diseas
+infecti diseas
+obstetr gynecolog
 obstetr gynecolog
 famili medicin
 obstetr gynecolog
 gynecolog
 obstetr gynecolog
+obstetr gynecolog
+obstetr gynecolog
+psychiatri
+fertil medicin
+gynecolog
+urgent care
 intern medicin
 orthoped surgeri
 general surgeri
 intern medicin
 famili medicin
+obstetr gynecolog
+general surgeri
+general surgeri
+famili medicin
+addict medicin
+dermatolog
 addict medicin
 development behavior pediatr
 ent head neck surgeri
 pediatr
 pediatr
 geriatr
+ent head neck surgeri
+infecti diseas
+pediatr
+pediatr
+infecti diseas
+pediatr
+facial plastic surgeri
 cardiolog
 pediatr cardiolog
 famili medicin
@@ -474,11 +929,22 @@ pediatr
 pediatr cardiolog
 cardiolog
 famili medicin
+ophthalmolog
+cardiac electrophysiolog
+emerg medicin
+famili medicin
+famili medicin
+obstetr gynecolog
 clinic psycholog
 infecti diseas
 psychiatri
 obstetr gynecolog
 pediatr
+rheumatolog
+general practic
+obstetr gynecolog
+famili medicin
+fertil medicin
 rheumatolog
 clinic psycholog
 intern medicin
@@ -488,11 +954,27 @@ neurosurgeri
 intern medicin
 famili medicin
 pediatr
+anesthesiolog
+orthoped surgeri
+neurolog
+clinic psycholog
+famili medicin
+intern medicin
+intern medicin
+pediatr
+intern medicin
 pediatr pulmonolog
 pulmonari critic care
 pediatr pulmonolog
 pediatr
 famili medicin
+pulmonari critic care
+famili medicin
+pediatr
+general practic
+ent head neck surgeri
+pediatr
+pediatr
 endocrinolog
 podiatri
 rheumatolog
@@ -501,6 +983,13 @@ orthoped surgeri
 famili medicin
 general surgeri
 rheumatolog
+cardiolog
+pain manag
+podiatri
+rheumatolog
+famili medicin
+podiatri
+podiatri
 general surgeri
 pediatr
 pain manag
@@ -508,6 +997,13 @@ pain manag
 patholog
 general surgeri
 gastroenterolog
+intern medicin
+pediatr
+gastroenterolog
+general surgeri
+ophthalmolog
+allergi immunolog
+diagnost radiolog
 famili medicin
 general surgeri
 ophthalmolog
@@ -515,6 +1011,13 @@ gastroenterolog
 famili medicin
 famili medicin
 obstetr gynecolog
+cardiolog
+plastic surgeri
+plastic surgeri
+plastic surgeri
+psychiatri
+dentistri
+trauma surgeri
 famili medicin
 general surgeri
 nan
@@ -523,33 +1026,69 @@ general surgeri
 famili medicin
 famili medicin
 intern medicin
+general surgeri
+general surgeri
+pulmonari critic care
+hematolog oncolog
+gastroenterolog
+intern medicin
 intern medicin
 intern medicin
 ent head neck surgeri
 dentistri
 ent head neck surgeri
 oral maxillofaci surgeri
+medic oncolog
+dentistri
+infecti diseas
+infecti diseas
+ent head neck surgeri
+famili medicin
+intern medicin
 pediatr
 patholog
 patholog
 pediatr
 famili medicin
 obstetr gynecolog
+adolesc medicin
+famili medicin
+fertil medicin
+clinic psycholog
+patholog
 cardiolog
 phlebolog
 cardiolog
 hematolog oncolog
 vascular surgeri
+pain manag
+american board phlebolog
+general surgeri
+famili medicin
+general surgeri
+vascular surgeri
+intervent radiolog
 dentistri
 facial plastic surgeri
 allergi immunolog
 famili medicin
 infecti diseas
+ent head neck surgeri
+pediatr pulmonolog
+intern medicin
+allergi immunolog
+pediatr
 geriatr
 obstetr gynecolog
 famili medicin
 obstetr gynecolog
 radiolog
+famili medicin
+famili medicin
+plastic surgeri
+famili medicin
+psychiatri
+patholog
 clinic psycholog
 clinic psycholog
 famili medicin
@@ -560,18 +1099,40 @@ adhd autism
 psychiatri
 cardiolog
 clinic psycholog
+clinic psycholog
+pediatr cardiolog
+cardiolog
+psychiatri
+intern medicin
+famili medicin
+child psychiatri
+thorac surgeri
+cardiolog
 gastroenterolog
 ophthalmolog
 infecti diseas
 cardiolog
 pediatr neurolog
 rheumatolog
+nan
+general surgeri
+general surgeri
+gastroenterolog
+pediatr
 allergi immunolog
 pediatr
 famili medicin
 intern medicin
 orthodont
 pediatr urolog
+patholog
+pediatr
+rheumatolog
+allergi immunolog
+dermatolog
+patholog
+dermatolog
+urgent care
 podiatri
 trauma surgeri
 nan
@@ -580,40 +1141,90 @@ orthoped surgeri
 podiatri
 general surgeri
 intervent radiolog
+intern medicin
+physic medicin rehabilit
+clinic psycholog
+psychiatri
+ophthalmolog
+intern medicin
 dermatolog
 oral maxillofaci surgeri
 intern medicin
 famili medicin
 urgent care
 pediatr
+dentistri
+dentistri
+pediatr nephrolog dialysi
+obstetr gynecolog
+intern medicin
+famili medicin
+famili medicin
 psychiatri
 infecti diseas
 general practic
 clinic psycholog
 pediatr
 pain manag
+intern medicin
+cardiolog
+neurosurgeri
+pediatr neurolog
+famili medicin
+psychiatri
+neurolog
+neurolog
+nan
 obstetr gynecolog
 famili medicin
 pediatr
 emerg medicin
 urolog
+obstetr gynecolog
+intern medicin
+famili medicin
+dermatolog
+obstetr gynecolog
+intern medicin
+obstetr gynecolog
 general surgeri
 rheumatolog
 rheumatolog
 infecti diseas
 hematolog oncolog
+neurolog
+radiolog
+famili medicin
+intern medicin
+pediatr dentistri
+intern medicin
+famili medicin
+intern medicin
 nephrolog dialysi
 patholog
 dermatolog
 fertil medicin
 obstetr gynecolog
 gynecolog
+intern medicin
+patholog
+obstetr gynecolog
+obstetr gynecolog
+obstetr gynecolog
+patholog
 urgent care
 famili medicin
 famili medicin
 patholog
 intern medicin
 intern medicin
+pediatr urolog
+urolog
+urogynecolog
+obstetr gynecolog
+holist medicin
+intern medicin
+famili medicin
 trauma surgeri
 sleep medicin
 general surgeri
@@ -625,6 +1236,14 @@ hospitalbas practic
 clinic psycholog
 nan
 intern medicin
+intern medicin
+clinic psycholog
+addict medicin
+addict medicin
+pediatr cardiolog
+intern medicin
+thorac surgeri
+psychiatri
 infecti diseas
 obstetr gynecolog
 urolog
@@ -632,12 +1251,25 @@ urolog
 general practic
 obstetr gynecolog
 urolog
+infecti diseas
+urolog
+nan
+gynecolog
+obstetr gynecolog
+pediatr
+gynecolog
 intern medicin
 ophthalmolog
 ophthalmolog
 intern medicin
 lasik surgeri
 dermatolog
+lasik surgeri
+famili medicin
+ophthalmolog
+ophthalmolog
+geriatr
+intern medicin
 orthoped surgeri
 famili medicin
 orthoped surgeri
@@ -645,6 +1277,11 @@ podiatri
 famili medicin
 orthoped surgeri
 podiatri
+orthoped spine surgeri
+obstetr gynecolog
+ent head neck surgeri
+ophthalmolog
+intern medicin
 obstetr gynecolog
 nan
 intern medicin
@@ -653,17 +1290,35 @@ dentistri
 dentistri
 anesthesiolog
 psychiatri
+obstetr gynecolog
+general surgeri
+clinic psycholog
+general surgeri
+colon rectal surgeri
+famili medicin
+intern medicin
 intern medicin
 pediatr
 orthoped surgeri
 intern medicin
 fertil medicin
 fertil medicin
+orthoped spine surgeri
+obstetr gynecolog
+ent head neck surgeri
+urgent care
+orthoped surgeri
+famili medicin
 ophthalmolog
 gynecolog
 neurolog
 famili medicin
 ophthalmolog
+cardiolog
+ophthalmolog
+ophthalmolog
+neurolog
+cardiolog
 pain manag
 orthoped surgeri
 neurolog
@@ -674,12 +1329,26 @@ pain manag
 rheumatolog
 intern medicin
 nan
+intern medicin
+pain manag
+pain manag
+neurolog
+pain manag
+pediatr
+physic medicin rehabilit
 general surgeri
 obstetr gynecolog
 famili medicin
 wound care
 intern medicin
 obstetr gynecolog
+famili medicin
+cardiolog
+urolog
+infecti diseas
+infecti diseas
+famili medicin
+infecti diseas
 obstetr gynecolog
 obstetr gynecolog
 gynecolog
@@ -687,6 +1356,12 @@ obstetr gynecolog
 obstetr gynecolog
 emerg medicin
 radiolog
+obstetr gynecolog
+obstetr gynecolog
+obstetr gynecolog
+obstetr gynecolog
+emerg medicin
+obstetr gynecolog
 orthoped surgeri
 podiatri
 orthoped foot ankl surgeri
@@ -701,6 +1376,14 @@ podiatri
 podiatri
 podiatri
 orthoped surgeri
+orthoped surgeri
+podiatri
+sport medicin
+rheumatolog
+rheumatolog
+orthoped surgeri
+emerg medicin
+pediatr
 general surgeri
 pediatr
 hospitalbas practic
@@ -708,10 +1391,27 @@ cardiolog
 cardiolog
 general surgeri
 pediatr
+thorac surgeri
+cardiolog
+pediatr cardiolog
+cardiolog
+general practic
+cardiolog
+anesthesiolog
+obstetr gynecolog
 obstetr gynecolog
 famili medicin
 gynecolog
 nan
 hematolog oncolog
+obstetr gynecolog
+obstetr gynecolog
+general surgeri
+obstetr gynecolog
+fertil medicin
+intern medicin
+fertil medicin
+obstetr gynecolog
+obstetr gynecolog
 obstetr gynecolog
 obstetr gynecolog

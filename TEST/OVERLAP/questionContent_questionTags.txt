@@ -3,715 +3,1415 @@
 2,control antibiot birth nitrofurantoin,4
 3,control antibiot birth nitrofurantoin,4
 4,control antibiot birth nitrofurantoin,4
-5, swell ankl,3
-6, swell ankl,3
-7, swell ankl,3
-8, swell ankl,3
-9, swell ankl,3
-10, swell ankl,3
+5,control antibiot birth nitrofurantoin,4
+6,control antibiot birth nitrofurantoin,4
+7,control antibiot birth nitrofurantoin,4
+8,control antibiot birth nitrofurantoin,4
+9,control antibiot birth nitrofurantoin,4
+10,control antibiot birth nitrofurantoin,4
 11, swell ankl,3
 12, swell ankl,3
-13,colon cancer,2
-14,colon cancer,2
-15,colon cancer,2
-16,colon cancer,2
-17,colon cancer,2
-18,colon cancer,2
-19,colon cancer,2
-20,colon cancer,2
-21,colon cancer,2
-22,colon cancer,2
-23,colon cancer,2
-24,colon cancer,2
+13, swell ankl,3
+14, swell ankl,3
+15, swell ankl,3
+16, swell ankl,3
+17, swell ankl,3
+18, swell ankl,3
+19, swell ankl,3
+20, swell ankl,3
+21, swell ankl,3
+22, swell ankl,3
+23, swell ankl,3
+24, swell ankl,3
 25,colon cancer,2
 26,colon cancer,2
 27,colon cancer,2
 28,colon cancer,2
-29, pain cancer scan pelvic bloat gas,7
-30, pain cancer scan pelvic bloat gas,7
-31, pain cancer scan pelvic bloat gas,7
-32, pain cancer scan pelvic bloat gas,7
-33, pain cancer scan pelvic bloat gas,7
-34, pain cancer scan pelvic bloat gas,7
-35, pain cancer scan pelvic bloat gas,7
-36, pain cancer scan pelvic bloat gas,7
-37, pain cancer scan pelvic bloat gas,7
-38, pain cancer scan pelvic bloat gas,7
-39,,1
-40,,1
-41,,1
-42,,1
-43,,1
-44,,1
-45, herceptin cancer breast,4
-46, herceptin cancer breast,4
-47, herceptin cancer breast,4
-48, herceptin cancer breast,4
-49, herceptin cancer breast,4
-50, herceptin cancer breast,4
-51, herceptin cancer breast,4
-52, herceptin cancer breast,4
-53,pregnanc control birth period condom,5
-54,pregnanc control birth period condom,5
-55,pregnanc control birth period condom,5
-56,pregnanc control birth period condom,5
-57,pregnanc control birth period condom,5
-58,bone,1
-59,bone,1
-60,bone,1
-61,bone,1
-62,bone,1
-63,bone,1
-64,urin antibiot macrobid hydrat,4
-65,urin antibiot macrobid hydrat,4
-66,urin antibiot macrobid hydrat,4
-67,urin antibiot macrobid hydrat,4
-68,urin antibiot macrobid hydrat,4
-69,urin antibiot macrobid hydrat,4
-70,urin antibiot macrobid hydrat,4
-71,sgpt sgot,2
-72,sgpt sgot,2
-73,sgpt sgot,2
-74,sgpt sgot,2
-75,sgpt sgot,2
-76,sgpt sgot,2
-77,sgpt sgot,2
-78, pain back nitrofurantoin,4
-79, pain back nitrofurantoin,4
-80, pain back nitrofurantoin,4
-81, pain back nitrofurantoin,4
-82, pain back nitrofurantoin,4
-83, pain back nitrofurantoin,4
-84, pain back nitrofurantoin,4
-85, flagyl diverticul,3
-86, flagyl diverticul,3
-87, flagyl diverticul,3
-88, flagyl diverticul,3
-89, flagyl diverticul,3
-90, flagyl diverticul,3
-91, flagyl diverticul,3
-92, flagyl diverticul,3
-93, flagyl diverticul,3
-94,,0
-95,,0
-96,,0
-97,,0
-98,,0
-99,,0
-100,,0
-101,urin cultur,2
-102,urin cultur,2
-103,urin cultur,2
-104,urin cultur,2
-105,urin cultur,2
-106,urin cultur,2
-107,eye surgeri cross len intraocular strabismus,6
-108,eye surgeri cross len intraocular strabismus,6
-109,eye surgeri cross len intraocular strabismus,6
-110,eye surgeri cross len intraocular strabismus,6
-111,eye surgeri cross len intraocular strabismus,6
-112,eye surgeri cross len intraocular strabismus,6
-113,lasik surgeri eye lasek astigmat,5
-114,lasik surgeri eye lasek astigmat,5
-115,lasik surgeri eye lasek astigmat,5
-116,lasik surgeri eye lasek astigmat,5
-117,lasik surgeri eye lasek astigmat,5
-118,lasik surgeri eye lasek astigmat,5
-119,lasik surgeri eye lasek astigmat,5
-120,lasik surgeri eye lasek astigmat,5
-121, pregnanc test,3
-122, pregnanc test,3
-123, pregnanc test,3
-124, pregnanc test,3
-125, pregnanc test,3
-126, pregnanc test,3
-127, headach dizzi pain insomnia back cri nausea,8
-128, headach dizzi pain insomnia back cri nausea,8
-129, headach dizzi pain insomnia back cri nausea,8
-130, headach dizzi pain insomnia back cri nausea,8
-131, headach dizzi pain insomnia back cri nausea,8
-132, headach dizzi pain insomnia back cri nausea,8
-133, headach dizzi pain insomnia back cri nausea,8
-134, rash,2
-135, rash,2
-136, rash,2
-137, rash,2
-138, rash,2
-139, swell retina wrinkl surgeri vision cataract,7
-140, swell retina wrinkl surgeri vision cataract,7
-141, swell retina wrinkl surgeri vision cataract,7
-142, swell retina wrinkl surgeri vision cataract,7
-143, swell retina wrinkl surgeri vision cataract,7
-144, swell retina wrinkl surgeri vision cataract,7
-145, swell retina wrinkl surgeri vision cataract,7
-146, swell retina wrinkl surgeri vision cataract,7
-147, swell retina wrinkl surgeri vision cataract,7
-148, swell retina wrinkl surgeri vision cataract,7
-149, swell retina wrinkl surgeri vision cataract,7
-150, swell retina wrinkl surgeri vision cataract,7
-151, swell retina wrinkl surgeri vision cataract,7
-152, heart stomach discomfort attack fatigu pain nausea,8
-153, heart stomach discomfort attack fatigu pain nausea,8
-154, heart stomach discomfort attack fatigu pain nausea,8
-155, heart stomach discomfort attack fatigu pain nausea,8
-156, heart stomach discomfort attack fatigu pain nausea,8
-157, heart stomach discomfort attack fatigu pain nausea,8
-158, heart stomach discomfort attack fatigu pain nausea,8
-159, heart stomach discomfort attack fatigu pain nausea,8
-160, heart stomach discomfort attack fatigu pain nausea,8
-161, heart stomach discomfort attack fatigu pain nausea,8
-162, heart stomach discomfort attack fatigu pain nausea,8
-163, headach eye clear vitamin throat,6
-164, headach eye clear vitamin throat,6
-165, headach eye clear vitamin throat,6
-166, headach eye clear vitamin throat,6
-167, headach eye clear vitamin throat,6
-168, headach eye clear vitamin throat,6
-169,disloc ,2
-170,disloc ,2
-171,disloc ,2
-172,disloc ,2
-173,disloc ,2
-174, control ruptur zoloft birth sprintec cough,7
-175, control ruptur zoloft birth sprintec cough,7
-176, control ruptur zoloft birth sprintec cough,7
-177, control ruptur zoloft birth sprintec cough,7
-178, control ruptur zoloft birth sprintec cough,7
-179, control ruptur zoloft birth sprintec cough,7
-180,shingl,1
-181,shingl,1
-182,shingl,1
-183,shingl,1
-184,shingl,1
-185,shingl,1
-186,shingl,1
-187, partial estrogen level hysterectomi estradiol,6
-188, partial estrogen level hysterectomi estradiol,6
-189, partial estrogen level hysterectomi estradiol,6
-190, partial estrogen level hysterectomi estradiol,6
-191, partial estrogen level hysterectomi estradiol,6
-192, partial estrogen level hysterectomi estradiol,6
-193, partial estrogen level hysterectomi estradiol,6
-194, rash sex intercours condom sexual,6
-195, rash sex intercours condom sexual,6
-196, rash sex intercours condom sexual,6
-197, rash sex intercours condom sexual,6
-198, rash sex intercours condom sexual,6
-199, rash sex intercours condom sexual,6
-200,rash peel skin,3
-201,rash peel skin,3
-202,rash peel skin,3
-203,rash peel skin,3
-204,rash peel skin,3
-205,rash peel skin,3
-206,breast cancer treatment,3
-207,breast cancer treatment,3
-208,breast cancer treatment,3
-209,breast cancer treatment,3
-210,breast cancer treatment,3
-211,breast cancer treatment,3
-212,breast cancer treatment,3
-213,breast cancer treatment,3
-214,breast cancer treatment,3
-215,breast cancer treatment,3
-216,breath sleep apnea exercis,4
-217,breath sleep apnea exercis,4
-218,breath sleep apnea exercis,4
-219,breath sleep apnea exercis,4
-220,breath sleep apnea exercis,4
-221,breath sleep apnea exercis,4
-222,breath sleep apnea exercis,4
-223,breath sleep apnea exercis,4
-224,breath sleep apnea exercis,4
-225,sprain,1
-226,sprain,1
-227,sprain,1
-228,sprain,1
-229,sprain,1
-230,sprain,1
-231,sprain,1
-232,sprain,1
-233, vein,2
-234, vein,2
-235, vein,2
-236, vein,2
-237, vein,2
-238, vein,2
-239, vein,2
-240, vein,2
-241,surgeri,1
-242,surgeri,1
-243,surgeri,1
-244,surgeri,1
-245,surgeri,1
-246,surgeri,1
-247,surgeri,1
-248,surgeri,1
-249,surgeri,1
-250,surgeri,1
-251, gallbladd diarrhea remov nausea,5
-252, gallbladd diarrhea remov nausea,5
-253, gallbladd diarrhea remov nausea,5
-254, gallbladd diarrhea remov nausea,5
-255, gallbladd diarrhea remov nausea,5
-256, gallbladd diarrhea remov nausea,5
-257, urin muscl strain,4
-258, urin muscl strain,4
-259, urin muscl strain,4
-260, urin muscl strain,4
-261, urin muscl strain,4
-262, urin muscl strain,4
-263, ct colon cancer scan,5
-264, ct colon cancer scan,5
-265, ct colon cancer scan,5
-266, ct colon cancer scan,5
-267, ct colon cancer scan,5
-268, ct colon cancer scan,5
-269, ct colon cancer scan,5
-270, ct colon cancer scan,5
-271, period sex,3
-272, period sex,3
-273, period sex,3
-274, period sex,3
-275, period sex,3
-276, period sex,3
-277, period sex,3
-278, flu nostril,3
-279, flu nostril,3
-280, flu nostril,3
-281, flu nostril,3
-282, flu nostril,3
-283, flu nostril,3
-284, flu nostril,3
-285, glass,2
-286, glass,2
-287, glass,2
-288, glass,2
-289, glass,2
-290, glass,2
-291, glass,2
-292, glass,2
-293, anxious stress dizzi feel shock breath anxieti,8
-294, anxious stress dizzi feel shock breath anxieti,8
-295, anxious stress dizzi feel shock breath anxieti,8
-296, anxious stress dizzi feel shock breath anxieti,8
-297, anxious stress dizzi feel shock breath anxieti,8
-298, anxious stress dizzi feel shock breath anxieti,8
-299, anxious stress dizzi feel shock breath anxieti,8
-300, anxious stress dizzi feel shock breath anxieti,8
-301, anxious stress dizzi feel shock breath anxieti,8
-302, anxious stress dizzi feel shock breath anxieti,8
-303, cough inhal,3
-304, cough inhal,3
-305, cough inhal,3
-306, cough inhal,3
-307, cough inhal,3
-308, cough inhal,3
-309, cough inhal,3
-310,thyroid  nodul cancer,4
-311,thyroid  nodul cancer,4
-312,thyroid  nodul cancer,4
-313,thyroid  nodul cancer,4
-314,thyroid  nodul cancer,4
-315,thyroid  nodul cancer,4
-316,thyroid  nodul cancer,4
-317,thyroid  nodul cancer,4
-318,thyroid  nodul cancer,4
-319,thyroid  nodul cancer,4
-320,red,1
-321,red,1
-322,red,1
-323,red,1
-324,red,1
-325,red,1
-326,red,1
-327,red,1
-328, intercours sexual period sex,5
-329, intercours sexual period sex,5
-330, intercours sexual period sex,5
-331, intercours sexual period sex,5
-332, intercours sexual period sex,5
-333, glucos blood a1c triglycerid,5
-334, glucos blood a1c triglycerid,5
-335, glucos blood a1c triglycerid,5
-336, glucos blood a1c triglycerid,5
-337, glucos blood a1c triglycerid,5
-338, glucos blood a1c triglycerid,5
-339, glucos blood a1c triglycerid,5
-340, glucos blood a1c triglycerid,5
-341, glucos blood a1c triglycerid,5
-342, glucos blood a1c triglycerid,5
-343, glucos blood a1c triglycerid,5
-344, headach dizzi tension,4
-345, headach dizzi tension,4
-346, headach dizzi tension,4
-347, headach dizzi tension,4
-348, headach dizzi tension,4
-349, headach dizzi tension,4
-350, wart hpv virus sex,5
-351, wart hpv virus sex,5
-352, wart hpv virus sex,5
-353, wart hpv virus sex,5
-354, wart hpv virus sex,5
-355, wart hpv virus sex,5
-356, wart hpv virus sex,5
-357, follicl earach rash sore throat cold,7
-358, follicl earach rash sore throat cold,7
-359, follicl earach rash sore throat cold,7
-360, follicl earach rash sore throat cold,7
-361, follicl earach rash sore throat cold,7
-362, thyroid nodul,3
-363, thyroid nodul,3
-364, thyroid nodul,3
-365, thyroid nodul,3
-366, thyroid nodul,3
-367, thyroid nodul,3
-368, thyroid nodul,3
-369, thyroid nodul,3
-370, thyroid nodul,3
-371, bodi attack ach panic,5
-372, bodi attack ach panic,5
-373, bodi attack ach panic,5
-374, bodi attack ach panic,5
-375, bodi attack ach panic,5
-376, bodi attack ach panic,5
-377, bodi attack ach panic,5
-378,physiotherapi nerv pain mri leg,5
-379,physiotherapi nerv pain mri leg,5
-380,physiotherapi nerv pain mri leg,5
-381,physiotherapi nerv pain mri leg,5
-382,physiotherapi nerv pain mri leg,5
-383,physiotherapi nerv pain mri leg,5
-384,physiotherapi nerv pain mri leg,5
-385,physiotherapi nerv pain mri leg,5
-386,physiotherapi nerv pain mri leg,5
-387,physiotherapi nerv pain mri leg,5
-388, eye itchi run,4
-389, eye itchi run,4
-390, eye itchi run,4
-391, eye itchi run,4
-392, eye itchi run,4
-393, eye itchi run,4
-394, anemia blood iron low,5
-395, anemia blood iron low,5
-396, anemia blood iron low,5
-397, anemia blood iron low,5
-398, anemia blood iron low,5
-399, anemia blood iron low,5
-400, fever nose cough runni,5
-401, fever nose cough runni,5
-402, fever nose cough runni,5
-403, fever nose cough runni,5
-404, fever nose cough runni,5
-405, fever nose cough runni,5
-406,tingl,1
-407,tingl,1
-408,tingl,1
-409,tingl,1
-410,tingl,1
-411, deodor breast cancer,4
-412, deodor breast cancer,4
-413, deodor breast cancer,4
-414, deodor breast cancer,4
-415, deodor breast cancer,4
-416, deodor breast cancer,4
-417, deodor breast cancer,4
-418, deodor breast cancer,4
-419, fever prednison mono amoxicillin rash,6
-420, fever prednison mono amoxicillin rash,6
-421, fever prednison mono amoxicillin rash,6
-422, fever prednison mono amoxicillin rash,6
-423, fever prednison mono amoxicillin rash,6
-424, fever prednison mono amoxicillin rash,6
-425, fever prednison mono amoxicillin rash,6
-426, fever prednison mono amoxicillin rash,6
-427, overweight pain knee,4
-428, overweight pain knee,4
-429, overweight pain knee,4
-430, overweight pain knee,4
-431, overweight pain knee,4
-432, overweight pain knee,4
-433,,0
-434,,0
-435,,0
-436,,0
-437,,0
-438,,0
-439,breast cancer,2
-440,breast cancer,2
-441,breast cancer,2
-442,breast cancer,2
-443,breast cancer,2
-444,breast cancer,2
-445,breast cancer,2
-446,breast cancer,2
-447,breast cancer,2
-448,std  pain chlamydia abdomin sex gonorrhea prostat,8
-449,std  pain chlamydia abdomin sex gonorrhea prostat,8
-450,std  pain chlamydia abdomin sex gonorrhea prostat,8
-451,std  pain chlamydia abdomin sex gonorrhea prostat,8
-452,std  pain chlamydia abdomin sex gonorrhea prostat,8
-453,period breast,2
-454,period breast,2
-455,period breast,2
-456,period breast,2
-457,period breast,2
-458,,0
-459,,0
-460,,0
-461,,0
-462,,0
-463, amoxicillin earach,3
-464, amoxicillin earach,3
-465, amoxicillin earach,3
-466, amoxicillin earach,3
-467, amoxicillin earach,3
-468, amoxicillin earach,3
-469, breath chest pain deep,5
-470, breath chest pain deep,5
-471, breath chest pain deep,5
-472, breath chest pain deep,5
-473, breath chest pain deep,5
-474, breath chest pain deep,5
-475, breath chest pain deep,5
-476, sex,2
-477, sex,2
-478, sex,2
-479, sex,2
-480, sex,2
-481, spinal stenosi mri,4
-482, spinal stenosi mri,4
-483, spinal stenosi mri,4
-484, spinal stenosi mri,4
-485, spinal stenosi mri,4
-486, spinal stenosi mri,4
-487, spinal stenosi mri,4
-488, spinal stenosi mri,4
-489, spinal stenosi mri,4
-490, product fever antibiot nose cough runni,7
-491, product fever antibiot nose cough runni,7
-492, product fever antibiot nose cough runni,7
-493, product fever antibiot nose cough runni,7
-494, product fever antibiot nose cough runni,7
-495, joint arthriti pain,4
-496, joint arthriti pain,4
-497, joint arthriti pain,4
-498, joint arthriti pain,4
-499, joint arthriti pain,4
-500, joint arthriti pain,4
-501, joint arthriti pain,4
-502, joint arthriti pain,4
-503,pancreat abdomin fever pain nausea,5
-504,pancreat abdomin fever pain nausea,5
-505,pancreat abdomin fever pain nausea,5
-506,pancreat abdomin fever pain nausea,5
-507,pancreat abdomin fever pain nausea,5
-508,pancreat abdomin fever pain nausea,5
-509,pancreat abdomin fever pain nausea,5
-510,ulcer,1
-511,ulcer,1
-512,ulcer,1
-513,ulcer,1
-514,ulcer,1
-515,ulcer,1
-516,ulcer,1
-517,,0
-518,,0
-519,,0
-520,,0
-521,,0
-522,,0
-523,,0
-524,sore tongu,2
-525,sore tongu,2
-526,sore tongu,2
-527,sore tongu,2
-528,sore tongu,2
-529,sore tongu,2
-530,sore tongu,2
-531,period,1
-532,period,1
-533,period,1
-534,period,1
-535,period,1
-536,period,1
-537,leg,1
-538,leg,1
-539,leg,1
-540,leg,1
-541,leg,1
-542, burn flu nose,4
-543, burn flu nose,4
-544, burn flu nose,4
-545, burn flu nose,4
-546, burn flu nose,4
-547, cyst ovarian sex,4
-548, cyst ovarian sex,4
-549, cyst ovarian sex,4
-550, cyst ovarian sex,4
-551, cyst ovarian sex,4
-552, attack anxieti panic ativan,5
-553, attack anxieti panic ativan,5
-554, attack anxieti panic ativan,5
-555, attack anxieti panic ativan,5
-556, attack anxieti panic ativan,5
-557, attack anxieti panic ativan,5
-558, attack anxieti panic ativan,5
-559, attack anxieti panic ativan,5
-560, attack anxieti panic ativan,5
-561, attack anxieti panic ativan,5
-562, prilosec ulcer zantac,4
-563, prilosec ulcer zantac,4
-564, prilosec ulcer zantac,4
-565, prilosec ulcer zantac,4
-566, prilosec ulcer zantac,4
-567, prilosec ulcer zantac,4
-568, allergi acn pimpl,4
-569, allergi acn pimpl,4
-570, allergi acn pimpl,4
-571, allergi acn pimpl,4
-572, allergi acn pimpl,4
-573, allergi acn pimpl,4
-574,compress varicos vein,3
-575,compress varicos vein,3
-576,compress varicos vein,3
-577,compress varicos vein,3
-578,compress varicos vein,3
-579,compress varicos vein,3
-580,compress varicos vein,3
-581,compress varicos vein,3
-582, fever,2
-583, fever,2
-584, fever,2
-585, fever,2
-586, fever,2
-587, fever,2
-588, headach dizzi tension heartburn indigest vision,7
-589, headach dizzi tension heartburn indigest vision,7
-590, headach dizzi tension heartburn indigest vision,7
-591, headach dizzi tension heartburn indigest vision,7
-592, headach dizzi tension heartburn indigest vision,7
-593, headach dizzi tension heartburn indigest vision,7
-594,vagin discharg,2
-595,vagin discharg,2
-596,vagin discharg,2
-597,vagin discharg,2
-598,vagin discharg,2
-599,neck,1
-600,neck,1
-601,neck,1
-602,neck,1
-603,neck,1
-604,urin pregnanc,2
-605,urin pregnanc,2
-606,urin pregnanc,2
-607,urin pregnanc,2
-608,urin pregnanc,2
-609,urin pregnanc,2
-610, urin,2
-611, urin,2
-612, urin,2
-613, urin,2
-614, urin,2
-615, urin,2
-616, stress anxieti sleep workout,5
-617, stress anxieti sleep workout,5
-618, stress anxieti sleep workout,5
-619, stress anxieti sleep workout,5
-620, stress anxieti sleep workout,5
-621, stress anxieti sleep workout,5
-622, stress anxieti sleep workout,5
-623, stress anxieti sleep workout,5
-624, stress anxieti sleep workout,5
-625, stress anxieti sleep workout,5
-626, stress anxieti sleep workout,5
-627, std vagin discharg,4
-628, std vagin discharg,4
-629, std vagin discharg,4
-630, std vagin discharg,4
-631, std vagin discharg,4
-632, std vagin discharg,4
-633, std vagin discharg,4
-634,,1
-635,,1
-636,,1
-637,,1
-638,,1
-639,,1
-640,surgeri,1
-641,surgeri,1
-642,surgeri,1
-643,surgeri,1
-644,surgeri,1
-645,surgeri,1
-646,surgeri,1
-647, pain surgeri percocet tramadol endometriosi fibroid,7
-648, pain surgeri percocet tramadol endometriosi fibroid,7
-649, pain surgeri percocet tramadol endometriosi fibroid,7
-650, pain surgeri percocet tramadol endometriosi fibroid,7
-651, pain surgeri percocet tramadol endometriosi fibroid,7
-652, pain surgeri percocet tramadol endometriosi fibroid,7
-653, pain surgeri percocet tramadol endometriosi fibroid,7
-654, pain surgeri percocet tramadol endometriosi fibroid,7
-655,backach nausea dizzi sex,4
-656,backach nausea dizzi sex,4
-657,backach nausea dizzi sex,4
-658,backach nausea dizzi sex,4
-659,backach nausea dizzi sex,4
-660,backach nausea dizzi sex,4
-661, dizzi,2
-662, dizzi,2
-663, dizzi,2
-664, dizzi,2
-665, dizzi,2
-666,sciatica bulg hernia,3
-667,sciatica bulg hernia,3
-668,sciatica bulg hernia,3
-669,sciatica bulg hernia,3
-670,sciatica bulg hernia,3
-671,sciatica bulg hernia,3
-672,sciatica bulg hernia,3
-673,sciatica bulg hernia,3
-674,sciatica bulg hernia,3
-675,sciatica bulg hernia,3
-676,antibiot relief,2
-677,antibiot relief,2
-678,antibiot relief,2
-679,antibiot relief,2
-680,antibiot relief,2
-681,antibiot relief,2
-682, pelvic pain period cyst,5
-683, pelvic pain period cyst,5
-684, pelvic pain period cyst,5
-685, pelvic pain period cyst,5
-686, pelvic pain period cyst,5
-687, pelvic pain period cyst,5
-688, pelvic pain period cyst,5
-689,knee swell,2
-690,knee swell,2
-691,knee swell,2
-692,knee swell,2
-693,knee swell,2
-694,knee swell,2
-695,knee swell,2
-696,knee swell,2
-697,knee swell,2
-698,knee swell,2
-699,knee swell,2
-700,knee swell,2
-701,knee swell,2
-702,knee swell,2
-703,prolaps mitral valv  regurgit,5
-704,prolaps mitral valv  regurgit,5
-705,prolaps mitral valv  regurgit,5
-706,prolaps mitral valv  regurgit,5
-707,prolaps mitral valv  regurgit,5
-708,prolaps mitral valv  regurgit,5
-709,prolaps mitral valv  regurgit,5
-710,fibroid adenomyosi,2
-711,fibroid adenomyosi,2
-712,fibroid adenomyosi,2
-713,fibroid adenomyosi,2
-714,fibroid adenomyosi,2
-715,fibroid adenomyosi,2
-716,fibroid adenomyosi,2
+29,colon cancer,2
+30,colon cancer,2
+31,colon cancer,2
+32,colon cancer,2
+33,colon cancer,2
+34,colon cancer,2
+35,colon cancer,2
+36,colon cancer,2
+37,colon cancer,2
+38,colon cancer,2
+39,colon cancer,2
+40,colon cancer,2
+41,colon cancer,2
+42,colon cancer,2
+43,colon cancer,2
+44,colon cancer,2
+45,colon cancer,2
+46,colon cancer,2
+47, pain cancer scan pelvic bloat gas,7
+48, pain cancer scan pelvic bloat gas,7
+49, pain cancer scan pelvic bloat gas,7
+50, pain cancer scan pelvic bloat gas,7
+51, pain cancer scan pelvic bloat gas,7
+52, pain cancer scan pelvic bloat gas,7
+53, pain cancer scan pelvic bloat gas,7
+54, pain cancer scan pelvic bloat gas,7
+55, pain cancer scan pelvic bloat gas,7
+56, pain cancer scan pelvic bloat gas,7
+57, pain cancer scan pelvic bloat gas,7
+58, pain cancer scan pelvic bloat gas,7
+59, pain cancer scan pelvic bloat gas,7
+60, pain cancer scan pelvic bloat gas,7
+61, pain cancer scan pelvic bloat gas,7
+62, pain cancer scan pelvic bloat gas,7
+63, pain cancer scan pelvic bloat gas,7
+64, pain cancer scan pelvic bloat gas,7
+65,,1
+66,,1
+67,,1
+68,,1
+69,,1
+70,,1
+71,,1
+72,,1
+73,,1
+74,,1
+75,,1
+76,,1
+77, herceptin cancer breast,4
+78, herceptin cancer breast,4
+79, herceptin cancer breast,4
+80, herceptin cancer breast,4
+81, herceptin cancer breast,4
+82, herceptin cancer breast,4
+83, herceptin cancer breast,4
+84, herceptin cancer breast,4
+85, herceptin cancer breast,4
+86, herceptin cancer breast,4
+87, herceptin cancer breast,4
+88, herceptin cancer breast,4
+89, herceptin cancer breast,4
+90, herceptin cancer breast,4
+91, herceptin cancer breast,4
+92, herceptin cancer breast,4
+93, herceptin cancer breast,4
+94, herceptin cancer breast,4
+95, herceptin cancer breast,4
+96,pregnanc control birth period condom,5
+97,pregnanc control birth period condom,5
+98,pregnanc control birth period condom,5
+99,pregnanc control birth period condom,5
+100,pregnanc control birth period condom,5
+101,pregnanc control birth period condom,5
+102,pregnanc control birth period condom,5
+103,pregnanc control birth period condom,5
+104,pregnanc control birth period condom,5
+105,pregnanc control birth period condom,5
+106,bone,1
+107,bone,1
+108,bone,1
+109,bone,1
+110,bone,1
+111,bone,1
+112,bone,1
+113,bone,1
+114,bone,1
+115,bone,1
+116,bone,1
+117,bone,1
+118,urin antibiot macrobid hydrat,4
+119,urin antibiot macrobid hydrat,4
+120,urin antibiot macrobid hydrat,4
+121,urin antibiot macrobid hydrat,4
+122,urin antibiot macrobid hydrat,4
+123,urin antibiot macrobid hydrat,4
+124,urin antibiot macrobid hydrat,4
+125,urin antibiot macrobid hydrat,4
+126,urin antibiot macrobid hydrat,4
+127,urin antibiot macrobid hydrat,4
+128,urin antibiot macrobid hydrat,4
+129,urin antibiot macrobid hydrat,4
+130,sgpt sgot,2
+131,sgpt sgot,2
+132,sgpt sgot,2
+133,sgpt sgot,2
+134,sgpt sgot,2
+135,sgpt sgot,2
+136,sgpt sgot,2
+137,sgpt sgot,2
+138,sgpt sgot,2
+139,sgpt sgot,2
+140,sgpt sgot,2
+141,sgpt sgot,2
+142,sgpt sgot,2
+143, pain back nitrofurantoin,4
+144, pain back nitrofurantoin,4
+145, pain back nitrofurantoin,4
+146, pain back nitrofurantoin,4
+147, pain back nitrofurantoin,4
+148, pain back nitrofurantoin,4
+149, pain back nitrofurantoin,4
+150, pain back nitrofurantoin,4
+151, pain back nitrofurantoin,4
+152, pain back nitrofurantoin,4
+153, pain back nitrofurantoin,4
+154, pain back nitrofurantoin,4
+155, pain back nitrofurantoin,4
+156, flagyl diverticul,3
+157, flagyl diverticul,3
+158, flagyl diverticul,3
+159, flagyl diverticul,3
+160, flagyl diverticul,3
+161, flagyl diverticul,3
+162, flagyl diverticul,3
+163, flagyl diverticul,3
+164, flagyl diverticul,3
+165, flagyl diverticul,3
+166, flagyl diverticul,3
+167, flagyl diverticul,3
+168, flagyl diverticul,3
+169, flagyl diverticul,3
+170, flagyl diverticul,3
+171, flagyl diverticul,3
+172, flagyl diverticul,3
+173, flagyl diverticul,3
+174, flagyl diverticul,3
+175, flagyl diverticul,3
+176,,0
+177,,0
+178,,0
+179,,0
+180,,0
+181,,0
+182,,0
+183,,0
+184,,0
+185,,0
+186,,0
+187,,0
+188,,0
+189,,0
+190,urin cultur,2
+191,urin cultur,2
+192,urin cultur,2
+193,urin cultur,2
+194,urin cultur,2
+195,urin cultur,2
+196,urin cultur,2
+197,urin cultur,2
+198,urin cultur,2
+199,urin cultur,2
+200,urin cultur,2
+201,urin cultur,2
+202,urin cultur,2
+203,eye surgeri cross len intraocular strabismus,6
+204,eye surgeri cross len intraocular strabismus,6
+205,eye surgeri cross len intraocular strabismus,6
+206,eye surgeri cross len intraocular strabismus,6
+207,eye surgeri cross len intraocular strabismus,6
+208,eye surgeri cross len intraocular strabismus,6
+209,eye surgeri cross len intraocular strabismus,6
+210,eye surgeri cross len intraocular strabismus,6
+211,eye surgeri cross len intraocular strabismus,6
+212,eye surgeri cross len intraocular strabismus,6
+213,eye surgeri cross len intraocular strabismus,6
+214,eye surgeri cross len intraocular strabismus,6
+215,lasik surgeri eye lasek astigmat,5
+216,lasik surgeri eye lasek astigmat,5
+217,lasik surgeri eye lasek astigmat,5
+218,lasik surgeri eye lasek astigmat,5
+219,lasik surgeri eye lasek astigmat,5
+220,lasik surgeri eye lasek astigmat,5
+221,lasik surgeri eye lasek astigmat,5
+222,lasik surgeri eye lasek astigmat,5
+223,lasik surgeri eye lasek astigmat,5
+224,lasik surgeri eye lasek astigmat,5
+225,lasik surgeri eye lasek astigmat,5
+226,lasik surgeri eye lasek astigmat,5
+227,lasik surgeri eye lasek astigmat,5
+228,lasik surgeri eye lasek astigmat,5
+229,lasik surgeri eye lasek astigmat,5
+230,lasik surgeri eye lasek astigmat,5
+231,lasik surgeri eye lasek astigmat,5
+232,lasik surgeri eye lasek astigmat,5
+233,lasik surgeri eye lasek astigmat,5
+234, pregnanc test,3
+235, pregnanc test,3
+236, pregnanc test,3
+237, pregnanc test,3
+238, pregnanc test,3
+239, pregnanc test,3
+240, pregnanc test,3
+241, pregnanc test,3
+242, pregnanc test,3
+243, pregnanc test,3
+244, pregnanc test,3
+245, headach dizzi pain insomnia back cri nausea,8
+246, headach dizzi pain insomnia back cri nausea,8
+247, headach dizzi pain insomnia back cri nausea,8
+248, headach dizzi pain insomnia back cri nausea,8
+249, headach dizzi pain insomnia back cri nausea,8
+250, headach dizzi pain insomnia back cri nausea,8
+251, headach dizzi pain insomnia back cri nausea,8
+252, headach dizzi pain insomnia back cri nausea,8
+253, headach dizzi pain insomnia back cri nausea,8
+254, headach dizzi pain insomnia back cri nausea,8
+255, headach dizzi pain insomnia back cri nausea,8
+256, headach dizzi pain insomnia back cri nausea,8
+257, headach dizzi pain insomnia back cri nausea,8
+258, headach dizzi pain insomnia back cri nausea,8
+259, rash,2
+260, rash,2
+261, rash,2
+262, rash,2
+263, rash,2
+264, rash,2
+265, rash,2
+266, rash,2
+267, rash,2
+268, rash,2
+269, rash,2
+270, swell retina wrinkl surgeri vision cataract,7
+271, swell retina wrinkl surgeri vision cataract,7
+272, swell retina wrinkl surgeri vision cataract,7
+273, swell retina wrinkl surgeri vision cataract,7
+274, swell retina wrinkl surgeri vision cataract,7
+275, swell retina wrinkl surgeri vision cataract,7
+276, swell retina wrinkl surgeri vision cataract,7
+277, swell retina wrinkl surgeri vision cataract,7
+278, swell retina wrinkl surgeri vision cataract,7
+279, swell retina wrinkl surgeri vision cataract,7
+280, swell retina wrinkl surgeri vision cataract,7
+281, swell retina wrinkl surgeri vision cataract,7
+282, swell retina wrinkl surgeri vision cataract,7
+283, swell retina wrinkl surgeri vision cataract,7
+284, swell retina wrinkl surgeri vision cataract,7
+285, swell retina wrinkl surgeri vision cataract,7
+286, swell retina wrinkl surgeri vision cataract,7
+287, swell retina wrinkl surgeri vision cataract,7
+288, swell retina wrinkl surgeri vision cataract,7
+289, swell retina wrinkl surgeri vision cataract,7
+290, swell retina wrinkl surgeri vision cataract,7
+291, heart stomach discomfort attack fatigu pain nausea,8
+292, heart stomach discomfort attack fatigu pain nausea,8
+293, heart stomach discomfort attack fatigu pain nausea,8
+294, heart stomach discomfort attack fatigu pain nausea,8
+295, heart stomach discomfort attack fatigu pain nausea,8
+296, heart stomach discomfort attack fatigu pain nausea,8
+297, heart stomach discomfort attack fatigu pain nausea,8
+298, heart stomach discomfort attack fatigu pain nausea,8
+299, heart stomach discomfort attack fatigu pain nausea,8
+300, heart stomach discomfort attack fatigu pain nausea,8
+301, heart stomach discomfort attack fatigu pain nausea,8
+302, heart stomach discomfort attack fatigu pain nausea,8
+303, heart stomach discomfort attack fatigu pain nausea,8
+304, heart stomach discomfort attack fatigu pain nausea,8
+305, heart stomach discomfort attack fatigu pain nausea,8
+306, heart stomach discomfort attack fatigu pain nausea,8
+307, heart stomach discomfort attack fatigu pain nausea,8
+308, heart stomach discomfort attack fatigu pain nausea,8
+309, headach eye clear vitamin throat,6
+310, headach eye clear vitamin throat,6
+311, headach eye clear vitamin throat,6
+312, headach eye clear vitamin throat,6
+313, headach eye clear vitamin throat,6
+314, headach eye clear vitamin throat,6
+315, headach eye clear vitamin throat,6
+316, headach eye clear vitamin throat,6
+317, headach eye clear vitamin throat,6
+318, headach eye clear vitamin throat,6
+319, headach eye clear vitamin throat,6
+320, headach eye clear vitamin throat,6
+321, headach eye clear vitamin throat,6
+322,disloc ,2
+323,disloc ,2
+324,disloc ,2
+325,disloc ,2
+326,disloc ,2
+327,disloc ,2
+328,disloc ,2
+329,disloc ,2
+330,disloc ,2
+331,disloc ,2
+332,disloc ,2
+333,disloc ,2
+334, control ruptur zoloft birth sprintec cough,7
+335, control ruptur zoloft birth sprintec cough,7
+336, control ruptur zoloft birth sprintec cough,7
+337, control ruptur zoloft birth sprintec cough,7
+338, control ruptur zoloft birth sprintec cough,7
+339, control ruptur zoloft birth sprintec cough,7
+340, control ruptur zoloft birth sprintec cough,7
+341, control ruptur zoloft birth sprintec cough,7
+342, control ruptur zoloft birth sprintec cough,7
+343, control ruptur zoloft birth sprintec cough,7
+344, control ruptur zoloft birth sprintec cough,7
+345,shingl,1
+346,shingl,1
+347,shingl,1
+348,shingl,1
+349,shingl,1
+350,shingl,1
+351,shingl,1
+352,shingl,1
+353,shingl,1
+354,shingl,1
+355,shingl,1
+356,shingl,1
+357, partial estrogen level hysterectomi estradiol,6
+358, partial estrogen level hysterectomi estradiol,6
+359, partial estrogen level hysterectomi estradiol,6
+360, partial estrogen level hysterectomi estradiol,6
+361, partial estrogen level hysterectomi estradiol,6
+362, partial estrogen level hysterectomi estradiol,6
+363, partial estrogen level hysterectomi estradiol,6
+364, partial estrogen level hysterectomi estradiol,6
+365, partial estrogen level hysterectomi estradiol,6
+366, partial estrogen level hysterectomi estradiol,6
+367, partial estrogen level hysterectomi estradiol,6
+368, partial estrogen level hysterectomi estradiol,6
+369, partial estrogen level hysterectomi estradiol,6
+370, partial estrogen level hysterectomi estradiol,6
+371, partial estrogen level hysterectomi estradiol,6
+372, partial estrogen level hysterectomi estradiol,6
+373, partial estrogen level hysterectomi estradiol,6
+374, partial estrogen level hysterectomi estradiol,6
+375, rash sex intercours condom sexual,6
+376, rash sex intercours condom sexual,6
+377, rash sex intercours condom sexual,6
+378, rash sex intercours condom sexual,6
+379, rash sex intercours condom sexual,6
+380, rash sex intercours condom sexual,6
+381, rash sex intercours condom sexual,6
+382, rash sex intercours condom sexual,6
+383, rash sex intercours condom sexual,6
+384, rash sex intercours condom sexual,6
+385, rash sex intercours condom sexual,6
+386, rash sex intercours condom sexual,6
+387,rash peel skin,3
+388,rash peel skin,3
+389,rash peel skin,3
+390,rash peel skin,3
+391,rash peel skin,3
+392,rash peel skin,3
+393,rash peel skin,3
+394,rash peel skin,3
+395,rash peel skin,3
+396,rash peel skin,3
+397,rash peel skin,3
+398,rash peel skin,3
+399,rash peel skin,3
+400,rash peel skin,3
+401,rash peel skin,3
+402,rash peel skin,3
+403,breast cancer treatment,3
+404,breast cancer treatment,3
+405,breast cancer treatment,3
+406,breast cancer treatment,3
+407,breast cancer treatment,3
+408,breast cancer treatment,3
+409,breast cancer treatment,3
+410,breast cancer treatment,3
+411,breast cancer treatment,3
+412,breast cancer treatment,3
+413,breast cancer treatment,3
+414,breast cancer treatment,3
+415,breast cancer treatment,3
+416,breast cancer treatment,3
+417,breast cancer treatment,3
+418,breast cancer treatment,3
+419,breast cancer treatment,3
+420,breast cancer treatment,3
+421,breath sleep apnea exercis,4
+422,breath sleep apnea exercis,4
+423,breath sleep apnea exercis,4
+424,breath sleep apnea exercis,4
+425,breath sleep apnea exercis,4
+426,breath sleep apnea exercis,4
+427,breath sleep apnea exercis,4
+428,breath sleep apnea exercis,4
+429,breath sleep apnea exercis,4
+430,breath sleep apnea exercis,4
+431,breath sleep apnea exercis,4
+432,breath sleep apnea exercis,4
+433,breath sleep apnea exercis,4
+434,breath sleep apnea exercis,4
+435,breath sleep apnea exercis,4
+436,breath sleep apnea exercis,4
+437,sprain,1
+438,sprain,1
+439,sprain,1
+440,sprain,1
+441,sprain,1
+442,sprain,1
+443,sprain,1
+444,sprain,1
+445,sprain,1
+446,sprain,1
+447,sprain,1
+448,sprain,1
+449,sprain,1
+450,sprain,1
+451,sprain,1
+452,sprain,1
+453, vein,2
+454, vein,2
+455, vein,2
+456, vein,2
+457, vein,2
+458, vein,2
+459, vein,2
+460, vein,2
+461, vein,2
+462, vein,2
+463, vein,2
+464, vein,2
+465, vein,2
+466, vein,2
+467, vein,2
+468,surgeri,1
+469,surgeri,1
+470,surgeri,1
+471,surgeri,1
+472,surgeri,1
+473,surgeri,1
+474,surgeri,1
+475,surgeri,1
+476,surgeri,1
+477,surgeri,1
+478,surgeri,1
+479,surgeri,1
+480,surgeri,1
+481,surgeri,1
+482,surgeri,1
+483,surgeri,1
+484,surgeri,1
+485,surgeri,1
+486, gallbladd diarrhea remov nausea,5
+487, gallbladd diarrhea remov nausea,5
+488, gallbladd diarrhea remov nausea,5
+489, gallbladd diarrhea remov nausea,5
+490, gallbladd diarrhea remov nausea,5
+491, gallbladd diarrhea remov nausea,5
+492, gallbladd diarrhea remov nausea,5
+493, gallbladd diarrhea remov nausea,5
+494, gallbladd diarrhea remov nausea,5
+495, gallbladd diarrhea remov nausea,5
+496, gallbladd diarrhea remov nausea,5
+497, urin muscl strain,4
+498, urin muscl strain,4
+499, urin muscl strain,4
+500, urin muscl strain,4
+501, urin muscl strain,4
+502, urin muscl strain,4
+503, urin muscl strain,4
+504, urin muscl strain,4
+505, urin muscl strain,4
+506, urin muscl strain,4
+507, urin muscl strain,4
+508, urin muscl strain,4
+509, urin muscl strain,4
+510, urin muscl strain,4
+511, urin muscl strain,4
+512, urin muscl strain,4
+513, urin muscl strain,4
+514, ct colon cancer scan,5
+515, ct colon cancer scan,5
+516, ct colon cancer scan,5
+517, ct colon cancer scan,5
+518, ct colon cancer scan,5
+519, ct colon cancer scan,5
+520, ct colon cancer scan,5
+521, ct colon cancer scan,5
+522, ct colon cancer scan,5
+523, ct colon cancer scan,5
+524, ct colon cancer scan,5
+525, ct colon cancer scan,5
+526, ct colon cancer scan,5
+527, ct colon cancer scan,5
+528, ct colon cancer scan,5
+529, ct colon cancer scan,5
+530, period sex,3
+531, period sex,3
+532, period sex,3
+533, period sex,3
+534, period sex,3
+535, period sex,3
+536, period sex,3
+537, period sex,3
+538, period sex,3
+539, period sex,3
+540, period sex,3
+541, period sex,3
+542, period sex,3
+543, flu nostril,3
+544, flu nostril,3
+545, flu nostril,3
+546, flu nostril,3
+547, flu nostril,3
+548, flu nostril,3
+549, flu nostril,3
+550, flu nostril,3
+551, flu nostril,3
+552, flu nostril,3
+553, flu nostril,3
+554, flu nostril,3
+555, flu nostril,3
+556, glass,2
+557, glass,2
+558, glass,2
+559, glass,2
+560, glass,2
+561, glass,2
+562, glass,2
+563, glass,2
+564, glass,2
+565, glass,2
+566, glass,2
+567, glass,2
+568, glass,2
+569, anxious stress dizzi feel shock breath anxieti,8
+570, anxious stress dizzi feel shock breath anxieti,8
+571, anxious stress dizzi feel shock breath anxieti,8
+572, anxious stress dizzi feel shock breath anxieti,8
+573, anxious stress dizzi feel shock breath anxieti,8
+574, anxious stress dizzi feel shock breath anxieti,8
+575, anxious stress dizzi feel shock breath anxieti,8
+576, anxious stress dizzi feel shock breath anxieti,8
+577, anxious stress dizzi feel shock breath anxieti,8
+578, anxious stress dizzi feel shock breath anxieti,8
+579, anxious stress dizzi feel shock breath anxieti,8
+580, anxious stress dizzi feel shock breath anxieti,8
+581, anxious stress dizzi feel shock breath anxieti,8
+582, anxious stress dizzi feel shock breath anxieti,8
+583, anxious stress dizzi feel shock breath anxieti,8
+584, anxious stress dizzi feel shock breath anxieti,8
+585, anxious stress dizzi feel shock breath anxieti,8
+586, anxious stress dizzi feel shock breath anxieti,8
+587, anxious stress dizzi feel shock breath anxieti,8
+588, cough inhal,3
+589, cough inhal,3
+590, cough inhal,3
+591, cough inhal,3
+592, cough inhal,3
+593, cough inhal,3
+594, cough inhal,3
+595, cough inhal,3
+596, cough inhal,3
+597, cough inhal,3
+598, cough inhal,3
+599, cough inhal,3
+600, cough inhal,3
+601,thyroid  nodul cancer,4
+602,thyroid  nodul cancer,4
+603,thyroid  nodul cancer,4
+604,thyroid  nodul cancer,4
+605,thyroid  nodul cancer,4
+606,thyroid  nodul cancer,4
+607,thyroid  nodul cancer,4
+608,thyroid  nodul cancer,4
+609,thyroid  nodul cancer,4
+610,thyroid  nodul cancer,4
+611,thyroid  nodul cancer,4
+612,thyroid  nodul cancer,4
+613,thyroid  nodul cancer,4
+614,thyroid  nodul cancer,4
+615,thyroid  nodul cancer,4
+616,thyroid  nodul cancer,4
+617,thyroid  nodul cancer,4
+618,red,1
+619,red,1
+620,red,1
+621,red,1
+622,red,1
+623,red,1
+624,red,1
+625,red,1
+626,red,1
+627,red,1
+628,red,1
+629,red,1
+630,red,1
+631, intercours sexual period sex,5
+632, intercours sexual period sex,5
+633, intercours sexual period sex,5
+634, intercours sexual period sex,5
+635, intercours sexual period sex,5
+636, intercours sexual period sex,5
+637, intercours sexual period sex,5
+638, intercours sexual period sex,5
+639, intercours sexual period sex,5
+640, intercours sexual period sex,5
+641, intercours sexual period sex,5
+642, glucos blood a1c triglycerid,5
+643, glucos blood a1c triglycerid,5
+644, glucos blood a1c triglycerid,5
+645, glucos blood a1c triglycerid,5
+646, glucos blood a1c triglycerid,5
+647, glucos blood a1c triglycerid,5
+648, glucos blood a1c triglycerid,5
+649, glucos blood a1c triglycerid,5
+650, glucos blood a1c triglycerid,5
+651, glucos blood a1c triglycerid,5
+652, glucos blood a1c triglycerid,5
+653, glucos blood a1c triglycerid,5
+654, glucos blood a1c triglycerid,5
+655, glucos blood a1c triglycerid,5
+656, glucos blood a1c triglycerid,5
+657, glucos blood a1c triglycerid,5
+658, glucos blood a1c triglycerid,5
+659, headach dizzi tension,4
+660, headach dizzi tension,4
+661, headach dizzi tension,4
+662, headach dizzi tension,4
+663, headach dizzi tension,4
+664, headach dizzi tension,4
+665, headach dizzi tension,4
+666, headach dizzi tension,4
+667, headach dizzi tension,4
+668, headach dizzi tension,4
+669, headach dizzi tension,4
+670, headach dizzi tension,4
+671, wart hpv virus sex,5
+672, wart hpv virus sex,5
+673, wart hpv virus sex,5
+674, wart hpv virus sex,5
+675, wart hpv virus sex,5
+676, wart hpv virus sex,5
+677, wart hpv virus sex,5
+678, wart hpv virus sex,5
+679, wart hpv virus sex,5
+680, wart hpv virus sex,5
+681, wart hpv virus sex,5
+682, wart hpv virus sex,5
+683, wart hpv virus sex,5
+684, wart hpv virus sex,5
+685, follicl earach rash sore throat cold,7
+686, follicl earach rash sore throat cold,7
+687, follicl earach rash sore throat cold,7
+688, follicl earach rash sore throat cold,7
+689, follicl earach rash sore throat cold,7
+690, follicl earach rash sore throat cold,7
+691, follicl earach rash sore throat cold,7
+692, follicl earach rash sore throat cold,7
+693, follicl earach rash sore throat cold,7
+694, follicl earach rash sore throat cold,7
+695, follicl earach rash sore throat cold,7
+696, follicl earach rash sore throat cold,7
+697, follicl earach rash sore throat cold,7
+698, thyroid nodul,3
+699, thyroid nodul,3
+700, thyroid nodul,3
+701, thyroid nodul,3
+702, thyroid nodul,3
+703, thyroid nodul,3
+704, thyroid nodul,3
+705, thyroid nodul,3
+706, thyroid nodul,3
+707, thyroid nodul,3
+708, thyroid nodul,3
+709, thyroid nodul,3
+710, thyroid nodul,3
+711, thyroid nodul,3
+712, thyroid nodul,3
+713, thyroid nodul,3
+714, thyroid nodul,3
+715, thyroid nodul,3
+716, bodi attack ach panic,5
+717, bodi attack ach panic,5
+718, bodi attack ach panic,5
+719, bodi attack ach panic,5
+720, bodi attack ach panic,5
+721, bodi attack ach panic,5
+722, bodi attack ach panic,5
+723, bodi attack ach panic,5
+724, bodi attack ach panic,5
+725, bodi attack ach panic,5
+726, bodi attack ach panic,5
+727, bodi attack ach panic,5
+728, bodi attack ach panic,5
+729, bodi attack ach panic,5
+730, bodi attack ach panic,5
+731,physiotherapi nerv pain mri leg,5
+732,physiotherapi nerv pain mri leg,5
+733,physiotherapi nerv pain mri leg,5
+734,physiotherapi nerv pain mri leg,5
+735,physiotherapi nerv pain mri leg,5
+736,physiotherapi nerv pain mri leg,5
+737,physiotherapi nerv pain mri leg,5
+738,physiotherapi nerv pain mri leg,5
+739,physiotherapi nerv pain mri leg,5
+740,physiotherapi nerv pain mri leg,5
+741,physiotherapi nerv pain mri leg,5
+742,physiotherapi nerv pain mri leg,5
+743,physiotherapi nerv pain mri leg,5
+744,physiotherapi nerv pain mri leg,5
+745,physiotherapi nerv pain mri leg,5
+746,physiotherapi nerv pain mri leg,5
+747,physiotherapi nerv pain mri leg,5
+748,physiotherapi nerv pain mri leg,5
+749, eye itchi run,4
+750, eye itchi run,4
+751, eye itchi run,4
+752, eye itchi run,4
+753, eye itchi run,4
+754, eye itchi run,4
+755, eye itchi run,4
+756, eye itchi run,4
+757, eye itchi run,4
+758, eye itchi run,4
+759, eye itchi run,4
+760, eye itchi run,4
+761, eye itchi run,4
+762, anemia blood iron low,5
+763, anemia blood iron low,5
+764, anemia blood iron low,5
+765, anemia blood iron low,5
+766, anemia blood iron low,5
+767, anemia blood iron low,5
+768, anemia blood iron low,5
+769, anemia blood iron low,5
+770, anemia blood iron low,5
+771, anemia blood iron low,5
+772, anemia blood iron low,5
+773, anemia blood iron low,5
+774, anemia blood iron low,5
+775, anemia blood iron low,5
+776, anemia blood iron low,5
+777, anemia blood iron low,5
+778, anemia blood iron low,5
+779, fever nose cough runni,5
+780, fever nose cough runni,5
+781, fever nose cough runni,5
+782, fever nose cough runni,5
+783, fever nose cough runni,5
+784, fever nose cough runni,5
+785, fever nose cough runni,5
+786, fever nose cough runni,5
+787, fever nose cough runni,5
+788, fever nose cough runni,5
+789, fever nose cough runni,5
+790, fever nose cough runni,5
+791, fever nose cough runni,5
+792,tingl,1
+793,tingl,1
+794,tingl,1
+795,tingl,1
+796,tingl,1
+797,tingl,1
+798,tingl,1
+799,tingl,1
+800,tingl,1
+801,tingl,1
+802, deodor breast cancer,4
+803, deodor breast cancer,4
+804, deodor breast cancer,4
+805, deodor breast cancer,4
+806, deodor breast cancer,4
+807, deodor breast cancer,4
+808, deodor breast cancer,4
+809, deodor breast cancer,4
+810, deodor breast cancer,4
+811, deodor breast cancer,4
+812, deodor breast cancer,4
+813, deodor breast cancer,4
+814, deodor breast cancer,4
+815, deodor breast cancer,4
+816, deodor breast cancer,4
+817, fever prednison mono amoxicillin rash,6
+818, fever prednison mono amoxicillin rash,6
+819, fever prednison mono amoxicillin rash,6
+820, fever prednison mono amoxicillin rash,6
+821, fever prednison mono amoxicillin rash,6
+822, fever prednison mono amoxicillin rash,6
+823, fever prednison mono amoxicillin rash,6
+824, fever prednison mono amoxicillin rash,6
+825, fever prednison mono amoxicillin rash,6
+826, fever prednison mono amoxicillin rash,6
+827, fever prednison mono amoxicillin rash,6
+828, fever prednison mono amoxicillin rash,6
+829, fever prednison mono amoxicillin rash,6
+830, fever prednison mono amoxicillin rash,6
+831, fever prednison mono amoxicillin rash,6
+832, overweight pain knee,4
+833, overweight pain knee,4
+834, overweight pain knee,4
+835, overweight pain knee,4
+836, overweight pain knee,4
+837, overweight pain knee,4
+838, overweight pain knee,4
+839, overweight pain knee,4
+840, overweight pain knee,4
+841, overweight pain knee,4
+842, overweight pain knee,4
+843, overweight pain knee,4
+844, overweight pain knee,4
+845,,0
+846,,0
+847,,0
+848,,0
+849,,0
+850,,0
+851,,0
+852,,0
+853,,0
+854,,0
+855,,0
+856,,0
+857,breast cancer,2
+858,breast cancer,2
+859,breast cancer,2
+860,breast cancer,2
+861,breast cancer,2
+862,breast cancer,2
+863,breast cancer,2
+864,breast cancer,2
+865,breast cancer,2
+866,breast cancer,2
+867,breast cancer,2
+868,breast cancer,2
+869,breast cancer,2
+870,breast cancer,2
+871,breast cancer,2
+872,breast cancer,2
+873,breast cancer,2
+874,breast cancer,2
+875,std  pain chlamydia abdomin sex gonorrhea prostat,8
+876,std  pain chlamydia abdomin sex gonorrhea prostat,8
+877,std  pain chlamydia abdomin sex gonorrhea prostat,8
+878,std  pain chlamydia abdomin sex gonorrhea prostat,8
+879,std  pain chlamydia abdomin sex gonorrhea prostat,8
+880,std  pain chlamydia abdomin sex gonorrhea prostat,8
+881,std  pain chlamydia abdomin sex gonorrhea prostat,8
+882,std  pain chlamydia abdomin sex gonorrhea prostat,8
+883,std  pain chlamydia abdomin sex gonorrhea prostat,8
+884,std  pain chlamydia abdomin sex gonorrhea prostat,8
+885,std  pain chlamydia abdomin sex gonorrhea prostat,8
+886,std  pain chlamydia abdomin sex gonorrhea prostat,8
+887,std  pain chlamydia abdomin sex gonorrhea prostat,8
+888,std  pain chlamydia abdomin sex gonorrhea prostat,8
+889,period breast,2
+890,period breast,2
+891,period breast,2
+892,period breast,2
+893,period breast,2
+894,period breast,2
+895,period breast,2
+896,period breast,2
+897,period breast,2
+898,period breast,2
+899,period breast,2
+900,,0
+901,,0
+902,,0
+903,,0
+904,,0
+905,,0
+906,,0
+907,,0
+908,,0
+909,,0
+910,,0
+911, amoxicillin earach,3
+912, amoxicillin earach,3
+913, amoxicillin earach,3
+914, amoxicillin earach,3
+915, amoxicillin earach,3
+916, amoxicillin earach,3
+917, amoxicillin earach,3
+918, amoxicillin earach,3
+919, amoxicillin earach,3
+920, amoxicillin earach,3
+921, amoxicillin earach,3
+922, amoxicillin earach,3
+923, amoxicillin earach,3
+924, breath chest pain deep,5
+925, breath chest pain deep,5
+926, breath chest pain deep,5
+927, breath chest pain deep,5
+928, breath chest pain deep,5
+929, breath chest pain deep,5
+930, breath chest pain deep,5
+931, breath chest pain deep,5
+932, breath chest pain deep,5
+933, breath chest pain deep,5
+934, breath chest pain deep,5
+935, breath chest pain deep,5
+936, breath chest pain deep,5
+937, sex,2
+938, sex,2
+939, sex,2
+940, sex,2
+941, sex,2
+942, sex,2
+943, sex,2
+944, sex,2
+945, sex,2
+946, sex,2
+947, spinal stenosi mri,4
+948, spinal stenosi mri,4
+949, spinal stenosi mri,4
+950, spinal stenosi mri,4
+951, spinal stenosi mri,4
+952, spinal stenosi mri,4
+953, spinal stenosi mri,4
+954, spinal stenosi mri,4
+955, spinal stenosi mri,4
+956, spinal stenosi mri,4
+957, spinal stenosi mri,4
+958, spinal stenosi mri,4
+959, spinal stenosi mri,4
+960, spinal stenosi mri,4
+961, spinal stenosi mri,4
+962, spinal stenosi mri,4
+963, spinal stenosi mri,4
+964, spinal stenosi mri,4
+965, product fever antibiot nose cough runni,7
+966, product fever antibiot nose cough runni,7
+967, product fever antibiot nose cough runni,7
+968, product fever antibiot nose cough runni,7
+969, product fever antibiot nose cough runni,7
+970, product fever antibiot nose cough runni,7
+971, product fever antibiot nose cough runni,7
+972, product fever antibiot nose cough runni,7
+973, product fever antibiot nose cough runni,7
+974, product fever antibiot nose cough runni,7
+975, product fever antibiot nose cough runni,7
+976, product fever antibiot nose cough runni,7
+977, joint arthriti pain,4
+978, joint arthriti pain,4
+979, joint arthriti pain,4
+980, joint arthriti pain,4
+981, joint arthriti pain,4
+982, joint arthriti pain,4
+983, joint arthriti pain,4
+984, joint arthriti pain,4
+985, joint arthriti pain,4
+986, joint arthriti pain,4
+987, joint arthriti pain,4
+988, joint arthriti pain,4
+989, joint arthriti pain,4
+990, joint arthriti pain,4
+991, joint arthriti pain,4
+992,pancreat abdomin fever pain nausea,5
+993,pancreat abdomin fever pain nausea,5
+994,pancreat abdomin fever pain nausea,5
+995,pancreat abdomin fever pain nausea,5
+996,pancreat abdomin fever pain nausea,5
+997,pancreat abdomin fever pain nausea,5
+998,pancreat abdomin fever pain nausea,5
+999,pancreat abdomin fever pain nausea,5
+1000,pancreat abdomin fever pain nausea,5
+1001,pancreat abdomin fever pain nausea,5
+1002,pancreat abdomin fever pain nausea,5
+1003,pancreat abdomin fever pain nausea,5
+1004,pancreat abdomin fever pain nausea,5
+1005,pancreat abdomin fever pain nausea,5
+1006,ulcer,1
+1007,ulcer,1
+1008,ulcer,1
+1009,ulcer,1
+1010,ulcer,1
+1011,ulcer,1
+1012,ulcer,1
+1013,ulcer,1
+1014,ulcer,1
+1015,ulcer,1
+1016,ulcer,1
+1017,ulcer,1
+1018,ulcer,1
+1019,ulcer,1
+1020,,0
+1021,,0
+1022,,0
+1023,,0
+1024,,0
+1025,,0
+1026,,0
+1027,,0
+1028,,0
+1029,,0
+1030,,0
+1031,,0
+1032,,0
+1033,sore tongu,2
+1034,sore tongu,2
+1035,sore tongu,2
+1036,sore tongu,2
+1037,sore tongu,2
+1038,sore tongu,2
+1039,sore tongu,2
+1040,sore tongu,2
+1041,sore tongu,2
+1042,sore tongu,2
+1043,sore tongu,2
+1044,sore tongu,2
+1045,sore tongu,2
+1046,sore tongu,2
+1047,period,1
+1048,period,1
+1049,period,1
+1050,period,1
+1051,period,1
+1052,period,1
+1053,period,1
+1054,period,1
+1055,period,1
+1056,period,1
+1057,period,1
+1058,leg,1
+1059,leg,1
+1060,leg,1
+1061,leg,1
+1062,leg,1
+1063,leg,1
+1064,leg,1
+1065,leg,1
+1066,leg,1
+1067,leg,1
+1068,leg,1
+1069,leg,1
+1070, burn flu nose,4
+1071, burn flu nose,4
+1072, burn flu nose,4
+1073, burn flu nose,4
+1074, burn flu nose,4
+1075, burn flu nose,4
+1076, burn flu nose,4
+1077, burn flu nose,4
+1078, burn flu nose,4
+1079, burn flu nose,4
+1080, cyst ovarian sex,4
+1081, cyst ovarian sex,4
+1082, cyst ovarian sex,4
+1083, cyst ovarian sex,4
+1084, cyst ovarian sex,4
+1085, cyst ovarian sex,4
+1086, cyst ovarian sex,4
+1087, cyst ovarian sex,4
+1088, cyst ovarian sex,4
+1089, cyst ovarian sex,4
+1090, cyst ovarian sex,4
+1091, attack anxieti panic ativan,5
+1092, attack anxieti panic ativan,5
+1093, attack anxieti panic ativan,5
+1094, attack anxieti panic ativan,5
+1095, attack anxieti panic ativan,5
+1096, attack anxieti panic ativan,5
+1097, attack anxieti panic ativan,5
+1098, attack anxieti panic ativan,5
+1099, attack anxieti panic ativan,5
+1100, attack anxieti panic ativan,5
+1101, attack anxieti panic ativan,5
+1102, attack anxieti panic ativan,5
+1103, attack anxieti panic ativan,5
+1104, attack anxieti panic ativan,5
+1105, attack anxieti panic ativan,5
+1106, attack anxieti panic ativan,5
+1107, attack anxieti panic ativan,5
+1108, attack anxieti panic ativan,5
+1109, attack anxieti panic ativan,5
+1110, prilosec ulcer zantac,4
+1111, prilosec ulcer zantac,4
+1112, prilosec ulcer zantac,4
+1113, prilosec ulcer zantac,4
+1114, prilosec ulcer zantac,4
+1115, prilosec ulcer zantac,4
+1116, prilosec ulcer zantac,4
+1117, prilosec ulcer zantac,4
+1118, prilosec ulcer zantac,4
+1119, prilosec ulcer zantac,4
+1120, prilosec ulcer zantac,4
+1121, allergi acn pimpl,4
+1122, allergi acn pimpl,4
+1123, allergi acn pimpl,4
+1124, allergi acn pimpl,4
+1125, allergi acn pimpl,4
+1126, allergi acn pimpl,4
+1127, allergi acn pimpl,4
+1128, allergi acn pimpl,4
+1129, allergi acn pimpl,4
+1130, allergi acn pimpl,4
+1131, allergi acn pimpl,4
+1132, allergi acn pimpl,4
+1133, allergi acn pimpl,4
+1134, allergi acn pimpl,4
+1135,compress varicos vein,3
+1136,compress varicos vein,3
+1137,compress varicos vein,3
+1138,compress varicos vein,3
+1139,compress varicos vein,3
+1140,compress varicos vein,3
+1141,compress varicos vein,3
+1142,compress varicos vein,3
+1143,compress varicos vein,3
+1144,compress varicos vein,3
+1145,compress varicos vein,3
+1146,compress varicos vein,3
+1147,compress varicos vein,3
+1148,compress varicos vein,3
+1149, fever,2
+1150, fever,2
+1151, fever,2
+1152, fever,2
+1153, fever,2
+1154, fever,2
+1155, fever,2
+1156, fever,2
+1157, fever,2
+1158, fever,2
+1159, fever,2
+1160, fever,2
+1161, fever,2
+1162, headach dizzi tension heartburn indigest vision,7
+1163, headach dizzi tension heartburn indigest vision,7
+1164, headach dizzi tension heartburn indigest vision,7
+1165, headach dizzi tension heartburn indigest vision,7
+1166, headach dizzi tension heartburn indigest vision,7
+1167, headach dizzi tension heartburn indigest vision,7
+1168, headach dizzi tension heartburn indigest vision,7
+1169, headach dizzi tension heartburn indigest vision,7
+1170, headach dizzi tension heartburn indigest vision,7
+1171, headach dizzi tension heartburn indigest vision,7
+1172, headach dizzi tension heartburn indigest vision,7
+1173, headach dizzi tension heartburn indigest vision,7
+1174, headach dizzi tension heartburn indigest vision,7
+1175, headach dizzi tension heartburn indigest vision,7
+1176, headach dizzi tension heartburn indigest vision,7
+1177,vagin discharg,2
+1178,vagin discharg,2
+1179,vagin discharg,2
+1180,vagin discharg,2
+1181,vagin discharg,2
+1182,vagin discharg,2
+1183,vagin discharg,2
+1184,vagin discharg,2
+1185,vagin discharg,2
+1186,vagin discharg,2
+1187,vagin discharg,2
+1188,vagin discharg,2
+1189,neck,1
+1190,neck,1
+1191,neck,1
+1192,neck,1
+1193,neck,1
+1194,neck,1
+1195,neck,1
+1196,neck,1
+1197,neck,1
+1198,neck,1
+1199,neck,1
+1200,neck,1
+1201,neck,1
+1202,urin pregnanc,2
+1203,urin pregnanc,2
+1204,urin pregnanc,2
+1205,urin pregnanc,2
+1206,urin pregnanc,2
+1207,urin pregnanc,2
+1208,urin pregnanc,2
+1209,urin pregnanc,2
+1210,urin pregnanc,2
+1211,urin pregnanc,2
+1212,urin pregnanc,2
+1213,urin pregnanc,2
+1214, urin,2
+1215, urin,2
+1216, urin,2
+1217, urin,2
+1218, urin,2
+1219, urin,2
+1220, urin,2
+1221, urin,2
+1222, urin,2
+1223, urin,2
+1224, urin,2
+1225, urin,2
+1226, urin,2
+1227, stress anxieti sleep workout,5
+1228, stress anxieti sleep workout,5
+1229, stress anxieti sleep workout,5
+1230, stress anxieti sleep workout,5
+1231, stress anxieti sleep workout,5
+1232, stress anxieti sleep workout,5
+1233, stress anxieti sleep workout,5
+1234, stress anxieti sleep workout,5
+1235, stress anxieti sleep workout,5
+1236, stress anxieti sleep workout,5
+1237, stress anxieti sleep workout,5
+1238, stress anxieti sleep workout,5
+1239, stress anxieti sleep workout,5
+1240, stress anxieti sleep workout,5
+1241, stress anxieti sleep workout,5
+1242, stress anxieti sleep workout,5
+1243, stress anxieti sleep workout,5
+1244, stress anxieti sleep workout,5
+1245, stress anxieti sleep workout,5
+1246, std vagin discharg,4
+1247, std vagin discharg,4
+1248, std vagin discharg,4
+1249, std vagin discharg,4
+1250, std vagin discharg,4
+1251, std vagin discharg,4
+1252, std vagin discharg,4
+1253, std vagin discharg,4
+1254, std vagin discharg,4
+1255, std vagin discharg,4
+1256, std vagin discharg,4
+1257, std vagin discharg,4
+1258, std vagin discharg,4
+1259, std vagin discharg,4
+1260,,1
+1261,,1
+1262,,1
+1263,,1
+1264,,1
+1265,,1
+1266,,1
+1267,,1
+1268,,1
+1269,,1
+1270,,1
+1271,,1
+1272,surgeri,1
+1273,surgeri,1
+1274,surgeri,1
+1275,surgeri,1
+1276,surgeri,1
+1277,surgeri,1
+1278,surgeri,1
+1279,surgeri,1
+1280,surgeri,1
+1281,surgeri,1
+1282,surgeri,1
+1283,surgeri,1
+1284, pain surgeri percocet tramadol endometriosi fibroid,7
+1285, pain surgeri percocet tramadol endometriosi fibroid,7
+1286, pain surgeri percocet tramadol endometriosi fibroid,7
+1287, pain surgeri percocet tramadol endometriosi fibroid,7
+1288, pain surgeri percocet tramadol endometriosi fibroid,7
+1289, pain surgeri percocet tramadol endometriosi fibroid,7
+1290, pain surgeri percocet tramadol endometriosi fibroid,7
+1291, pain surgeri percocet tramadol endometriosi fibroid,7
+1292, pain surgeri percocet tramadol endometriosi fibroid,7
+1293, pain surgeri percocet tramadol endometriosi fibroid,7
+1294, pain surgeri percocet tramadol endometriosi fibroid,7
+1295, pain surgeri percocet tramadol endometriosi fibroid,7
+1296, pain surgeri percocet tramadol endometriosi fibroid,7
+1297, pain surgeri percocet tramadol endometriosi fibroid,7
+1298, pain surgeri percocet tramadol endometriosi fibroid,7
+1299,backach nausea dizzi sex,4
+1300,backach nausea dizzi sex,4
+1301,backach nausea dizzi sex,4
+1302,backach nausea dizzi sex,4
+1303,backach nausea dizzi sex,4
+1304,backach nausea dizzi sex,4
+1305,backach nausea dizzi sex,4
+1306,backach nausea dizzi sex,4
+1307,backach nausea dizzi sex,4
+1308,backach nausea dizzi sex,4
+1309,backach nausea dizzi sex,4
+1310,backach nausea dizzi sex,4
+1311, dizzi,2
+1312, dizzi,2
+1313, dizzi,2
+1314, dizzi,2
+1315, dizzi,2
+1316, dizzi,2
+1317, dizzi,2
+1318, dizzi,2
+1319, dizzi,2
+1320, dizzi,2
+1321,sciatica bulg hernia,3
+1322,sciatica bulg hernia,3
+1323,sciatica bulg hernia,3
+1324,sciatica bulg hernia,3
+1325,sciatica bulg hernia,3
+1326,sciatica bulg hernia,3
+1327,sciatica bulg hernia,3
+1328,sciatica bulg hernia,3
+1329,sciatica bulg hernia,3
+1330,sciatica bulg hernia,3
+1331,sciatica bulg hernia,3
+1332,sciatica bulg hernia,3
+1333,sciatica bulg hernia,3
+1334,sciatica bulg hernia,3
+1335,sciatica bulg hernia,3
+1336,sciatica bulg hernia,3
+1337,sciatica bulg hernia,3
+1338,antibiot relief,2
+1339,antibiot relief,2
+1340,antibiot relief,2
+1341,antibiot relief,2
+1342,antibiot relief,2
+1343,antibiot relief,2
+1344,antibiot relief,2
+1345,antibiot relief,2
+1346,antibiot relief,2
+1347,antibiot relief,2
+1348,antibiot relief,2
+1349,antibiot relief,2
+1350,antibiot relief,2
+1351, pelvic pain period cyst,5
+1352, pelvic pain period cyst,5
+1353, pelvic pain period cyst,5
+1354, pelvic pain period cyst,5
+1355, pelvic pain period cyst,5
+1356, pelvic pain period cyst,5
+1357, pelvic pain period cyst,5
+1358, pelvic pain period cyst,5
+1359, pelvic pain period cyst,5
+1360, pelvic pain period cyst,5
+1361, pelvic pain period cyst,5
+1362, pelvic pain period cyst,5
+1363, pelvic pain period cyst,5
+1364,knee swell,2
+1365,knee swell,2
+1366,knee swell,2
+1367,knee swell,2
+1368,knee swell,2
+1369,knee swell,2
+1370,knee swell,2
+1371,knee swell,2
+1372,knee swell,2
+1373,knee swell,2
+1374,knee swell,2
+1375,knee swell,2
+1376,knee swell,2
+1377,knee swell,2
+1378,knee swell,2
+1379,knee swell,2
+1380,knee swell,2
+1381,knee swell,2
+1382,knee swell,2
+1383,knee swell,2
+1384,knee swell,2
+1385,knee swell,2
+1386,prolaps mitral valv  regurgit,5
+1387,prolaps mitral valv  regurgit,5
+1388,prolaps mitral valv  regurgit,5
+1389,prolaps mitral valv  regurgit,5
+1390,prolaps mitral valv  regurgit,5
+1391,prolaps mitral valv  regurgit,5
+1392,prolaps mitral valv  regurgit,5
+1393,prolaps mitral valv  regurgit,5
+1394,prolaps mitral valv  regurgit,5
+1395,prolaps mitral valv  regurgit,5
+1396,prolaps mitral valv  regurgit,5
+1397,prolaps mitral valv  regurgit,5
+1398,prolaps mitral valv  regurgit,5
+1399,prolaps mitral valv  regurgit,5
+1400,prolaps mitral valv  regurgit,5
+1401,fibroid adenomyosi,2
+1402,fibroid adenomyosi,2
+1403,fibroid adenomyosi,2
+1404,fibroid adenomyosi,2
+1405,fibroid adenomyosi,2
+1406,fibroid adenomyosi,2
+1407,fibroid adenomyosi,2
+1408,fibroid adenomyosi,2
+1409,fibroid adenomyosi,2
+1410,fibroid adenomyosi,2
+1411,fibroid adenomyosi,2
+1412,fibroid adenomyosi,2
+1413,fibroid adenomyosi,2
+1414,fibroid adenomyosi,2
+1415,fibroid adenomyosi,2
+1416,fibroid adenomyosi,2

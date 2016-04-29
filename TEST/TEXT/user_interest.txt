@@ -3,6 +3,12 @@ nan
 depress  fibromyalgia  hypertens  anxieti  urin drug screen  pain manag  diabet type 2  drug abus blood panel  otc medic  narcot pain medic  narcot detox  opiat confirm toxicolog screen  narcot combin pain  vitamin supplement  opioid abus  prescript drug abus  pain medic  comprehens urin drug screen
 contracept  endometriosi  vagin infect
 cancer  depress pregnanc  wart  ovarian cancer  chronic pelvic pain
+femal health  pelvic pain  healthi pregnanc  contracept  mens  eat disord  exercis  eat healthier  healthi cook  bleed  endometriosi  uterin fibroid  hormon treatment  minim invas surgeri  femal sexual dysfunct
+cancer  pap smear  femal health  thyroid cancer  gastriti  human immunodefici virus  hep c  hepat c  fine needl aspir  thyroid nodul  skin biopsi  pimpl  colonoscopi  mole  melanoma  skin cancer  ulcer  migrain  cervic  antithyroid medic
+sleep  anxieti  femal health  exercis  exercis  depress  psychiatri  eat healthier  stress  lose weight  stress less  psychiatr drug  insomnia  exercis program  acupunctur  sleep better  health educ  women health  anxieti disord  lifestyl chang
+diabet  human immunodefici virus  constip  asthma  suboxon  hyperlipidemia  weight loss program
+arthriti  fibromyalgia  rheumatoid arthriti  osteoarthr  vascul
+polycyst ovarian syndrom  infertil  endometriosi  male infertil  recurr pregnanc loss  oocyt donat
 wart  toenail  ingrown toenail  athlet foot  plantar fasciiti  plantar wart  toenail fungus
 plantar fasciiti  ingrown toenail  hammerto correct  morton neuroma  bunion remov
 bunion  diabet foot  ankl fractur  foot surgeri  ankl surgeri  ankl disord
@@ -11,6 +17,12 @@ total ankl replac  foot swell  broken ankl  ankl arthroscopi  sport injuri  flat
 diabet foot  orthot  wound care  biomechan  foot deform
 leg pain  plantar fasciiti  ankl pain
 arthriti  fibromyalgia  rheumatoid arthriti  osteoarthr  vascul
+cough  anxieti  cancer  yeast infect  bowel obstruct  contracept  women health
+nan
+hemorrhoid  backach
+plantar fasciiti  diabet foot  neuroma
+knee replac  total knee replac  partial knee replac  knee arthroscopi  total hip replac  partial hip replac  shoulder arthroscopi  hip fractur
+nan
 breast cancer  colon cancer  lung cancer  melanoma  gi cancer
 colon cancer  pilonid cyst  diverticul  colonoscopi  hemorrhoid  anal fissur  append  diverticulosi  lipoma  rectocel  inguin hernia  colon polyp  umbil hernia  adenocarcinoma  hirschsprung diseas  rectal prolaps  anal cancer  sacral nerv stimul  fecal incontin adult  rectal prolaps repair
 nausea  surgeri  cancer  colonoscopi  abdomin pain  constip  nasal  anal fissur  ach  iron poor blood  hemorrhoid  fecal retent  bleed  diet  supplement  yellow eye skin  hernia  nutrit  rectal bleed  infecti diseas
@@ -27,6 +39,12 @@ surgeri  hernia  abdomin pain  motor vehicl accid  sonogram
 cancer  acn  human immunodefici virus  nutrit  femal health  child health  breast cancer  male health  vitamin defici  breast carcinoma  pap smear  scar  exercis  anemia  lung cancer  iron defici anemia
 hemorrhoid  colon cancer  constip  irrit bowel syndrom  colonoscopi  diverticul  blood stool  abdomin pain  coliti  rectal cancer  anal fissur  inflammatori bowel diseas  diverticular diseas
 nan
+cancer  nutrit  cervic cancer  ovarian cancer
+inflammatori bowel diseas  ulcer coliti  crohn diseas  colon rectal surgeri  colorect cancer  hemorrhoid  pilonid diseas  anal cancer  anal fissur
+colonoscopi  cancer  colon cancer  prevent medicin  magnesium citrat  ulcer  coliti  ulcer coliti  malais  flexibl sigmoidoscopi  hctz  hydrochlorothiazid  incontin  anemia  blood stool  nutrit  low blood count  norco  digest health  irrit bowel syndrom
+hemorrhoid  colon cancer  constip  irrit bowel syndrom  colonoscopi  diverticul  blood stool  abdomin pain  coliti  rectal cancer  anal fissur  inflammatori bowel diseas  diverticular diseas
+osteoarthr  well lifestyl  prevent medicin  infant health  child health  adolesc health  feel good
+cancer  breast cancer  low blood count  chemotherapi  leukemia  ovarian cancer  anemia  lung cancer  kidney cancer  breast carcinoma  mouth cancer  prostat cancer  laparoscop surgeri  enlarg lymph node  lymphoma  bruis  hematolog diseas  cervic cancer  colon cancer  itp
 endometriosi  pelvic pain  pelvic laparoscopi  excess menstrual bleed
 cancer  hernia  hemorrhoid  wart
 prevent medicin  malign hyperthermia  emerg medic care  sport medicin
@@ -37,12 +55,26 @@ cancer  melanoma  stomach cancer  laparoscop surgeri  liver cancer  pancreat can
 fetal ultrasound  ultrasound thyroid
 shock  toxic shock syndrom  mrsa  accident poison
 renal impair  diabet  dialysi servic
+femal health  contracept  mens  healthi pregnanc  morn pill  intrauterin devic  oral contracept  abort  obstetr  femal steril surgeri  male contracept
+cancer  lymphoma  leukemia  multipl myeloma  cancer treatment  lung cancer  bone diseas
+cancer  hepat  diet  inflammatori bowel diseas  nutrit support  well lifestyl
+breast implant  liposuct  tummi tuck  facelift  breast augment  tuck  facial plastic surgeri  labiaplasti  labial reduct
+cancer  gi cancer  anemia  breast cancer  lung cancer  colorect cancer  gestat diabet mellitus  pancreat cancer  blood disord
+nan
+cardiovascular diseas
+cancer  ovarian cancer  cervic cancer  vulvar cancer  molar pregnanc  endometri cancer  chemotherapi  uterin cancer  vagin cancer  pelvic exenter  hereditari ovarian cancer  pelvic support problem  urinari incontin
 lasik  cataract surgeri  dri eye  corneal transplant
 cataract  cataract surgeri  glaucoma  dri eye  ophthalmolog  cataract remov  retin disord  eyelid surgeri  corneal opac
 aid  pneumonia  urinari tract infect  sexual transmit diseas  infect heart valv  bacteri infect  bacteri endocard  osteomyel  respiratori tract infect  septic arthriti  pneumocysti jirovecii pneumonia  prophylact antibiot
 nan
 child health  femal health  cough  sleep  hormon disord  thyroid hormon  anti age medicin
 arthriti  fibromyalgia  gout  knee pain
+nan
+allergi  asthma  skin rash  allerg reaction  rhiniti  celiac diseas  dermat  immun diseas  atop dermat  black mold allergi
+pediatr pulmonolog  pulmonolog  infant health  infant toddler health  prematur deliveri
+chest pain  chest tight  angina  chest pressur  sore throat  urgent care  famili medicin  sexual health
+nan
+chest pain
 cancer  acn  human immunodefici virus  nutrit  femal health  child health  breast cancer  male health  vitamin defici  breast carcinoma  pap smear  scar  exercis  anemia  lung cancer  iron defici anemia
 breast cancer  chemotherapi  ovarian cancer  metastat breast cancer  medic oncolog
 cancer  chemotherapi  leukemia  lung cancer  lymphoma  colon cancer  skin cancer  melanoma  cervic cancer  mouth cancer  ovarian cancer  multipl myeloma  stomach cancer  chronic myelogen leukemia  throat cancer  oncolog  thrombocytopenia  small cell lung cancer  chronic leukemia  oral cancer
@@ -51,17 +83,39 @@ breast cancer  chemotherapi  ovarian cancer  metastat breast cancer  medic oncol
 breast cancer  colon cancer  lung cancer  melanoma  gi cancer
 hysterectomi  gonorrhea
 cancer  chemotherapi  leukemia  lung cancer  lymphoma  colon cancer  skin cancer  melanoma  cervic cancer  mouth cancer  ovarian cancer  multipl myeloma  stomach cancer  chronic myelogen leukemia  throat cancer  oncolog  thrombocytopenia  small cell lung cancer  chronic leukemia  oral cancer
+abnorm vagin bleed  contracept counsel  intrauterin devic insert  rotterdam polycyst ovarian syndrom pcos panel
+cll  lymphoma  cml  blood lymph cancer  multipl myeloma  hemochromatosi  langerhan cell histiocytosi
+breast cancer  oncolog  malign melanoma
+cancer  hernia  hemorrhoid  wart
+cancer  hernia  hemorrhoid  wart
+laparoscop surgeri  weight loss surgeri  gastric band  pelvic abscess
+cancer  breast cancer  breast carcinoma  breast diseas  surgeri  abdomin pain  gallston  mammogram  ultrasound breast  breast abscess
+cancer  chemotherapi  leukemia  lung cancer  lymphoma  colon cancer  skin cancer  melanoma  cervic cancer  mouth cancer  ovarian cancer  multipl myeloma  stomach cancer  chronic myelogen leukemia  throat cancer  oncolog  thrombocytopenia  small cell lung cancer  chronic leukemia  oral cancer
+cancer  breast cancer  low blood count  chemotherapi  leukemia  ovarian cancer  anemia  lung cancer  kidney cancer  breast carcinoma  mouth cancer  prostat cancer  laparoscop surgeri  enlarg lymph node  lymphoma  bruis  hematolog diseas  cervic cancer  colon cancer  itp
+nan
+breast cancer  cancer  gallbladd diseas  hernia  mammogram  breast carcinoma  colorect cancer  proctolog  inguin hernia  breast lump  injuri wound  mastectomi  hernia repair
 breast implant  liposuct  tummi tuck  facelift  breast augment  tuck  facial plastic surgeri  labiaplasti  labial reduct
 menopaus  cancer  itch  abdomin pain  dysmenorrhea  pelvic exam  male menopaus  bioident hormon  gynecolog surgeri  urinari incontin
 cancer  pap smear  femal health  thyroid cancer  gastriti  human immunodefici virus  hep c  hepat c  fine needl aspir  thyroid nodul  skin biopsi  pimpl  colonoscopi  mole  melanoma  skin cancer  ulcer  migrain  cervic  antithyroid medic
 cancer  diabet  gastroenterolog  cardiovascular diseas
 femal steril surgeri  abdomin adhes  hysteroscopi  minim invas surgeri  uterin abnorm
+contracept  hysterectomi  sexual transmit diseas  urinari incontin  menorrhagia  teen pregnanc  endometri ablat  high risk pregnanc  hysteroscopi  essur
+femal health  healthi pregnanc  mens  contracept  bleed  tubal ligat  vagin discharg  pelvic pain  vagin bleed  high risk pregnanc  hormon treatment
+femal health  healthi pregnanc  polycyst ovarian syndrom  mens  contracept  hysterectomi  cancer  ovul  laparoscop surgeri  normal childbirth  child health  pap smear  endometriosi  bleed  vagin hysterectomi  surgeri  spot  breast cancer  robot surgeri  da vinci robot surgeri
+laparoscop surgeri  bacteri infect vagina  genit wart  repeat ultrasound  high risk pregnanc  femal infertil  gynecolog cancer
+sleep  anxieti  femal health  exercis  exercis  depress  psychiatri  eat healthier  stress  lose weight  stress less  psychiatr drug  insomnia  exercis program  acupunctur  sleep better  health educ  women health  anxieti disord  lifestyl chang
 knee replac  total knee replac  arthroscopi  total hip replac  surgeri  knee arthroscopi  shoulder arthroplasti  partial knee replac
 surgeri  orthot  co2 laser  co2 laser  fungal nail infect  foot surgeri  orthot
 exercis  well lifestyl  sport medicin  knee pain  knee replac  vitamin supplement  total knee replac  total hip replac  weight manag  tendon  patella  sport injuri  acl reconstruct  hip repair  arthroplasti  partial knee replac  sport fit  orthoped brace
 wart  toenail  ingrown toenail  athlet foot  plantar fasciiti  plantar wart  toenail fungus
 arthroscopi  exercis  disloc  physic therapi  rotat cuff injuri  acl reconstruct  knee arthroscopi  bow leg  acl injuri  hip arthroscopi  shoulder arthroscopi  rotat cuff repair  pcl reconstruct  acl tear  sport medicin  partial knee replac  cartilag disord  open repair knee disloc  reconstruct disloc kneecap  meniscus tranplant
 backach
+avascular necrosi  leg pain  neck fractur  ruptur disk
+scaphoid fractur  carpal tunnel surgeri  wrist fractur surgeri  dupuytren contractur  wrist surgeri
+backach
+hip arthroscopi  knee arthroscopi  shoulder arthroscopi  shoulder injuri disord
+nan
+orthot  hammerto correct  ankl trauma  bunion repair  flat feet  diabet foot
 circumcis  bedwet  incontin  kidney problem  hypospadia repair  bladder exstrophi repair
 vaccin  aid  viral hepat  biodefens bioterror  foodborn ill
 child health  vaccin  autism  autism spectrum disord  pediatr  sid  foster care  fever  age grace  immun  babi hiccup
@@ -69,6 +123,11 @@ circumcis  bedwet  incontin  kidney problem  hypospadia repair  bladder exstroph
 crowd teeth  dental implant  cosmet dentistri  snore
 nan
 prevent medicin  malign hyperthermia  emerg medic care  sport medicin
+heat pad  varicos vein  exercis  pain manag  spinal compress fractur  dialysi  peripher arteri diseas
+aid  pneumonia  urinari tract infect  sexual transmit diseas  infect heart valv  bacteri infect  bacteri endocard  osteomyel  respiratori tract infect  septic arthriti  pneumocysti jirovecii pneumonia  prophylact antibiot
+hiv aid  sexual transmit diseas  syphili  sexual transmit infect  sexual health  hiv medic
+nutrit  kidney diseas  gout  nephrolithiasi  hypertens  kidney stone  sodium  exercis  potassium  urinari tract infect  nephrolog dialysi  abnorm blood pressur  dialysi  polycyst kidney diseas  periton dialysi  diabet nephropathi
+chlamydia infect  sexual transmit diseas  sexual transmit infect  human immunodefici virus  gonorrhea  hsv type 1 2  trichomona  hsv  syphili  bacteri vaginosi vagin panel  urethr  std prevent  hiv prevent
 cancer  nutrit  cervic cancer  ovarian cancer
 cancer  acn  human immunodefici virus  nutrit  femal health  child health  breast cancer  male health  vitamin defici  breast carcinoma  pap smear  scar  exercis  anemia  lung cancer  iron defici anemia
 cancer  acn  human immunodefici virus  nutrit  femal health  child health  breast cancer  male health  vitamin defici  breast carcinoma  pap smear  scar  exercis  anemia  lung cancer  iron defici anemia
@@ -76,6 +135,12 @@ cancer  nutrit  cervic cancer  ovarian cancer
 human immunodefici virus  male health  sexual transmit infect  depress  lose weight  testosteron  diabet  aid  std  addict  alcohol  men health  gay  lesbian transgend health
 nan
 cancer  acn  human immunodefici virus  nutrit  femal health  child health  breast cancer  male health  vitamin defici  breast carcinoma  pap smear  scar  exercis  anemia  lung cancer  iron defici anemia
+human immunodefici virus  male health  sexual transmit infect  depress  lose weight  testosteron  diabet  aid  std  addict  alcohol  men health  gay  lesbian transgend health
+dysenteri
+asthma  pediatr  immun  prevent medicin  metabol syndrom  endocrinolog
+cancer  nutrit  cervic cancer  ovarian cancer
+cancer  hepat  diet  inflammatori bowel diseas  nutrit support  well lifestyl
+arthriti  nutrit support  well lifestyl  cardiovascular diseas  drug problem
 femal health  heart attack  cancer  headach  exercis  healthi pregnanc  child diabet  diabet  vitamin b9  child health  children health  diet
 menopaus  osteoporosi  contracept  obstetr  pelvic laparoscopi  minim invas surgeri  oral contracept  da vinci robot surgeri  hysteroscopi  hysterectomi
 heat pad  varicos vein  exercis  pain manag  spinal compress fractur  dialysi  peripher arteri diseas
@@ -83,6 +148,12 @@ gi surgeri  primari care facil
 nan
 infertil  ivf pregnanc  polycyst ovarian syndrom  femal infertil  fertil treatment
 nan
+nan
+pain back  surgeri  cough  halfprin  allergi  asthma  cancer  empirin  hemorrhoid  skin rash  itch  gout  bayer  rash  chest pain  swell  fever  mens  diet  pimpl
+women health  well lifestyl  acupunctur  holist medicin
+headach  lose weight  diabet  fibromyalgia  chronic pain  alcohol  manag high blood pressur  live fibromyalgia fms
+circumcis  bedwet  incontin  kidney problem  hypospadia repair  bladder exstrophi repair
+vaccin  aid  viral hepat  biodefens bioterror  foodborn ill
 aid  hiv drug  hiv test
 plantar fasciiti  diabet foot  neuroma
 abdomin pain  children health  live type 2 diabet  warm knee  abdomin discomfort  hemorrhoid  hernia  gallston  abdomin colic  abdomin bloat  laparoscopi  pancreat  ciprofloxacin  ondansetron  zofran  metronidazol  diverticul  dicyclomin  rectal prolaps  bentyl
@@ -92,6 +163,17 @@ numb  orthot  wound heal  diabet  children health  peripher neuropathi  lymphede
 child health  femal health  cough  sleep  hormon disord  thyroid hormon  anti age medicin
 dermatolog  gynecolog  allergi
 sleep  breast pump  breast engorg  clog milk duct  safeti
+mrsa  infecti diseas  pneumonia  streptococc infect  urinari tract infect  mono  cough  abscess  bacteri infect  antibiot  common cold  fever  fungal infect  treatment antibiot
+hernia  surgeri  hiatal hernia  hernia repair  inguin hernia  lump groin  groin hernia  gastroesophag reflux diseas  umbil hernia  inguin hernia repair  umbil hernia repair  inguin hernia surgeri
+asthma  cardiovascular diseas  diabet risk
+hernia  cancer  breast cancer  surgeri  inguin hernia  hiatal hernia  exercis  gallston  laparoscop surgeri  diverticul  egd  skin cancer  melanoma  gi cancer
+urinari tract infect
+sleep  femal health  acn  diabet  cancer  depress  child diabet  facial pimpl  lose weight  asthma  diabet risk  cerebr apoplexi  laparoscop surgeri  sleep disord  foul tast mouth  feel anxious  drowsi  fever  weight loss program  intern medicin pediatr
+breastfeed consult  women health  homeopathi  infant feed disord
+nan
+child health  vaccin  autism  autism spectrum disord  pediatr  sid  foster care  fever  age grace  immun  babi hiccup
+tmj syndrom  tooth pain  gingiv  gum diseas  periodont  temporomandibular disord  dental implant  gum bleed  dental care  oral surgeri  teeth  teeth brush  joint  bone loss  cosmet dentistri  dental health  partial dentur  dental bridg  dental laser
+child health  children health  asthma  panadol  fever  pediatr  adolesc health  eat disord
 foot care  diabet foot  pediatr
 plantar fasciiti  diabet foot  neuroma
 allergi  asthma  skin rash  allerg reaction  rhiniti  celiac diseas  dermat  immun diseas  atop dermat  black mold allergi
@@ -99,18 +181,38 @@ arthroscopi  exercis  disloc  physic therapi  rotat cuff injuri  acl reconstruct
 sport medicin
 famili relationship  hospic care  emerg medic care  high risk pregnanc  educ
 human immunodefici virus  male health  sexual transmit infect  depress  lose weight  testosteron  diabet  aid  std  addict  alcohol  men health  gay  lesbian transgend health
+surgeri  ankl sprain  exercis  arthriti  total ankl replac  swollen ball foot
+pain back  inhal
+zestril  prinivil  gout  sprain  sprain strain  broken bone  splint  exercis  bruis  ecchymos  ankl pain  ligament tear  ankl sprain  anemia  blister  burn  psoriasi
+travel medicin  adult immun  famili relationship  stress manag
+aid  pneumonia  urinari tract infect  sexual transmit diseas  infect heart valv  bacteri infect  bacteri endocard  osteomyel  respiratori tract infect  septic arthriti  pneumocysti jirovecii pneumonia  prophylact antibiot
+children health
+dizzi  back pain  allergi  blister  diabet type 2  depress  amoxil  anxieti disord  asthma  streptococc infect  aerob exercis  depress adult  telemedicin  essenti hypertens  primari care facil
 femal health  healthi pregnanc  mens  contracept  bleed  tubal ligat  vagin discharg  pelvic pain  vagin bleed  high risk pregnanc  hormon treatment
 essenti hypertens  acut renal failur  dialysi servic  diabet nephropathi
 femal health  healthi pregnanc  mens  contracept  bleed  tubal ligat  vagin discharg  pelvic pain  vagin bleed  high risk pregnanc  hormon treatment
 arthriti  fibromyalgia  rheumatoid arthriti  osteoarthr  vascul
 vitamin defici  supplement  vitamin  lyme diseas  stress less  vitamin supplement  vitamin b12  child health  vitamin c  homeopathi  ascorb acid  diet  vegetarian diet  herbal supplement  holist medicin  integr medicin  well lifestyl  nutrit support  medicin herb  medit program
 testosteron  androderm  male health  testoderm  erectil dysfunct  inabl sustain erect  inabl attain erect  dementia  alzheim diseas  dht  muse  hypogonad  fluphenazin  alprostadil  impot  viagra  erectil failur  prolixin
+prostat cancer  bladder cancer  urinari incontin
+nan
+travel medicin  adult immun  famili relationship  stress manag
+circumcis  bedwet  incontin  kidney problem  hypospadia repair  bladder exstrophi repair
+incontin  urinari tract infect  femal health  urinari incontin  hysterectomi  surgeri  menopaus  laparoscop surgeri  cystocel  cystometrogram
+nan
+prevent medicin  malign hyperthermia  emerg medic care  sport medicin
 lasik  cataract surgeri  dri eye  corneal transplant
 lasik  cataract surgeri  glaucoma microsurgeri  corneal transplant  keratoconus
 vision  glass  vision loss  eyeglass  contact len  glaucoma  loss vision  pink eye  conjunct  lasik  nearsighted  hazi vision  blurri vision  ophthalmolog  astigmat  artifici tear  cataract
 children health  sleep  fever  tuberculosi  asthma  adhd  white nois  rhiniti  whoop cough  invert nippl  vomit  frequent urin  chill  breast pump
 vision  blurri vision  macular degener  floater  hazi vision  retin detach  diabet  detach retina  eye floater  vitrectomi  ophthalmolog  retin disord  retin detach repair  retin vein occlus
 child health  chickenpox  ear infect  sleep hygien  learn disord
+surgeri  back pain  anesthesia  chest pain  backach  blood thinner  chloral hydrat  addict  propofol  labor pain
+child health  chickenpox  ear infect  sleep hygien  learn disord
+nan
+nan
+vision  glass  vision loss  eyeglass  contact len  glaucoma  loss vision  pink eye  conjunct  lasik  nearsighted  hazi vision  blurri vision  ophthalmolog  astigmat  artifici tear  cataract
+vision  glass  vision loss  eyeglass  contact len  glaucoma  loss vision  pink eye  conjunct  lasik  nearsighted  hazi vision  blurri vision  ophthalmolog  astigmat  artifici tear  cataract
 lasik  cataract surgeri  dri eye  corneal transplant
 cataract  lasik  cataract surgeri  cloudi vision
 vision  glass  vision loss  eyeglass  contact len  glaucoma  loss vision  pink eye  conjunct  lasik  nearsighted  hazi vision  blurri vision  ophthalmolog  astigmat  artifici tear  cataract
@@ -119,12 +221,28 @@ blurri vision  vision  irrit eye
 lasik  astigmat  refract surgeri  eye doctor  nearsighted surgeri  cataract surgeri  surfer eye surgeri  farsighted  dri eye  treat astigmat
 lasik  cataract surgeri  dri eye  corneal transplant
 lasik  lasek eye surgeri  surgeri  vision  prk  macular degener  eye surgeri  conjunct  refract surgeri
+lasik  cataract surgeri  dri eye  corneal transplant
+eye health  cataract surgeri  lasik  intraocular len  laser surgeri glaucoma
+lasik  lasek eye surgeri  surgeri  vision  prk  macular degener  eye surgeri  conjunct  refract surgeri
+eye surgeri  cataract surgeri  irrit eye  lasik  patient communic  veteran militari health
+cataract surgeri  glaucoma  surfer eye surgeri
+lasik  cataract surgeri  dri eye  corneal transplant
+cataract surgeri
+lasik  cataract surgeri
+lasik  astigmat  refract surgeri  eye doctor  nearsighted surgeri  cataract surgeri  surfer eye surgeri  farsighted  dri eye  treat astigmat
+lasik  refract surgeri  cataract surgeri  eyelid surgeri  diabet eye problem
+lasik  cataract surgeri  dri eye  corneal transplant
 famili relationship  hospic care  emerg medic care  high risk pregnanc  educ
 nan
 herp simplex  infertil  birth defect  hospit
 nan
 menopaus  cancer  itch  abdomin pain  dysmenorrhea  pelvic exam  male menopaus  bioident hormon  gynecolog surgeri  urinari incontin
 high risk pregnanc  obstetr  menopaus  hormon replac
+nan
+femal health  healthi pregnanc  polycyst ovarian syndrom  mens  contracept  hysterectomi  cancer  ovul  laparoscop surgeri  normal childbirth  child health  pap smear  endometriosi  bleed  vagin hysterectomi  surgeri  spot  breast cancer  robot surgeri  da vinci robot surgeri
+famili relationship  hospic care  emerg medic care  high risk pregnanc  educ
+femal health  healthi pregnanc  mens  contracept  bleed  tubal ligat  vagin discharg  pelvic pain  vagin bleed  high risk pregnanc  hormon treatment
+contracept  hysterectomi  sexual transmit diseas  urinari incontin  menorrhagia  teen pregnanc  endometri ablat  high risk pregnanc  hysteroscopi  essur
 vertigo  fibromyalgia  backach  lightheaded  scoliosi  leg pain  migrain headach  sever back pain  seizur  anxieti disord  dementia  psychiatr drug  seizur drug
 backach  back pain  scoliosi  spinal stenosi  pain back  surgeri  sciatica  exercis  bulg disk  abnorm curvatur spine  neck pain  numb  spinal fusion  physic therapi  cervic spine  whiplash  spondylolisthesi
 child health  femal health  cough  sleep  hormon disord  thyroid hormon  anti age medicin
@@ -132,11 +250,24 @@ acn  cosmet surgeri  swallow disord  hoars  head neck cancer
 nan
 nan
 tmj syndrom  sleep apnea  facial pain  trigemin neuralgia  headach disord
+rheumat diseas
+primari care servic
+allergi  skin rash  asthma  cough  child health  dermat  runni nose  rhiniti  food allergi  child allergi  allerg reaction  stuf nose  chronic sinus  allerg rhiniti  hereditari angioedema
+anxieti  bipolar disord  manic depress disord  person disord  dementia  memori  anxieti disord  borderlin person disord  post traumat stress disord  social anxieti disord  mind medit  general anxieti disord  vascular dementia  age grace  relax techniqu
+gi surgeri  primari care facil
+nan
+nan
 acn  psoriasi  contact dermat  skin cancer  topic medic laser treatment
 dermatolog  moh micrograph surgeri  plastic cosmet surgeri  pediatr dermatolog  laser therapi
 child allergi  asthma  allergi  child health  hypersensit  children health  rash  cough  nasal  itch  allerg reaction  rhiniti  fever  psoriasi  immun defici  food allergi  atop dermat  insect venom panel  chronic sinus  acut sinus
 mens  bleed  ovul  prematur  stomach cramp  itch  insomnia  cesarean section  fibromyalgia  menopaus  hysterectomi  depress pregnanc  perimenopaus  chronic pelvic pain  ovarian cyst remov  chronic fatigu  insomnia adult  mild headach  depress adult
 allergi  asthma  skin rash  allerg reaction  rhiniti  celiac diseas  dermat  immun diseas  atop dermat  black mold allergi
+sleep  backach  emot problem  joint pain  dementia
+arthriti  fibromyalgia  rheumatoid arthriti  osteoarthr  vascul
+children health  cough  sleep  skin rash  diarrhea  loos stool  femal health  otiti media  ear infect  vaccin  healthi pregnanc  dermat  vomit  pediatr  fever  child allergi  dysenteri  placement stent bile duct  pediatr allergi
+nan
+asthma  pediatr  immun  prevent medicin  metabol syndrom  endocrinolog
+asthma  hospit  immun
 cataract
 glaucoma  cataract surgeri  lasik  prk  trabeculoplasti  pink eye
 lasik  cataract surgeri  dri eye  corneal transplant
@@ -150,6 +281,14 @@ corneal diseas  corneal transplant  corneal ulcer  corneal inflamm
 vision loss  ophthalmolog  doubl vision  optic neuriti  optic atrophi
 glaucoma  cataract surgeri  refract error  imag
 vision  glass  vision loss  eyeglass  contact len  glaucoma  loss vision  pink eye  conjunct  lasik  nearsighted  hazi vision  blurri vision  ophthalmolog  astigmat  artifici tear  cataract
+healthi eat  abnorm blood pressur  chest pain  low blood pressur  steroid shot
+nan
+heart attack  myocardi infarct  deep venous thrombosi  coronari arteri diseas  aortic aneurysm  cardiovascular diseas  coronari arteri bypass graft  thorac neoplasm  peripher vascular diseas  thorac surgeon  venous insuffici  thorac outlet syndrom  thoracotomi  carotid duplex  carotid arteri stenosi  carotid arteri diseas  ultrasound extrem vein  cardiac bypass  cardiac pace  carotid bruit
+cardiomyopathi  cardiovascular diseas  dyslipidemia
+exercis  back pain  osteoporosi  sprain strain  mri shoulder  exercis fit program  bone infect  shoulder mri arthrogram  mri scan  osteochondr dissecan  tibia fractur  fever  ankl surgeri  acl injuri  low impact exercis  comminut fractur surgeri  laminectomi
+nan
+floater  vision
+anxieti  pain back  headach  back pain  dizzi  pediatr neurolog  pediatr  aspirin  migrain  brain tumor  stiff neck  melatonin  ach  vertigo  obsess compuls disord  facial pain  advil
 nan
 nan
 allergi  skin rash  asthma  cough  child health  dermat  runni nose  rhiniti  food allergi  child allergi  allerg reaction  stuf nose  chronic sinus  allerg rhiniti  hereditari angioedema
@@ -161,23 +300,49 @@ chest pain
 tmj syndrom  tooth pain  canker sore  root canal  cari  dental pain  dental implant
 abscess  face lacer  lacer repair eyelid  nose  ear  lip  manag bursiti  ankl sprain
 nan
+anxieti  depress  insomnia  sleep  bulimia  obsess compuls disord  healthi diet  post traumat stress disord  eat disord  adhd  counsel  live add adhd  depress med
+cancer  diabet  gastroenterolog  cardiovascular diseas
+futur stem cell treatabl condit
+anxieti  bipolar disord  manic depress disord  person disord  dementia  memori  anxieti disord  borderlin person disord  post traumat stress disord  social anxieti disord  mind medit  general anxieti disord  vascular dementia  age grace  relax techniqu
+nan
+congest heart failur  coronari arteri diseas  valvular heart diseas
+vision  floater  macular degener  eye health  age relat macular degener  eye exam  retin surgeri  eye floater  uveiti  retin detach surgeri  diabet retinopathi  retin detach repair  retin vein occlus  epiretin membran  macular hole
 child health  children health  convuls  seizur  seizur disord  eeg  calcitriol  vitamin  vitamin defici  ct scan  concuss  headach
 nan
 allergi  asthma  skin rash  allerg reaction  rhiniti  celiac diseas  dermat  immun diseas  atop dermat  black mold allergi
 asthma  hospit  immun
 sleep  anxieti  femal health  exercis  exercis  depress  psychiatri  eat healthier  stress  lose weight  stress less  psychiatr drug  insomnia  exercis program  acupunctur  sleep better  health educ  women health  anxieti disord  lifestyl chang
 child health  children health  cough  constip  sleep  asthma  allergi  diabet  fever  skin rash  child allergi  eat healthier  rash  teeth  ova parasit  fecal retent  syndrom  live syndrom  syndrom trisomi 21
+urinari tract infect  kidney stone  prostat cancer  impot  male infertil
+asthma
+migrain  headach  migrain headach  alzheim diseas  frontotempor dementia  neurolog  dementia lewi bodi  vascular dementia
+depress  cancer  sleep  headach  lose weight  chest pain  diabet  hypertens  heart diseas
+essenti hypertens  acut renal failur  dialysi servic  diabet nephropathi
+migrain  epilepsi  common migrain  eeg  motor tic  infantil spasm
+nan
 nan
 nan
 total shoulder joint replac  shoulder injuri disord  shoulder arthroscopi  rotat cuff tear  shoulder joint replac  shoulder imping surgeri  shoulder replac  joint disloc  shoulder mri arthrogram  mri shoulder  broken bone  trigger finger surgeri  cubit tunnel syndrom  endoscop carpal tunnel releas  carpal tunnel syndrom
 polycyst ovarian syndrom  diabet  endocrinolog  thyroid  diabet  rotterdam polycyst ovarian syndrom pcos panel  thyroid
 surgeri  sprain  arthroscopi  adhes capsul shoulder  torn meniscus  sprain strain  ankl sprain  neuropathi  ankl surgeri  nerv damag  charcot mari tooth  foot surgeri  foot fractur  orthoped brace  diabet  arthroplasti  orthoped surgeri  child health
 nan
+nan
+nan
+nan
+arthriti  elbow arthroscopi  elbow replac  wrist arthroscopi
+sleep  heart attack  nutrit  diabet risk  insur  fever  sickl cell diseas  bleed  rash  hospit
+urinari tract infect
+nan
 contracept  hysterectomi  sexual transmit diseas  urinari incontin  menorrhagia  teen pregnanc  endometri ablat  high risk pregnanc  hysteroscopi  essur
 femal health  vitamin  hypothyroid  endocrin system  overact bladder  menopaus  uterin fibroid  prematur menopaus  manag menopaus
 diabet  heartburn
 sleep  anxieti  femal health  exercis  exercis  depress  psychiatri  eat healthier  stress  lose weight  stress less  psychiatr drug  insomnia  exercis program  acupunctur  sleep better  health educ  women health  anxieti disord  lifestyl chang
 femal health  pelvic pain  healthi pregnanc  contracept  mens  eat disord  exercis  eat healthier  healthi cook  bleed  endometriosi  uterin fibroid  hormon treatment  minim invas surgeri  femal sexual dysfunct
+abnorm vagin bleed  contracept counsel  intrauterin devic insert  rotterdam polycyst ovarian syndrom pcos panel
+depress  fibromyalgia  hypertens  anxieti  urin drug screen  pain manag  diabet type 2  drug abus blood panel  otc medic  narcot pain medic  narcot detox  opiat confirm toxicolog screen  narcot combin pain  vitamin supplement  opioid abus  prescript drug abus  pain medic  comprehens urin drug screen
+sleep  anxieti  femal health  exercis  exercis  depress  psychiatri  eat healthier  stress  lose weight  stress less  psychiatr drug  insomnia  exercis program  acupunctur  sleep better  health educ  women health  anxieti disord  lifestyl chang
+breast cancer  oncolog  malign melanoma
+contracept  endometriosi  vagin infect
 acn  botox
 children health  vaccin
 human immunodefici virus  male health  sexual transmit infect  depress  lose weight  testosteron  diabet  aid  std  addict  alcohol  men health  gay  lesbian transgend health
@@ -185,6 +350,11 @@ nutrit  adolesc health  colic  prevent medicin  behavior therapi
 dermal filler  skin cancer surgeri  moh micrograph surgeri  moh surgeri  botox
 child health  chickenpox  ear infect  sleep hygien  learn disord
 children health  cough  sleep  skin rash  diarrhea  loos stool  femal health  otiti media  ear infect  vaccin  healthi pregnanc  dermat  vomit  pediatr  fever  child allergi  dysenteri  placement stent bile duct  pediatr allergi
+child health  chickenpox  ear infect  sleep hygien  learn disord
+child health  chickenpox  ear infect  sleep hygien  learn disord
+child health  chickenpox  ear infect  sleep hygien  learn disord
+mens  asthma  pediatr
+dermal filler  skin cancer surgeri  moh micrograph surgeri  moh surgeri  botox
 femal health  mens  psychopharmacolog treatment  healthi pregnanc  ultrasound guid paracentesi  ultrasound guid fine needl aspir  ultrasound guid chorion villus sampl  ct guid vertebroplasti  ultrasound guid pericardiocentesi  ultrasound guid ova aspir  ultrasound guid amniocentesi  ct guid fine needl aspir  ultrasound guid amnioinfus  ct guid csf leak repair  ultrasound guid abscess drainag  ct guid thoracentesi  asthma  high aluminum level  bleed  underact thyroid
 femal health  healthi pregnanc  mens  contracept  bleed  tubal ligat  vagin discharg  pelvic pain  vagin bleed  high risk pregnanc  hormon treatment
 vagin deliveri  lose weight
@@ -192,18 +362,45 @@ endometriosi  femal infertil  uterin fibroid  male infertil
 fertil  get pregnant  polycyst ovarian syndrom  ivf pregnanc  endometriosi  pregnanc loss  ectop pregnanc
 femal health  healthi pregnanc  polycyst ovarian syndrom  mens  contracept  hysterectomi  cancer  ovul  laparoscop surgeri  normal childbirth  child health  pap smear  endometriosi  bleed  vagin hysterectomi  surgeri  spot  breast cancer  robot surgeri  da vinci robot surgeri
 nan
+laparoscop surgeri  urinari incontin  uterin prolaps  minim invas surgeri
+incontin  cystocel  rectocel  uterin prolaps  urinari incontin  overact bladder  bladder sling surgeri  hereditari ovarian cancer  fecal incontin  hormon replac therapi  pain bladder syndrom  hereditari breast cancer  minim invas surgeri
+uterin prolaps  pelvic support problem  urinari incontin  fecal incontin
+obstetr  endometriosi  minim invas surgeri
+femal health  healthi pregnanc  polycyst ovarian syndrom  mens  contracept  hysterectomi  cancer  ovul  laparoscop surgeri  normal childbirth  child health  pap smear  endometriosi  bleed  vagin hysterectomi  surgeri  spot  breast cancer  robot surgeri  da vinci robot surgeri
+telemedicin  hous call
+testosteron  androderm  male health  testoderm  erectil dysfunct  inabl sustain erect  inabl attain erect  dementia  alzheim diseas  dht  muse  hypogonad  fluphenazin  alprostadil  impot  viagra  erectil failur  prolixin
+vagin discharg  vagin bleed  cervic biopsi use loop electrosurg excis procedur
+endometriosi  infertil  laparoscop surgeri  embryo transfer  oocyt cryopreserv
+menopaus  cancer  itch  abdomin pain  dysmenorrhea  pelvic exam  male menopaus  bioident hormon  gynecolog surgeri  urinari incontin
+nan
 famili relationship  hospic care  emerg medic care  high risk pregnanc  educ
 tmj syndrom  facial pain  cosmet dentistri  dental implant  oral surgeri
 sore throat  fever  immun  hiv medic
 children health  cough  rhiniti  vomit  autism  autism spectrum disord  itch  itch  diabet  genu valgum  oxygen
 famili relationship  hospic care  emerg medic care  high risk pregnanc  educ
 cystic acn  melanoma  treat finger wart  psoriasi  eczema
+scar
+health educ  sex educ  emerg medic care  women health  men health  child health  blood donat  sexual transmit infect  healthi pregnanc  educ  diabet  cough  supplement  dizzi  numb  vitamin supplement  diabet type 2  vertigo  emerg rescu
+male health  diabet  lose weight  diabet type 2  polycyst ovarian syndrom  testosteron  testoderm  androderm  glucos  inflamm thyroid  thyroxin  vitamin  antithyroid medic  underact thyroid  insulin  metformin  hypoglycemia  thyroid nodul  thyroid cancer  thyroid diseas
+abnorm vagin bleed  contracept counsel  intrauterin devic insert  rotterdam polycyst ovarian syndrom pcos panel
+cancer  acn  human immunodefici virus  nutrit  femal health  child health  breast cancer  male health  vitamin defici  breast carcinoma  pap smear  scar  exercis  anemia  lung cancer  iron defici anemia
+urinari tract infect  kidney stone  prostat cancer  impot  male infertil
 asthma  gastroesophag reflux diseas  prematur babi  feed difficulti
 children health  bedwet  hypospadia repair  cryptorchid repair  ureteroscop stone remov  neurogen bladder  sacral nerv stimul  da vinci surgic system  spina bifida  vesicoureter reflux
 children health  fever  vaccin  sleep  asthma  rash  adhd  frequent infect  newborn screen  child develop  infecti diseas  childhood immun
 nan
 asthma  nutrit
 asthma  atop dermat  immun defici
+arthriti  healthi eat  healthi cook  rheumatolog  nutrit support  metabol syndrom  rheumatoid arthriti  joint pain  sexual health  vitamin supplement  sport activ  psoriasi  improv relationship  gain muscl  prednison  age grace  immunolog  juvenil rheumatoid arthriti  aerob exercis
+diabet foot  orthot  wound care  biomechan  foot deform
+sleep  heart attack  nutrit  diabet risk  insur  fever  sickl cell diseas  bleed  rash  hospit
+skin cancer  melanoma  cancer  skin  hair nail  mole  acn  nevi  pimpl  dermatolog  facial pimpl  vitamin supplement  child health  rosacea  cosmet  male health  cosmet surgeri  rash
+skin cancer  cancer  melanoma  dermatolog  mole  psoriasi  basal cell carcinoma  skin age  moh micrograph surgeri  topic medic laser treatment  reconstruct surgeon
+skin rash  dehydr  electrolyt abnorm  infecti diseas
+exercis  eat healthier  exercis  exercis brain  healthi cook  child health  children health  sleep  femal health  healthi diet  diabet  fever  diet  skin lesion  infecti diseas  prevent fall  vaccin prevent ill  prevent flu
+sore throat  fever  immun  hiv medic
+children health  cough  rhiniti  vomit  autism  autism spectrum disord  itch  itch  diabet  genu valgum  oxygen
+nan
 breast cancer  oncolog  malign melanoma
 cancer  breast cancer  hernia  laparoscop surgeri  mammogram  gallston  abdomin pain  breast lump  append  inguin hernia  mastectomi  gallbladd diseas
 cancer  breast cancer  low blood count  chemotherapi  leukemia  ovarian cancer  anemia  lung cancer  kidney cancer  breast carcinoma  mouth cancer  prostat cancer  laparoscop surgeri  enlarg lymph node  lymphoma  bruis  hematolog diseas  cervic cancer  colon cancer  itp
@@ -214,6 +411,14 @@ breast cancer  chemotherapi  ovarian cancer  metastat breast cancer  medic oncol
 breast cancer  breast carcinoma  mammogram  mastectomi  breast lump  breast tender  fibrocyst breast diseas  lumpectomi  breast abscess  breast biopsi  male breast cancer  metastat breast cancer  breast diseas  breast conserv surgeri  breast discharg
 cancer  breast cancer  skin cancer  breast carcinoma  melanoma  laparoscop surgeri  inflamm thyroid  adren tumor  thyroid cancer  pheochromocytoma  thyroid nodul  breast lump
 contracept  pap smear  vagin infect  vagin deliveri  transvagin ultrasound
+lung cancer  radiat therapi  small cell lung cancer
+injuri prevent  nutrit support  health educ
+breast cancer  breast carcinoma  mammogram  mastectomi  breast lump  breast tender  fibrocyst breast diseas  lumpectomi  breast abscess  breast biopsi  male breast cancer  metastat breast cancer  breast diseas  breast conserv surgeri  breast discharg
+cancer  hernia  breast cancer  laparoscop surgeri  surgeri  breast carcinoma  gallston  colon cancer  inguin hernia  abdomin pain  diverticul  gi cancer  abdomin surgeri  laparoscop gallbladd remov
+breast cancer  breast carcinoma  mammogram  mastectomi  breast lump  breast tender  fibrocyst breast diseas  lumpectomi  breast abscess  breast biopsi  male breast cancer  metastat breast cancer  breast diseas  breast conserv surgeri  breast discharg
+stomach cancer  surgic robot  pancrea surgeri
+breast cancer  cancer  femal health  breast carcinoma  mammogram  tamoxifen  breast biopsi  mri breast  lumpectomi  breast lump remov  mastectomi  breast lump  anastrozol  chemotherapi  surgeri  sonogram  lymphedema  breast abscess  lymph node biopsi  breast diseas
+breast cancer  cancer  mastectomi  breast carcinoma  lumpectomi  cancer treatment  lymphedema  male breast cancer  mammogram  surgeri  tender swollen lump breast  breast lump  breast biopsi  breast diseas
 bone graft  chin augment  larg jaw  dental implant  underdevelop upper jaw bone  open repair jawbon fractur  protrud jaw  chin reduct  chin implant  facial implant  open repair palat maxillari fractur
 sleep apnea  dental implant  dental care  tmj syndrom  cosmet dentistri  botox  orthodontia
 sleep  insomnia  snore  sleep apnea  apnea  cough  narcolepsi  hypersomnia  posit airway pressur
@@ -223,6 +428,13 @@ arthriti  fibromyalgia  rheumatoid arthriti  osteoarthr  vascul
 sleep  healthi pregnanc  psychiatri  hopeless  adderal  psychiatri sleep
 sleep apnea  tmj syndrom  cosmet dentistri
 male health  diabet  lose weight  diabet type 2  polycyst ovarian syndrom  testosteron  testoderm  androderm  glucos  inflamm thyroid  thyroxin  vitamin  antithyroid medic  underact thyroid  insulin  metformin  hypoglycemia  thyroid nodul  thyroid cancer  thyroid diseas
+spondylolisthesi  neck pain  pelvic pain  spondylolysi
+fibromyalgia  soft tissu injuri  joint hypermobl  chronic pain  hypermobl syndrom  back pain  sciatica  irrit bowel syndrom  cannabinoid panel  muscl spasm  ligament laxiti  complementari altern medicin  depress  thorac outlet syndrom  altern medicin  pain back  pelvic pain  sleep  ligament injuri  femal health
+headach  anxieti  sleep  children health  dizzi  diarrhea  polycyst ovarian syndrom  child health  ehler danlo syndrom  asthma  mitochondri disord  cerebr palsi  adhd autism  babi care  parent child learn disord  loss development skill  delay cognit develop  delay develop  development behavior pediatr
+diabet  hyperlipidemia  hypertens  coronari arteri diseas  congest heart failur
+sleep apnea  tmj syndrom  cosmet dentistri
+child health  dentistri  sleep  abscess  root canal  teeth whiten  sleep apnea  cosmet dentistri  fals teeth  tmj syndrom  bad breath  dri mouth  snore  tooth pain  tooth abscess  cancer  children health  mouthguard  dental implant  periodont
+chest pain
 podiatri  foot care  sprain  neuropathi  foot ankl injuri  diabet foot  diabet neuropathi  surgeri  educ  broken foot  foot ulcer  hammer toe  wound  orthoped brace  foot surgeri  hammerto correct  osteomyel  bunion repair
 famili relationship  hospic care  emerg medic care  high risk pregnanc  educ
 nan
@@ -231,6 +443,14 @@ plantar fasciiti  diabet foot  neuroma
 nan
 surgeri  ankl sprain  exercis  arthriti  total ankl replac  swollen ball foot
 plantar fasciiti  foot health  treat ingrown toenail  bunion repair  treat nail fungus
+breast implant  cosmet surgeri  gynecomastia  tummi tuck  breast augment  breast enlarg surgeri  rhinoplasti  facelift  eyelid lift  transgend health
+exercis  sport medicin  knee injuri  shoulder injuri
+finger fractur  elbow injuri disord  forearm fractur  wrist injuri disord
+foot care  diabet foot  pediatr
+backach
+nan
+foot surgeri  broken ankl  ankl surgeri  mri foot  broken foot  sport injuri
+headach  numb  surgeri  exercis  bruis  sleep  diabet  ulcer  chest pain  cough  exercis  broken bone  dementia  hypertens  eat healthier  wound  sport medicin  heart diseas  joint
 chest pain  heart attack  heart diseas  congest heart failur
 vein  varicos vein  exercis  eat healthier  spider vein  lymphedema  spider angioma  varicos vein leg  sclerotherapi  venous insuffici  liposuct  phlebiti  venous stasi  skincar  prevent wrinkl  superfici thrombophleb  laserl liposuct
 vein  varicos vein  deep venous thrombosi  venous insuffici  spider vein  varicos vein leg  blood clot leg  sclerotherapi  lymphedema  spider angioma  coumadin  venous stasi  phlebiti  laser ablat  telangiectasia
@@ -239,6 +459,13 @@ wart  toenail  ingrown toenail  athlet foot  plantar fasciiti  plantar wart  toe
 vitamin  osteoarthr  hypogonad
 sleep  anxieti  femal health  exercis  exercis  depress  psychiatri  eat healthier  stress  lose weight  stress less  psychiatr drug  insomnia  exercis program  acupunctur  sleep better  health educ  women health  anxieti disord  lifestyl chang
 depress  bipolar disord  panic attack  sleep  anxieti  adhd  feel anxious  psychiatri  adderal  alprazolam  zoloft  ritalin  nervous  borderlin person disord  citalopram  prozac  bupropion  celexa  schizophrenia  anorexia
+vein  varicos vein  exercis  eat healthier  spider vein  lymphedema  spider angioma  varicos vein leg  sclerotherapi  venous insuffici  liposuct  phlebiti  venous stasi  skincar  prevent wrinkl  superfici thrombophleb  laserl liposuct
+sleep  anxieti  femal health  exercis  exercis  depress  psychiatri  eat healthier  stress  lose weight  stress less  psychiatr drug  insomnia  exercis program  acupunctur  sleep better  health educ  women health  anxieti disord  lifestyl chang
+hemorrhoid  hernia  surgeri  cancer  varicos vein  abdomin pain  hiatal hernia  inguin hernia  abdomin discomfort  gallston  inguin hernia repair  umbil hernia repair  ventral hernia  cholecyst  abdomin wall tumor remov
+varicos vein  spider vein  venous insuffici  laser treatment leg vein  leg ulcer
+eat healthier  diabet  chest pain  difficulti breath  coronari arteri diseas  cardiopulmonari resuscit  air embol  travel  mountain sick  hyperbar chamber  collaps lung  motion sick  hyperbar oxygen therapi  decompress sick  pneumonia  hypersensit pneumon
+knee pain
+aid  pneumonia  urinari tract infect  sexual transmit diseas  infect heart valv  bacteri infect  bacteri endocard  osteomyel  respiratori tract infect  septic arthriti  pneumocysti jirovecii pneumonia  prophylact antibiot
 rehab  tendon  disabl  achill tendon
 scoliosi  club  wound heal
 diabet risk  obes  well lifestyl  mood disord
@@ -249,18 +476,42 @@ orthoped surgeri  arthroscopi  sport medicin  knee surgeri  shoulder surgeri
 total shoulder joint replac  partial knee replac  rotat cuff repair  shoulder arthroscopi  knee arthroscopi
 knee replac  total knee replac  arthroscopi  total hip replac  surgeri  knee arthroscopi  shoulder arthroplasti  partial knee replac
 backach  arthriti  fibromyalgia  physic therapi  rehab
+heart attack  myocardi infarct  deep venous thrombosi  coronari arteri diseas  aortic aneurysm  cardiovascular diseas  coronari arteri bypass graft  thorac neoplasm  peripher vascular diseas  thorac surgeon  venous insuffici  thorac outlet syndrom  thoracotomi  carotid duplex  carotid arteri stenosi  carotid arteri diseas  ultrasound extrem vein  cardiac bypass  cardiac pace  carotid bruit
+knee pain  knee replac  surgeri  total knee replac  partial knee replac  knee arthroscopi  tendon  exercis  torn meniscus  arthriti  hip pain  arthroscopi  patella  osteoarthr  pain joint  total hip replac
+knee pain  knee replac  tendon  total knee replac  total hip replac  patella  physic therapi  exercis  arthroplasti  artifici joint  partial knee replac  partial hip replac  soft tissu injuri  total shoulder joint replac  partial shoulder joint replac  minim invas surgeri  development hip dysplasia
+knee replac  total knee replac  wound
+knee replac  total knee replac  wound
+disloc  knee pain  exercis  muscl spasm  numb  patella  back pain  tingl  acl injuri  sport medicin  total knee replac  arthriti  insur  dizzi  pain joint  osteoarthr  arthroscopi  shoulder injuri disord  arthroplasti
+knee replac  total knee replac  partial knee replac  knee arthroscopi  total hip replac  hip surgeri  robot surgeri
+wart  toenail  ingrown toenail  athlet foot  plantar fasciiti  plantar wart  toenail fungus
 colon cancer  laparoscop surgeri
 human immunodefici virus  male health  sexual transmit infect  depress  lose weight  testosteron  diabet  aid  std  addict  alcohol  men health  gay  lesbian transgend health
 hepat  hepat b  gastroesophag reflux diseas  crohn diseas  gastroenter  vitamin supplement  supplement  bowel perfor  anxieti  child health  hepat c  diet  alcohol depend  gastrointestin pain  diarrhea  head injuri  colonoscopi  alcohol  hep c  surgeri
 clostridium difficil infect  corn  heart attack
 breast implant  liposuct  tummi tuck  facelift  breast augment  tuck  facial plastic surgeri  labiaplasti  labial reduct
 dermal filler  skin cancer surgeri  moh micrograph surgeri  moh surgeri  botox
+colonoscopi  abdomin pain  gastroesophag reflux diseas  endoscopi  liver diseas  irrit bowel syndrom  gastroenterolog  biliari tract diseas  inflammatori bowel diseas  pancreat diseas  hepatolog  ercp  capsul endoscopi
+nutrit  diarrhea  loos stool  healthi diet  lose weight  diet  food allergi  low fat diet  advil  vomit  gluten free diet  polyunsatur fat  obes children  nutrit diseas  gain weight  viral gastroenter children  bodi weight  nutrit label  nutritionist
+emerg medicin  common cold  occup medicin  undersea hyperbar medicin  common migrain  common wart  emerg medic care  pediatr emerg medicin
+cancer  hernia  hemorrhoid  wart
+hepat  inflammatori bowel diseas  gastroesophag reflux diseas  cirrhosi liver  celiac diseas  ulcer coliti
 fibromyalgia  neuropathi  electromyographi  spinal cord injuri  neuromuscular disord
 bone  joint muscl  backach  physic rehabilit  disabl  pain manag  topic medic laser treatment  fibromyalgia
 nan
 cerebr apoplexi  spina bifida  neuroma
 cardiolog  coronari arteri diseas  cholesterol test  congest heart failur  cardiac echo  echocardiogram  arrhythmia  prevent medicin  heart diseas prevent  ct heart scan  abnorm electrocardiogram  gestat hypertens
 aid  pneumonia  urinari tract infect  sexual transmit diseas  infect heart valv  bacteri infect  bacteri endocard  osteomyel  respiratori tract infect  septic arthriti  pneumocysti jirovecii pneumonia  prophylact antibiot
+depress  nutrit
+autism spectrum disord  geriatr
+depress  sleep  anxieti  diabet  obes  diabet type 2  heart failur  insomnia  bodi weight  prevent medicin  stress manag
+ct scan  mri brain  pet scan  mri joint  xray
+backach  fibromyalgia  eye pain
+back pain  neck pain
+sleep  heart attack  nutrit  diabet risk  insur  fever  sickl cell diseas  bleed  rash  hospit
+male health  erectil dysfunct  sexual health  sexual transmit diseas  male infertil
+cancer  ct scan  pet scan  femal health  child health  breast cancer  hida scan  breast carcinoma  healthi pregnanc  mri scan  back pain  lung nodul  bone scan  nuclear medicin  nuclear scan  patient communic
+male health  surgeri  urinari tract infect  cancer  sexual transmit diseas  sexual transmit infect  testosteron  androderm  chlamydia infect  testoderm  vasectomi  circumcis  hernia  erectil dysfunct  torsion testi  prostat specif antigen  prostat cancer cryotherapi  remov testi  greenlight pvptm
+allergi  cancer  throat pain  sore throat  anxieti  rhiniti  cough  hypertens  male health  pap smear  dizzi  lightheaded  depress  femal health  chest pain  arthriti  numb  bleed
 nausea  surgeri  cancer  colonoscopi  abdomin pain  constip  nasal  anal fissur  ach  iron poor blood  hemorrhoid  fecal retent  bleed  diet  supplement  yellow eye skin  hernia  nutrit  rectal bleed  infecti diseas
 oncolog  surgeri  gi surgeri
 hernia  abdomin pain  appendectomi  laparoscop surgeri  pancreat  gallbladd diseas  tracheostomi  breast diseas  abdomin surgeri  da vinci robot surgeri  treat burn  trauma surgeri  thyroidectomi  peg tube insert  wound heal
@@ -269,6 +520,14 @@ nan
 ct scan  mesenter arteriographi  angiogram renal arteri  ct guid biopsi liver
 cancer  breast cancer  breast carcinoma  chemotherapi  lung cancer  femal health  colon cancer  mammogram  cancer treatment  cea  genet test  hereditari breast cancer
 hernia  abdomin pain  appendectomi  laparoscop surgeri  pancreat  gallbladd diseas  tracheostomi  breast diseas  abdomin surgeri  da vinci robot surgeri  treat burn  trauma surgeri  thyroidectomi  peg tube insert  wound heal
+nan
+colonoscopi  laparoscopi  gastroesophag reflux diseas  bariatr  general surgeri
+ct scan  radiolog  ultrasound joint
+cancer  nutrit  cervic cancer  ovarian cancer
+cancer  hernia  hemorrhoid  wart
+surgeri  pimpl  acn  facial pimpl  lose weight  obes  weight loss surgeri  lose weight  aesthet  antiag
+chest pain  emerg medicin  wilder medicin  disloc shoulder  cardiac arrest
+headach  lose weight  diabet  fibromyalgia  chronic pain  alcohol  manag high blood pressur  live fibromyalgia fms
 diabet  polycyst ovarian syndrom  obes  congenit adren hyperplasia  metabol syndrom
 menopaus  cancer  itch  abdomin pain  dysmenorrhea  pelvic exam  male menopaus  bioident hormon  gynecolog surgeri  urinari incontin
 femal health  pelvic pain  healthi pregnanc  contracept  mens  eat disord  exercis  eat healthier  healthi cook  bleed  endometriosi  uterin fibroid  hormon treatment  minim invas surgeri  femal sexual dysfunct
@@ -276,6 +535,12 @@ contracept  get pregnant  infertil
 vagin hysterectomi  pain sex  menorrhagia
 contracept  intrauterin devic  obstetr  tubal ligat  prevent medicin  minim invas surgeri  gynecolog surgeri
 femal health  exercis  healthi pregnanc  healthi diet  diabet  healthi live  fit exercis  sonogram
+nan
+adhd  depress  autism  children health  autism spectrum disord  bipolar disord  adderal  ritalin  dextroamphetamin racem amphetamin  eat disord  learn disabl  tourett syndrom  adolesc health
+nan
+contracept  hysterectomi  sexual transmit diseas  urinari incontin  menorrhagia  teen pregnanc  endometri ablat  high risk pregnanc  hysteroscopi  essur
+urinari tract infect
+nan
 cataract surgeri  glaucoma  surfer eye surgeri
 tmj syndrom  sleep apnea  facial pain  trigemin neuralgia  headach disord
 tooth pain  root canal  dentistri  abscess  cari  dental implant  gum diseas  cosmet dentistri
@@ -283,6 +548,12 @@ headach  lose weight  diabet  fibromyalgia  chronic pain  alcohol  manag high bl
 acn  children health  nutrit  child health  facial scar acn  eczemat rash
 pimpl  acn  light therapi  vitamin b 12
 urinari tract infect
+nan
+nan
+root canal  dentistri  teeth clean  cancer  dental care  eat healthier  mouth cancer  dental health  tooth pain  anesthesia  oral cancer  abscess  cleocin  chest pain  tooth abscess  sexual transmit infect  mono
+nan
+dizzi  headach  seizur  seizur disord  depress  migrain  epilepsi  memori  vitamin b12  head injuri  head trauma  traumat nerv injuri  traumat brain injuri  aphasia
+contracept  emerg contracept  menopaus  osteoporosi  manag menopaus  sexual transmit infect  sexual health  irregular menstrual period
 cataract surgeri  corneal transplant  intraocular len  refract surgeri
 cataract surgeri  refract surgeri  intraocular len  vision difficulti
 glaucoma  vision  cataract  macular degener
@@ -291,6 +562,11 @@ cataract  loss vision  glaucoma
 glaucoma  vision  glass  conjunct  cataract  dri eye  surgeri  eye health  vision loss  contact len  eyeglass  ophthalmolog  cataract surgeri  artifici tear  vitamin supplement  sport activ  healthi live
 glaucoma  cataract surgeri  refract error  imag
 glaucoma  vision  glass  conjunct  cataract  dri eye  surgeri  eye health  vision loss  contact len  eyeglass  ophthalmolog  cataract surgeri  artifici tear  vitamin supplement  sport activ  healthi live
+eye exam  cataract surgeri  dri eye  contact len  glaucoma
+vision  glass  vision loss  eyeglass  contact len  glaucoma  loss vision  pink eye  conjunct  lasik  nearsighted  hazi vision  blurri vision  ophthalmolog  astigmat  artifici tear  cataract
+eye health  cataract surgeri  lasik  intraocular len  laser surgeri glaucoma
+back pain  nutrit  pain back  healthi vegetarian diet  post traumat stress disord  second trimest pregnanc  hip pain  healthi pregnanc  fibromyalgia  holist medicin  titan light therapi  chronic fatigu syndrom  vitamin defici  laser genesi
+dizzi  acn  diarrhea  blister  numb  cough  surgeri  pimpl  sleep  skin rash  pilonid cyst  vertigo  headach  helicobact pylori  exercis  metoprolol  hypertens  c5  burn  spondyl
 sleep  healthi pregnanc  psychiatri  hopeless  adderal  psychiatri sleep
 tooth pain  lyme diseas  head neck injuri  black mold allergi  mild headach
 snore  headach  sleep  sleep apnea  ear infect  cough  deviat nasal septum  thyroid nodul  chronic sinus  treat sinus  sleep apnea surgeri
@@ -301,6 +577,15 @@ asthma
 bipolar disord  depress  manic depress disord  psychiatri  anxieti  sleep  antipsychot  sertralin  citalopram  adhd  schizophrenia  addict  bupropion  live bipolar disord  mood disord  feel anxious  mania
 diabet risk  well lifestyl  stay healthi  healthi live
 anxieti disord
+multipl sclerosi  headach  migrain  numb  stroke  cerebr vascular accid  neuropathi  dizzi  migrain headach  seizur  sleep  tingl  alzheim diseas  memori  dementia  exercis  weak  thorac outlet syndrom  memori loss  dementia lewi bodi
+acn  cosmet surgeri  swallow disord  hoars  head neck cancer
+emerg medicin  common cold  occup medicin  undersea hyperbar medicin  common migrain  common wart  emerg medic care  pediatr emerg medicin
+panic attack  adhd  anxieti disord  ptsd
+fibromyalgia  soft tissu injuri  joint hypermobl  chronic pain  hypermobl syndrom  back pain  sciatica  irrit bowel syndrom  cannabinoid panel  muscl spasm  ligament laxiti  complementari altern medicin  depress  thorac outlet syndrom  altern medicin  pain back  pelvic pain  sleep  ligament injuri  femal health
+anxieti  panic attack  clinic psycholog  overcom anxieti stress  stress manag
+aphasia  carsick
+cardiolog  coronari arteri diseas  cholesterol test  congest heart failur  cardiac echo  echocardiogram  arrhythmia  prevent medicin  heart diseas prevent  ct heart scan  abnorm electrocardiogram  gestat hypertens
+children health  exercis  diabet  chronic high blood pressur  musculoskelet problem
 asthma  immun suppress  integr medicin  immunolog
 asthma  child allergi  allerg reaction
 sleep  femal health  acn  diabet  cancer  depress  child diabet  facial pimpl  lose weight  asthma  diabet risk  cerebr apoplexi  laparoscop surgeri  sleep disord  foul tast mouth  feel anxious  drowsi  fever  weight loss program  intern medicin pediatr
@@ -308,6 +593,12 @@ nan
 dermatolog  gynecolog  allergi
 cough  asthma  copd  bronchiti  emphysema  chronic bronchiti  difficulti breath  bronchospasm  product cough  dri cough  fluid lung  respiratori failur
 allergi  asthma  skin rash  allerg reaction  rhiniti  celiac diseas  dermat  immun diseas  atop dermat  black mold allergi
+sleep  femal health  acn  diabet  cancer  depress  child diabet  facial pimpl  lose weight  asthma  diabet risk  cerebr apoplexi  laparoscop surgeri  sleep disord  foul tast mouth  feel anxious  drowsi  fever  weight loss program  intern medicin pediatr
+asthma  child allergi  allerg reaction
+nan
+allergi  asthma  nutrit  antihistamin  inhal  irrit bowel syndrom  child health  diphenhydramin  food allergi  xolair  immun defici  hive
+sleep  tuberculosi  cough  copd  vitamin defici  asthma  sepsi  fever  lung diseas  bronchoscopi  sleep disord  thoracoscopi  extrapulmonari tuberculosi  ultrasound chest
+orthodontia  fever  swell  feel anxious  bad breath  malocclus  blister  tooth pain  dental brace  teeth  mouth brace  leg pain  pain mouth sore  larg jaw  orthodont retain  cleft lip  lip blister  patient communic  protrud jaw  self ligat brace
 cancer  pap smear cytolog  oncolog  diagnost servic  famili health
 cancer  gi cancer  anemia  breast cancer  lung cancer  colorect cancer  gestat diabet mellitus  pancreat cancer  blood disord
 diabet  inflamm thyroid  diabet risk  diabet type 2  antithyroid medic  insulin  thyroid stimul hormon  thyroid cancer  underact thyroid  obes  endocrin disord  adren gland disord
@@ -318,6 +609,13 @@ hear loss  thyroid surgeri
 ct scan  varicos vein  vein  abscess  dentistri  roentgen ray  scar  scar  alprazolam  head trauma  mri spine  inflamm thyroid  antithyroid medic  sonogram  copd  xray chest  spinal stenosi
 cancer  breast cancer  melanoma  mole  thyroid cancer  pet melanoma diagnosi  thyroid gland remov  overact thyroid  ultrasound parathyroid  mastectomi  thyroid nodul  ultrasound thyroid  thyroid enlarg  pet ct melanoma diagnosi  minim invas surgeri  parathyroid tumor  health dispar  thyroid biopsi  adenoma  tice bcg
 diabet  adren gland disord  pituitari disord  osteoporosi
+diabet  weight manag  essenti hypertens  hypogonad  thyroid diseas  kidney stone  adren gland disord  osteoporosi
+diabet  diabet risk  hypoglycemia  diabet onset pregnanc
+cancer  acn  human immunodefici virus  nutrit  femal health  child health  breast cancer  male health  vitamin defici  breast carcinoma  pap smear  scar  exercis  anemia  lung cancer  iron defici anemia
+cancer  dpmg histolog
+breast cancer  oncolog  malign melanoma
+cancer  breast cancer  surgeri  breast reconstruct  wound  skin cancer surgeri  melanoma  breast implant  skin cancer  lymphedema  reconstruct surgeon  head neck surgeri
+inflamm thyroid  antithyroid medic  armour thyroid  hypothyroid  cancer  thyroid cancer  hoars  voic disord  potassium  klotrix  kaochlor  kay ciel  kaon  klorvess  vitamin defici  kato  klor con  micro k  kaon cl  slow k
 wart  toenail  ingrown toenail  athlet foot  plantar fasciiti  plantar wart  toenail fungus
 plantar fasciiti  diabet foot  neuroma
 skin rash
@@ -326,11 +624,22 @@ eye health  ophthalmolog  retin disord  eye exam
 dermal filler  skin cancer surgeri  moh micrograph surgeri  moh surgeri  botox
 orthot  diabet foot  foot surgeri  bunion  ankl sprain  hammer toe  podiatri  foot ulcer  foot care  sport medicin  heel injuri disord
 children health  cough  sleep  skin rash  diarrhea  loos stool  femal health  otiti media  ear infect  vaccin  healthi pregnanc  dermat  vomit  pediatr  fever  child allergi  dysenteri  placement stent bile duct  pediatr allergi
+allergi  skin rash  asthma  cough  child health  dermat  runni nose  rhiniti  food allergi  child allergi  allerg reaction  stuf nose  chronic sinus  allerg rhiniti  hereditari angioedema
+dri mouth  aortic stenosi  dental pain  teeth
+skin rash  loos stool  nutrit  yeast infect  pain manag  telemedicin  sedat dentistri
+acn  psoriasi  melanoma  skin cancer  rosacea
+prevent medicin  prevent diabet
 pap smear  hysterectomi  normal childbirth  laparoscop surgeri
 menopaus  bioident hormon  teen health  minim invas surgeri
 femal health  healthi pregnanc  polycyst ovarian syndrom  mens  contracept  hysterectomi  cancer  ovul  laparoscop surgeri  normal childbirth  child health  pap smear  endometriosi  bleed  vagin hysterectomi  surgeri  spot  breast cancer  robot surgeri  da vinci robot surgeri
 children health  bleed  contracept  exercis  cancer  sleep  rash  fever  normal childbirth  pneumonia  teen pregnanc
 oral contracept  menopaus  genit herp  gynecolog
+depress  bipolar disord  panic attack  sleep  anxieti  adhd  feel anxious  psychiatri  adderal  alprazolam  zoloft  ritalin  nervous  borderlin person disord  citalopram  prozac  bupropion  celexa  schizophrenia  anorexia
+circumcis  bedwet  incontin  kidney problem  hypospadia repair  bladder exstrophi repair
+hysterectomi  minim invas surgeri
+contracept  hysterectomi  sexual transmit diseas  urinari incontin  menorrhagia  teen pregnanc  endometri ablat  high risk pregnanc  hysteroscopi  essur
+nan
+surgeri  high risk pregnanc  prevent medicin  well lifestyl  obstetr gynecolog
 eat healthier  sleep better  femal health  diabet  pain bladder syndrom  amenorrhea  bladder infect  sexual health  stomach discomfort  skincar  migrain headach
 infecti diseas  psychiatri  osteopath  sport medicin  dermatolog
 chest pain
@@ -342,12 +651,24 @@ eat healthier  sleep better  femal health  diabet  pain bladder syndrom  amenorr
 neurolog  mri scan  musculoskelet problem
 metabol syndrom  obes  hyperlipidemia
 diabet  diabet type 2  glucos  free t3  inflamm thyroid  antithyroid medic  diabet type 1  thyroxin  thyroid nuclear scan  polycyst ovarian syndrom  sodium  polyuria  neuropathi  lose weight  overact thyroid  child diabet  free hemoglobin  glucagon  metabol syndrom  adult obes
+intern medicin  geriatr
+diabet  inflamm thyroid  diabet risk  diabet type 2  antithyroid medic  insulin  thyroid stimul hormon  thyroid cancer  underact thyroid  obes  endocrin disord  adren gland disord
+hospit  gastroenterolog  geriatr  hematolog  palliat care
+diabet  child diabet  diabet risk  polycyst ovarian syndrom  insulin  puberti  inflamm thyroid  congenit adren hyperplasia  earli puberti  delay growth
+wart  toenail  ingrown toenail  athlet foot  plantar fasciiti  plantar wart  toenail fungus
+cancer  nutrit  cervic cancer  ovarian cancer
 dizzi  headach  seizur  seizur disord  depress  migrain  epilepsi  memori  vitamin b12  head injuri  head trauma  traumat nerv injuri  traumat brain injuri  aphasia
 nan
 nan
 aid  pneumonia  urinari tract infect  sexual transmit diseas  infect heart valv  bacteri infect  bacteri endocard  osteomyel  respiratori tract infect  septic arthriti  pneumocysti jirovecii pneumonia  prophylact antibiot
 migrain headach  addict  backach  migrain  chronic pain  neuralgia  drug addict  frequent headach
 tmj syndrom  sleep apnea  facial pain  trigemin neuralgia  headach disord
+tmj syndrom  sleep apnea  facial pain  trigemin neuralgia  headach disord
+dentistri  dental health  dental care  child health  dental implant  gum diseas  cosmet dentistri  manag teeth
+tmj syndrom  sleep apnea  facial pain  trigemin neuralgia  headach disord
+nan
+aphasia  carsick
+acn  cosmet surgeri  swallow disord  hoars  head neck cancer
 contracept  vagin  vagin infect
 botox  diabet  chemic laser treatment melasma  dyslipidemia
 cancer  diabet  gastroenterolog  cardiovascular diseas
@@ -355,11 +676,26 @@ nan
 viral hepat  liver cancer  liver transplant  transplant donat  immunolog
 dermal filler  skin cancer surgeri  moh micrograph surgeri  moh surgeri  botox
 femal health  contracept  mens  healthi pregnanc  bleed  pap smear  vulvodynia  hysteroscopi  minim invas surgeri  dysfunct uterin bleed
+chlamydia infect  sexual transmit diseas  sexual transmit infect  human immunodefici virus  gonorrhea  hsv type 1 2  trichomona  hsv  syphili  bacteri vaginosi vagin panel  urethr  std prevent  hiv prevent
+adhd  depress  autism  children health  autism spectrum disord  bipolar disord  adderal  ritalin  dextroamphetamin racem amphetamin  eat disord  learn disabl  tourett syndrom  adolesc health
+abnorm vagin bleed  contracept counsel  intrauterin devic insert  rotterdam polycyst ovarian syndrom pcos panel
+acn  botox
+femal health  contracept  mens  healthi pregnanc  bleed  pap smear  vulvodynia  hysteroscopi  minim invas surgeri  dysfunct uterin bleed
+immun
+aid  pneumonia  urinari tract infect  sexual transmit diseas  infect heart valv  bacteri infect  bacteri endocard  osteomyel  respiratori tract infect  septic arthriti  pneumocysti jirovecii pneumonia  prophylact antibiot
 nan
 hepat c  hepat c antibodi  hepat c genotyp  hepat b surfac antigen
 hiv aid  infecti diseas  tropic medicin  travel
 aid  pneumonia  urinari tract infect  sexual transmit diseas  infect heart valv  bacteri infect  bacteri endocard  osteomyel  respiratori tract infect  septic arthriti  pneumocysti jirovecii pneumonia  prophylact antibiot
 adhd  depress  autism  children health  autism spectrum disord  bipolar disord  adderal  ritalin  dextroamphetamin racem amphetamin  eat disord  learn disabl  tourett syndrom  adolesc health
+allergi  skin rash  asthma  cough  child health  dermat  runni nose  rhiniti  food allergi  child allergi  allerg reaction  stuf nose  chronic sinus  allerg rhiniti  hereditari angioedema
+pediatr  children health  adhd  adolesc health  asthma  babi care
+gum diseas  gingiv  inflamm gum  periodont  dental care  dental health  bone loss  dental implant
+tmj syndrom  vegan diet  esthet dentistri  cosmet dentistri  orthodont
+cancer  skin cancer  acn  pimpl  liposuct  melanoma  dermatolog  rid lice treatment  botox  facial pimpl  pap smear  acn scar  emolli  scar  rash  scar  skin cancer surgeri  scar revis  moh surgeri  moh micrograph surgeri
+acn  rash  scar revis  skincar  skin cancer
+vaccin  autism  autism spectrum disord  adhd  immun  cough  asthma  fever  croup  infecti diseas  behavior problem
+acn  pimpl  facial pimpl  skin tag  ringworm  femal health  skin rash  sebac cyst  epiderm cyst  trichophyton  diabet type 2  diabet  dermatolog  dermat  minocyclin  hair loss  tonsil  mastectomi  yeast infect  lymphedema
 cancer  acn  human immunodefici virus  nutrit  femal health  child health  breast cancer  male health  vitamin defici  breast carcinoma  pap smear  scar  exercis  anemia  lung cancer  iron defici anemia
 diabet  diabet risk  hypoglycemia  diabet onset pregnanc
 breast cancer  breast diseas  breast needl biopsi  breast red  breast ach
@@ -369,6 +705,15 @@ hear loss  thyroid surgeri
 ct scan  varicos vein  vein  abscess  dentistri  roentgen ray  scar  scar  alprazolam  head trauma  mri spine  inflamm thyroid  antithyroid medic  sonogram  copd  xray chest  spinal stenosi
 male health  diabet  lose weight  diabet type 2  polycyst ovarian syndrom  testosteron  testoderm  androderm  glucos  inflamm thyroid  thyroxin  vitamin  antithyroid medic  underact thyroid  insulin  metformin  hypoglycemia  thyroid nodul  thyroid cancer  thyroid diseas
 cancer  femal health  sonogram  ct scan  surgeri  mammogram  breast carcinoma  breast cancer  kidney stone  child health  dementia  brain tumor  colon cancer  atelectasi  stroke  sleep  hysterosalpingogram  transvagin ultrasound  thoracentesi  deep venous thrombosi
+diabet  inflamm thyroid  diabet risk  diabet type 2  antithyroid medic  insulin  thyroid stimul hormon  thyroid cancer  underact thyroid  obes  endocrin disord  adren gland disord
+snore  headach  sleep  sleep apnea  ear infect  cough  deviat nasal septum  thyroid nodul  chronic sinus  treat sinus  sleep apnea surgeri
+cancer  hernia  breast cancer  laparoscop surgeri  surgeri  breast carcinoma  gallston  colon cancer  inguin hernia  abdomin pain  diverticul  gi cancer  abdomin surgeri  laparoscop gallbladd remov
+breast cancer  breast carcinoma  mammogram  mastectomi  breast lump  breast tender  fibrocyst breast diseas  lumpectomi  breast abscess  breast biopsi  male breast cancer  metastat breast cancer  breast diseas  breast conserv surgeri  breast discharg
+stomach cancer  surgic robot  pancrea surgeri
+endocrin disord
+cancer  hernia  hemorrhoid  wart
+nutrit  medic research  breast biopsi  breast cancer  lactat problem  diagnost servic
+famili relationship  hospic care  emerg medic care  high risk pregnanc  educ
 fibromyalgia  soft tissu injuri  joint hypermobl  chronic pain  hypermobl syndrom  back pain  sciatica  irrit bowel syndrom  cannabinoid panel  muscl spasm  ligament laxiti  complementari altern medicin  depress  thorac outlet syndrom  altern medicin  pain back  pelvic pain  sleep  ligament injuri  femal health
 fibromyalgia  soft tissu injuri  joint hypermobl  chronic pain  hypermobl syndrom  back pain  sciatica  irrit bowel syndrom  cannabinoid panel  muscl spasm  ligament laxiti  complementari altern medicin  depress  thorac outlet syndrom  altern medicin  pain back  pelvic pain  sleep  ligament injuri  femal health
 arthriti  fibromyalgia  rheumatoid arthriti  osteoarthr  vascul
@@ -376,6 +721,14 @@ fibromyalgia  soft tissu injuri  joint hypermobl  chronic pain  hypermobl syndro
 fibromyalgia  soft tissu injuri  joint hypermobl  chronic pain  hypermobl syndrom  back pain  sciatica  irrit bowel syndrom  cannabinoid panel  muscl spasm  ligament laxiti  complementari altern medicin  depress  thorac outlet syndrom  altern medicin  pain back  pelvic pain  sleep  ligament injuri  femal health
 back pain  arthriti  pain back  pain joint  physic therapi  knee pain  orthoped surgeri  numb  herniat disk  cardiolipin igm  dementia
 fibromyalgia  soft tissu injuri  joint hypermobl  chronic pain  hypermobl syndrom  back pain  sciatica  irrit bowel syndrom  cannabinoid panel  muscl spasm  ligament laxiti  complementari altern medicin  depress  thorac outlet syndrom  altern medicin  pain back  pelvic pain  sleep  ligament injuri  femal health
+chest pain
+sleep  healthi pregnanc  psychiatri  hopeless  adderal  psychiatri sleep
+nan
+polycyst ovarian syndrom  diabet  endocrinolog  thyroid  diabet  rotterdam polycyst ovarian syndrom pcos panel  thyroid
+cardiolog  coronari arteri diseas  cholesterol test  congest heart failur  cardiac echo  echocardiogram  arrhythmia  prevent medicin  heart diseas prevent  ct heart scan  abnorm electrocardiogram  gestat hypertens
+exercis  back pain  osteoporosi  sprain strain  mri shoulder  exercis fit program  bone infect  shoulder mri arthrogram  mri scan  osteochondr dissecan  tibia fractur  fever  ankl surgeri  acl injuri  low impact exercis  comminut fractur surgeri  laminectomi
+fibromyalgia  soft tissu injuri  joint hypermobl  chronic pain  hypermobl syndrom  back pain  sciatica  irrit bowel syndrom  cannabinoid panel  muscl spasm  ligament laxiti  complementari altern medicin  depress  thorac outlet syndrom  altern medicin  pain back  pelvic pain  sleep  ligament injuri  femal health
+femal health  endometriosi  laparoscop surgeri  pelvic laparoscopi  pelvic pain  gynecolog  robot surgeri
 nan
 knee injuri  arthroscopi  orthoped surgeri  sport medicin  shoulder injuri  fractur
 exercis  well lifestyl  sport medicin  knee pain  knee replac  vitamin supplement  total knee replac  total hip replac  weight manag  tendon  patella  sport injuri  acl reconstruct  hip repair  arthroplasti  partial knee replac  sport fit  orthoped brace
@@ -386,29 +739,67 @@ sciatica  pain back  epidur steroid inject  osteoarthr  neck pain  migrain  boto
 dizzi  back pain  fibromyalgia
 arthriti  fibromyalgia  rheumatoid arthriti  osteoarthr  vascul
 seizur  seizur disord  epilepsi  epilept seizur  convuls  multipl sclerosi  neurolog  syncop
+arthriti  fibromyalgia  rheumatoid arthriti  osteoarthr  vascul
+opiat confirm toxicolog screen  drug addict  mycobacterium tuberculosi infect  occup injuri  public health
+sciatica  pain back  epidur steroid inject  osteoarthr  neck pain  migrain  botox  mri spine  radiofrequ ablat  rhizotomi  complex region pain syndrom  lumbar facet inject  stem cell therapi  nerv injuri  lumbar facet rhizotomi  xray spine  lumbar sympathet block  stellat ganglion block  percutan discectomi
+spondylolisthesi  spinal stenosi  myelopathi  cervic myelopathi  cervic spinal disk remov
+nan
+shoulder arthroscopi
+surgeri  ms contin  sleep  intub  steroid  duramorph  avinza  hyperthermia  msir  astramorph  kadian  oramorph sr  roxanol  anesthesia  steroid shot  motor vehicl accid  durages  sublimaz  fentanyl
+knee pain  hip pain  neck pain  backach  rotat cuff injuri
 asthma  hospit  immun
 dizzi  allergi  back pain  cough  throat pain  sore throat  copd  diabet  migrain  asthma  hypertens
 addict medicin
 nan
 allergi  asthma  hypersensit  cough  child allergi  food allergi  allerg reaction  asthma children  milk allergi  environment allergi
 surgeri  cancer  hemorrhoid  diarrhea  headach  cough  abdomin pain  dizzi  back pain  constip  anxieti  sleep  pain back  endoscopi  numb
+nan
+children health  primari care servic  adolesc health  intern medicin  pediatr
+nan
+dri eye  grave diseas
+allergi  asthma  nutrit  allerg reaction  manag eczema  food allergi  stuf nose  flu  contact dermat  treat hive  urticaria angioedema  bee sting allergi  chickenpox  non allerg rhiniti  anaphylact shock  acut sinus
+allergi  asthma  skin rash  allerg reaction  rhiniti  celiac diseas  dermat  immun diseas  atop dermat  black mold allergi
+children health  newborn jaundic  child develop  newborn rash  immun
 cancer  dpmg histolog
 hospit  gastroenterolog  geriatr  hematolog  palliat care
 nan
 hospit  gastroenterolog  geriatr  hematolog  palliat care
 leukemia  lymphoma  anemia  acut lymphoblast leukemia  myelodysplast syndrom  blood lymph cancer  wbc count  acut myelogen leukemia  hodgkin diseas  blood disord  non hodgkin lymphoma  malt lymphoma  enlarg lymph node  chronic myelogen leukemia  cutan cell lymphoma  myeloprolif disord  burkitt lymphoma  myelofibrosi  multipl myeloma
 osteoporosi  thyroid diseas  coronari arteri diseas  chronic pain  hypertens
+arthriti  fibromyalgia  rheumatoid arthriti  osteoarthr  vascul
+insomnia  narcolepsi  restless leg syndrom  copd  sleep apnea
+infertil  gastroenterolog  synthroid  dermatolog  thyroxin  rhiniti  growth hormon  rheumatolog  pharmaceut assist
+cancer  leukemia  low blood count  multipl myeloma  non hodgkin lymphoma
+lymphoma  complement activ panel  neutropenia  clot disord
+cancer  acn  human immunodefici virus  nutrit  femal health  child health  breast cancer  male health  vitamin defici  breast carcinoma  pap smear  scar  exercis  anemia  lung cancer  iron defici anemia
+dementia  nutrit  pain manag  natur remedi  weight loss program  addict medicin
+nan
+nan
+children health  vitamin supplement  infecti diseas  complementari altern medicin
+back pain  pain back  neck pain  suboxon  pain manag  pinch nerv  muscl spasm  epidur steroid inject  degen disc diseas  sciatica
 aid  pneumonia  urinari tract infect  sexual transmit diseas  infect heart valv  bacteri infect  bacteri endocard  osteomyel  respiratori tract infect  septic arthriti  pneumocysti jirovecii pneumonia  prophylact antibiot
 child health  children health  cough  constip  sleep  asthma  allergi  diabet  fever  skin rash  child allergi  eat healthier  rash  teeth  ova parasit  fecal retent  syndrom  live syndrom  syndrom trisomi 21
 vaccin  children health  eat healthier  healthi cook  exercis  sexual transmit diseas  sleep  adhd  sexual transmit infect  fever  meningococc vaccin  cervic cancer  pain urin  shaken babi syndrom
 exercis  quit smoke  smoke cessat  sleep  diabet  lose weight  tobacco cessat  healthi diet  ldl  diabet type 2  weight loss surgeri  laparoscop surgeri  fit exercis  asthma  child diabet  weight manag  child allergi  apnea  healthi live  strength train
 shock  toxic shock syndrom  mrsa  accident poison
 allergi  asthma  skin rash  allerg reaction  rhiniti  celiac diseas  dermat  immun diseas  atop dermat  black mold allergi
+botox  testosteron  xeomin  growth hormon  bioident hormon  hormon replac therapi  male health  intern medicin  thyroid hormon  sclerotherapi  telemedicin  hot flash  manag low testosteron  improv sexual desir  manag menopaus  improv sexual perform  stretch mark remov  manag male menopaus  menopaus
+eye exam  bleed  menopaus  vision  femal health  chest pressur  angina  brain aneurysm  eye health  chest tight  chest pain  vein  cancer  exercis  child health  cervic cancer  coccyx  vagin bleed  crutch  arthriti
+cough  asthma  copd  bronchiti  emphysema  chronic bronchiti  difficulti breath  bronchospasm  product cough  dri cough  fluid lung  respiratori failur
+asthma  pediatr  immun  prevent medicin  metabol syndrom  endocrinolog
+scar  gynecomastia  breast reduct surgeri  breast implant  breast lift  facelift  bodi contour  labiaplasti  plastic cosmet surgeri  co2 laser  eyelid lift  brow lift  skin rejuven
+bacteri infect
+children health  cough  sleep  skin rash  diarrhea  loos stool  femal health  otiti media  ear infect  vaccin  healthi pregnanc  dermat  vomit  pediatr  fever  child allergi  dysenteri  placement stent bile duct  pediatr allergi
 sleep  sexual transmit infect  inflamm thyroid  public health  prevent medicin
 metabol bone diseas
 nan
 numb  tingl  tremor  chronic pain  headach  migrain
 heart attack  atrial fibril  vascular diseas  heart failur
+multipl sclerosi  migrain  neuropathi  parkinson diseas  alzheim diseas
+nan
+anxieti  pain back  headach  back pain  dizzi  pediatr neurolog  pediatr  aspirin  migrain  brain tumor  stiff neck  melatonin  ach  vertigo  obsess compuls disord  facial pain  advil
+arthriti  fibromyalgia  rheumatoid arthriti  osteoarthr  vascul
+skin rash
 nan
 children health  cough  sleep  skin rash  diarrhea  loos stool  femal health  otiti media  ear infect  vaccin  healthi pregnanc  dermat  vomit  pediatr  fever  child allergi  dysenteri  placement stent bile duct  pediatr allergi
 breast cancer  brain cancer  radiosurgeri  cyberknif
@@ -417,6 +808,13 @@ breast cancer  oncolog  malign melanoma
 cancer  hernia  breast cancer  laparoscop surgeri  surgeri  breast carcinoma  gallston  colon cancer  inguin hernia  abdomin pain  diverticul  gi cancer  abdomin surgeri  laparoscop gallbladd remov
 nan
 mole  botox  skin rash  pimpl  laser therapi  medic laser  psoriasi  carbon dioxid laser  topic medic laser treatment  chemic laser treatment melasma  dermal filler  laser ablat  suspici mole  electron health record  nd:yag laser  brown skin spot  skin cancer
+cancer  nutrit  cervic cancer  ovarian cancer
+breast cancer  brain cancer  radiosurgeri  cyberknif
+nan
+diabet  std prevent  women health  hyperlipidemia
+breast carcinoma  breast cancer  mammogram  breast biopsi  ultrasound breast
+breast cancer  oncolog  malign melanoma
+sonogram  contracept  obstetr gynecolog  hydrocodon acetaminophen  transvagin ultrasound  neonatolog
 nan
 nan
 sleep  anxieti  femal health  exercis  exercis  depress  psychiatri  eat healthier  stress  lose weight  stress less  psychiatr drug  insomnia  exercis program  acupunctur  sleep better  health educ  women health  anxieti disord  lifestyl chang
@@ -425,18 +823,38 @@ aid  pneumonia  urinari tract infect  sexual transmit diseas  infect heart valv 
 surgeri  septoplasti  ear infect  dizzi  throat pain  vertigo  otiti media  deviat nasal septum  middl ear infect  rhinoplasti  perfor eardrum  hear loss  ocean  chronic sinus  deviat septum surgeri  botox  voic disord  otiti externa  nasal allergi
 tonsillectomi adenoidectomi  sinus pain  endoscop sinus surgeri  head neck cancer
 dri mouth  aortic stenosi  dental pain  teeth
+sleep  femal health  acn  diabet  cancer  depress  child diabet  facial pimpl  lose weight  asthma  diabet risk  cerebr apoplexi  laparoscop surgeri  sleep disord  foul tast mouth  feel anxious  drowsi  fever  weight loss program  intern medicin pediatr
+children health  vitamin supplement  infecti diseas  complementari altern medicin
+ear infect  snore  cochlear implant
+child health  children health  streptococc infect  allergi  folat  vaccin  ritalin  isotretinoin  syndrom  hypersensit  asthma  spina bifida  adhd  obes children  delay vaccin
+allergi  skin rash  asthma  cough  child health  dermat  runni nose  rhiniti  food allergi  child allergi  allerg reaction  stuf nose  chronic sinus  allerg rhiniti  hereditari angioedema
+nan
+hormon replac therapi  botox  manag low testosteron
 surgeri  scoliosi  abnorm curvatur spine  broken bone  back pain  pain back  herniat disk  spinal surgeri  orthoped spine surgeri  spine surgeri  neck surgeri  minim invas surgeri
 nan
 arthriti  fibromyalgia  rheumatoid arthriti  osteoarthr  vascul
 orthoped surgeri  arthroscopi  sport medicin  knee surgeri  shoulder surgeri
 varicos vein  spider vein  leg cramp  abnorm skin pigment
 exercis  lose weight  stress  supplement  ulcer  age grace  diabet type 2  migrain headach  white cell count  oxygen  suboxon  intern medicin  suboxon withdraw  opiat withdraw  medic  pharmacolog
+nan
+arthriti  dystonia  nutrit  back pain  massag  gout  hav  well lifestyl  spinal cord injuri  paralysi  brain injuri  musculoskelet pain  smoke cessat  cardiac rehabilit  traumat brain injuri  recov stroke  stroke recoveri
+nan
+plantar fasciiti  diabet foot  neuroma
+deep venous thrombosi  venous stasi  venous insuffici  thrombosi panel  peripher arteri diseas  diabet foot
+vein  varicos vein  deep venous thrombosi  venous insuffici  spider vein  varicos vein leg  blood clot leg  sclerotherapi  lymphedema  spider angioma  coumadin  venous stasi  phlebiti  laser ablat  telangiectasia
+varicos vein  vascular surgeon
 surgeri  cancer  hemorrhoid  diarrhea  headach  cough  abdomin pain  dizzi  back pain  constip  anxieti  sleep  pain back  endoscopi  numb
 aid  pneumonia  urinari tract infect  sexual transmit diseas  infect heart valv  bacteri infect  bacteri endocard  osteomyel  respiratori tract infect  septic arthriti  pneumocysti jirovecii pneumonia  prophylact antibiot
 circumcis  bedwet  incontin  kidney problem  hypospadia repair  bladder exstrophi repair
 contact len  corneal diseas  eye trauma  dri eye  eye exam
 cancer  acn  human immunodefici virus  nutrit  femal health  child health  breast cancer  male health  vitamin defici  breast carcinoma  pap smear  scar  exercis  anemia  lung cancer  iron defici anemia
 cancer  dpmg histolog
+human immunodefici virus  male health  sexual transmit infect  depress  lose weight  testosteron  diabet  aid  std  addict  alcohol  men health  gay  lesbian transgend health
+wound care
+skin rash  dehydr  electrolyt abnorm  infecti diseas
+circumcis  bedwet  incontin  kidney problem  hypospadia repair  bladder exstrophi repair
+cancer  hepat  diet  inflammatori bowel diseas  nutrit support  well lifestyl
+acn  psoriasi  skin cancer  topic medic laser treatment  botox
 cancer  hernia  breast cancer  laparoscop surgeri  surgeri  breast carcinoma  gallston  colon cancer  inguin hernia  abdomin pain  diverticul  gi cancer  abdomin surgeri  laparoscop gallbladd remov
 breast cancer  breast carcinoma  mammogram  mastectomi  breast lump  breast tender  fibrocyst breast diseas  lumpectomi  breast abscess  breast biopsi  male breast cancer  metastat breast cancer  breast diseas  breast conserv surgeri  breast discharg
 stomach cancer  surgic robot  pancrea surgeri
@@ -446,27 +864,64 @@ health educ  sex educ  emerg medic care  women health  men health  child health 
 cancer  breast cancer  femal health  breast carcinoma  melanoma  skin cancer  nevi  surgeri  oncolog  male breast cancer  lymph node biopsi  breast conserv surgeri
 cancer  chemotherapi  leukemia  lung cancer  lymphoma  colon cancer  skin cancer  melanoma  cervic cancer  mouth cancer  ovarian cancer  multipl myeloma  stomach cancer  chronic myelogen leukemia  throat cancer  oncolog  thrombocytopenia  small cell lung cancer  chronic leukemia  oral cancer
 cancer  hernia  breast cancer  laparoscop surgeri  surgeri  breast carcinoma  gallston  colon cancer  inguin hernia  abdomin pain  diverticul  gi cancer  abdomin surgeri  laparoscop gallbladd remov
+cancer  nutrit  cervic cancer  ovarian cancer
+chest pain  pneumonia  copd  cancer
+lung cancer  radiat therapi  small cell lung cancer
+injuri prevent  nutrit support  health educ
+cancer  breast cancer  hernia  laparoscop surgeri  mammogram  gallston  abdomin pain  breast lump  append  inguin hernia  mastectomi  gallbladd diseas
+cancer  hematolog diseas
+children health  fever  vaccin  sleep  asthma  rash  adhd  frequent infect  newborn screen  child develop  infecti diseas  childhood immun
+colon cancer  lung cancer  breast cancer  head neck cancer  prostat cancer
+breast cancer  cancer  femal health  breast carcinoma  mammogram  tamoxifen  breast biopsi  mri breast  lumpectomi  breast lump remov  mastectomi  breast lump  anastrozol  chemotherapi  surgeri  sonogram  lymphedema  breast abscess  lymph node biopsi  breast diseas
 aid  pneumonia  urinari tract infect  sexual transmit diseas  infect heart valv  bacteri infect  bacteri endocard  osteomyel  respiratori tract infect  septic arthriti  pneumocysti jirovecii pneumonia  prophylact antibiot
 breast reconstruct  remov breast implant  breast implant  breast augment  botox  breast lift  facelift  breast reduct surgeri  eyelid lift  tummi tuck  liposuct  remov ruptur breast implant
 male health  surgeri  urinari tract infect  cancer  sexual transmit diseas  sexual transmit infect  testosteron  androderm  chlamydia infect  testoderm  vasectomi  circumcis  hernia  erectil dysfunct  torsion testi  prostat specif antigen  prostat cancer cryotherapi  remov testi  greenlight pvptm
 hemorrhoid  backach
 asthma  pediatr  immun  prevent medicin  metabol syndrom  endocrinolog
+child health  chickenpox  ear infect  sleep hygien  learn disord
+chlamydia infect  sexual transmit diseas  sexual transmit infect  human immunodefici virus  gonorrhea  hsv type 1 2  trichomona  hsv  syphili  bacteri vaginosi vagin panel  urethr  std prevent  hiv prevent
+diabet  urinari tract infect  manag low blood sugar  teen nutrit  hormon disord  asthma  copd  intern medicin  nativ american health  stress bladder incontin  manag high blood pressur
+hiv aid  sexual transmit diseas  syphili  sexual transmit infect  sexual health  hiv medic
+nan
+dizzi  headach  anxieti  vertigo  migrain  sleep  tingl  pain back  migrain headach  numb  stroke  seizur  lightheaded  stress  multipl sclerosi  tremor  cerebr vascular accid  exercis  dementia  stress headach
+aid  pneumonia  urinari tract infect  sexual transmit diseas  infect heart valv  bacteri infect  bacteri endocard  osteomyel  respiratori tract infect  septic arthriti  pneumocysti jirovecii pneumonia  prophylact antibiot
+chlamydia infect  sexual transmit diseas  sexual transmit infect  human immunodefici virus  gonorrhea  hsv type 1 2  trichomona  hsv  syphili  bacteri vaginosi vagin panel  urethr  std prevent  hiv prevent
+contracept  polycyst ovarian syndrom  sexual health  diabet  intrauterin devic  pregnanc loss  pelvic pain  abort  pelvic laparoscopi  ovarian cancer  plantar wart  botox  breast lump  drug addict  weight chang  cosmet surgeri  wart  adopt  loss sex drive  recurr vagin infect
 contracept  hysterectomi  sexual transmit diseas  urinari incontin  menorrhagia  teen pregnanc  endometri ablat  high risk pregnanc  hysteroscopi  essur
 nan
 contracept  hysterectomi  sexual transmit diseas  urinari incontin  menorrhagia  teen pregnanc  endometri ablat  high risk pregnanc  hysteroscopi  essur
 nan
 vagin discharg  vagin bleed  cervic biopsi use loop electrosurg excis procedur
+femal health  healthi pregnanc  mens  contracept  bleed  tubal ligat  vagin discharg  pelvic pain  vagin bleed  high risk pregnanc  hormon treatment
+femal health  mens  tri conceiv  infertil women  pelvic pain  ectop pregnanc  vagin bleed
+sleep  anxieti  femal health  exercis  exercis  depress  psychiatri  eat healthier  stress  lose weight  stress less  psychiatr drug  insomnia  exercis program  acupunctur  sleep better  health educ  women health  anxieti disord  lifestyl chang
+fertil  get pregnant  polycyst ovarian syndrom  ivf pregnanc  endometriosi  pregnanc loss  ectop pregnanc
+femal health  bleed  mens  intrauterin devic  contracept  vagin bleed  cervic dysplasia  bartholin cyst  vulviti
+chest pain  chest tight  angina  chest pressur  sore throat  urgent care  famili medicin  sexual health
 allergi  rhiniti  skin rash  cough  headach  treat hive  asthma  food allergi  allerg reaction  sleep  diarrhea  immunolog  back pain  environment allergi  antibodi screen  copd  immun cell function  manag eczema  immun defici  immunotherapi
 shoulder injuri  surgeri  physic therapi  arthroscopi  acl reconstruct  shoulder arthroscopi  rotat cuff injuri  tendon  costochondr  acl injuri  sport medicin  athlet  cartilag disord
 hernia  surgeri  hiatal hernia  hernia repair  inguin hernia  lump groin  groin hernia  gastroesophag reflux diseas  umbil hernia  inguin hernia repair  umbil hernia repair  inguin hernia surgeri
 allergi  rhiniti  skin rash  cough  headach  treat hive  asthma  food allergi  allerg reaction  sleep  diarrhea  immunolog  back pain  environment allergi  antibodi screen  copd  immun cell function  manag eczema  immun defici  immunotherapi
 nan
+delay menstrual period  ovul  contracept  tri conceiv  mens  fertil  oral contracept  polycyst ovarian syndrom  sexual transmit diseas  pregnanc loss  sexual transmit infect  chlamydia infect  ectop pregnanc  perimenopaus
+gi surgeri  primari care facil
+laparoscop surgeri  surgeri  endoscopi  hiatal hernia surgeri  varicos vein  weight loss surgeri  laparoscop colon resect
+famili relationship  hospic care  emerg medic care  high risk pregnanc  educ
+nan
+skin  hair nail  mole  skin cancer surgeri  basal cell carcinoma  moh micrograph surgeri
 addict medicin
 headach  anxieti  sleep  children health  dizzi  diarrhea  polycyst ovarian syndrom  child health  ehler danlo syndrom  asthma  mitochondri disord  cerebr palsi  adhd autism  babi care  parent child learn disord  loss development skill  delay cognit develop  delay develop  development behavior pediatr
 nan
 children health  cough  sleep  skin rash  diarrhea  loos stool  femal health  otiti media  ear infect  vaccin  healthi pregnanc  dermat  vomit  pediatr  fever  child allergi  dysenteri  placement stent bile duct  pediatr allergi
 allergi  asthma children  pediatr  adhd
 testosteron  androderm  male health  testoderm  erectil dysfunct  inabl sustain erect  inabl attain erect  dementia  alzheim diseas  dht  muse  hypogonad  fluphenazin  alprostadil  impot  viagra  erectil failur  prolixin
+diagnost procedur ent  ear drop
+aid  pneumonia  urinari tract infect  sexual transmit diseas  infect heart valv  bacteri infect  bacteri endocard  osteomyel  respiratori tract infect  septic arthriti  pneumocysti jirovecii pneumonia  prophylact antibiot
+children health  cough  sleep  skin rash  diarrhea  loos stool  femal health  otiti media  ear infect  vaccin  healthi pregnanc  dermat  vomit  pediatr  fever  child allergi  dysenteri  placement stent bile duct  pediatr allergi
+children health
+aid  pneumonia  urinari tract infect  sexual transmit diseas  infect heart valv  bacteri infect  bacteri endocard  osteomyel  respiratori tract infect  septic arthriti  pneumocysti jirovecii pneumonia  prophylact antibiot
+child health  vaccin  autism  autism spectrum disord  pediatr  sid  foster care  fever  age grace  immun  babi hiccup
+rhinoplasti  facelift  facial plastic surgeri  septoplasti  eyelid lift  nasal fractur  nasal septum repair  nasal polyp remov  eye lift  skin cancer
 chest pain  heart attack  heart diseas  congest heart failur
 cardiolog  exercis  pediatr cardiolog  pediatr  congenit heart diseas  obes  fetal ultrasound  costochondr  abnorm blood pressur  atrial septal defect  exercis program  ventricular septal defect  kawasaki diseas  medic clearanc sport  transthorac echocardiogram
 urinari tract infect
@@ -474,11 +929,22 @@ children health  cough  sleep  skin rash  diarrhea  loos stool  femal health  ot
 supraventricular tachycardia  long qt syndrom  cathet ablat  pediatr cardiolog  congenit heart diseas  ventricular tachycardia  tachyarrhythmia  pacemak implant defibril  sudden cardiac death  arrhythmia
 chest pain  cardiac catheter  heart attack  coronari arteri diseas  congest heart failur  echocardiogram  coronari arteriosclerosi  stress echocardiographi  cardiac pace  angiogram coronari arteri  acut cardiovascular diseas  peripher arteri diseas  drug elut stent  coronari angioplasti  ultrasound coronari arteri  transesophag echocardiogram  peripher vascular diseas
 famili relationship  hospic care  emerg medic care  high risk pregnanc  educ
+back pain  nutrit  pain back  healthi vegetarian diet  post traumat stress disord  second trimest pregnanc  hip pain  healthi pregnanc  fibromyalgia  holist medicin  titan light therapi  chronic fatigu syndrom  vitamin defici  laser genesi
+nan
+emerg medicin  upper respiratori tract infect  earach  emerg medic care  upper respiratori infect  upper respiratori tract symptom  face lacer  urgent care
+sleep  hypertens  exercis  anxieti  migrain  anemia  contracept  depress  adhd  nutrit  bipolar disord  mood disord  bariatr  famili medicin  fibromyalgia  live bipolar disord  faith base program  healthi man  bipolar ii disord  bipolar disord adult
+dizzi  back pain  allergi  blister  diabet type 2  depress  amoxil  anxieti disord  asthma  streptococc infect  aerob exercis  depress adult  telemedicin  essenti hypertens  primari care facil
+femal health  contracept  ovul  intrauterin devic  polycyst ovarian syndrom  exercis  pregnanc test  toxemia  high risk pregnanc
 nan
 aid  pneumonia  urinari tract infect  sexual transmit diseas  infect heart valv  bacteri infect  bacteri endocard  osteomyel  respiratori tract infect  septic arthriti  pneumocysti jirovecii pneumonia  prophylact antibiot
 sleep  anxieti  femal health  exercis  exercis  depress  psychiatri  eat healthier  stress  lose weight  stress less  psychiatr drug  insomnia  exercis program  acupunctur  sleep better  health educ  women health  anxieti disord  lifestyl chang
 contracept  cancer  endometriosi
 children health  vaccin
+arthriti  fibromyalgia  rheumatoid arthriti  osteoarthr  vascul
+human immunodefici virus  male health  sexual transmit infect  depress  lose weight  testosteron  diabet  aid  std  addict  alcohol  men health  gay  lesbian transgend health
+ovul  contracept  oral contracept  sonogram  levonorgestrel
+asthma  pediatr  immun  prevent medicin  metabol syndrom  endocrinolog
+contracept  get pregnant  infertil
 arthriti  fibromyalgia  gout  knee pain
 stress  depress  chemic depend treatment  psychotherapi  pain manag
 nan
@@ -488,11 +954,27 @@ herniat disk  bulg disk  sciatica  brain tumor  cervic spine stenosi  brain avm 
 wound care
 upper respiratori infect  otiti media  urinari tract infect  diabet type 2  hypertens
 children health  bruis  cough  acn  pimpl  ecchymos  abnorm blood pressur  cold sore  adenoid  itchi rash  enlarg adenoid  gum bleed
+anesthesia  respiratori failur  lung surgeri
+arthroscopi  sport medicin  knee arthroscopi  sport injuri  physic therapi  torn meniscus  acl reconstruct  joint  tendon  sport fit  sport safeti  athlet  rotat cuff repair  shoulder arthroscopi
+numb  tingl  tremor  chronic pain  headach  migrain
+holist medicin  integr medicin  manag high cholesterol
+health educ  exercis  nutrit  supplement  aerob exercis  sport medicin
+diabet  diabet type 2  hiatal hernia  weak  coliti  quit smoke  vein  heart diseas prevent  hernia  well lifestyl  breast lump  cardiovascular diseas  essenti hypertens  osteoarthr  cholesterol test  thyroid diseas  enlarg prostat  anemia  neurolog  atrial fibril
+metoprolol  constip  dizzi  skin rash  chest pain  renal impair  abdomin pain  anemia  anxieti  diabet  diabet type 2  low blood count  edet disodium  roentgen ray  benicar  olmesartan  herp zoster  laxat  fluid electrolyt balanc  intraven fluid
+anesthesia  vaccin  cough  rabi  colonoscopi  pertussus  whoop cough  chickenpox  child health  concuss  urgent care
+nan
 pediatr pulmonolog  pulmonolog  infant health  infant toddler health  prematur deliveri
 sleep  tuberculosi  cough  copd  vitamin defici  asthma  sepsi  fever  lung diseas  bronchoscopi  sleep disord  thoracoscopi  extrapulmonari tuberculosi  ultrasound chest
 pediatr pulmonolog  pulmonolog  infant health  infant toddler health  prematur deliveri
 child health  chickenpox  ear infect  sleep hygien  learn disord
 panic attack
+cough  asthma  copd  bronchiti  emphysema  chronic bronchiti  difficulti breath  bronchospasm  product cough  dri cough  fluid lung  respiratori failur
+asthma  pediatr  immun  prevent medicin  metabol syndrom  endocrinolog
+children health  pimpl  acn  cough  vagin discharg  cancer  xray shoulder  hepat  child develop  babi behavior  treat sore throat  parent child learn disord  syndrom  muscular dystrophi  congenit abnorm  mental health behavior
+human immunodefici virus  male health  sexual transmit infect  depress  lose weight  testosteron  diabet  aid  std  addict  alcohol  men health  gay  lesbian transgend health
+tonsillectomi adenoidectomi  xeomin  chemic laser treatment melasma  sleep disturb childhood
+child allergi  childhood immun  asthma children  tropic diseas
+nan
 metabol bone diseas
 bunion repair  bunion remov  ingrown toenail surgeri  heel pain  toe surgeri
 arthriti  fibromyalgia  rheumatoid arthriti  osteoarthr  vascul
@@ -501,6 +983,13 @@ backach
 famili relationship  hospic care  emerg medic care  high risk pregnanc  educ
 laparoscop surgeri  breast cancer  genet test  oncolog
 arthriti  fibromyalgia  rheumatoid arthriti  osteoarthr  vascul
+nan
+prolotherapi  scoliosi
+orthot  diabet foot  foot surgeri  bunion  ankl sprain  hammer toe  podiatri  foot ulcer  foot care  sport medicin  heel injuri disord
+arthriti  fibromyalgia  gout  knee pain
+dizzi  back pain  allergi  blister  diabet type 2  depress  amoxil  anxieti disord  asthma  streptococc infect  aerob exercis  depress adult  telemedicin  essenti hypertens  primari care facil
+bunion  diabet foot  ankl fractur  foot surgeri  ankl surgeri  ankl disord
+sport medicin  ankl surgeri
 gi surgeri  primari care facil
 child health  children health  asthma  panadol  fever  pediatr  adolesc health  eat disord
 back pain  pain back  pain manag  neuropathi  neck pain  nerv damag  migrain  chronic pain  head injuri  physic rehabilit  back injuri  epidur steroid inject  occup injuri  radiofrequ ablat  lumbar radiculopathi  sacroiliac joint inject  intern medicin
@@ -508,6 +997,13 @@ fibromyalgia  anesthesia  backach  neuropathi  chronic pain  back pain  addict  
 infecti diseas  healthi live  head neck cancer  endocrin disord
 laparoscop surgeri  weight loss surgeri  gastric band  pelvic abscess
 cancer  hepat  diet  inflammatori bowel diseas  nutrit support  well lifestyl
+diabet  diabet type 2  hiatal hernia  weak  coliti  quit smoke  vein  heart diseas prevent  hernia  well lifestyl  breast lump  cardiovascular diseas  essenti hypertens  osteoarthr  cholesterol test  thyroid diseas  enlarg prostat  anemia  neurolog  atrial fibril
+travel medicin  adult immun  famili relationship  stress manag
+gastroenterolog  irrit bowel syndrom  heartburn  colonoscopi  endoscopi
+hernia  surgeri  hiatal hernia  hernia repair  inguin hernia  lump groin  groin hernia  gastroesophag reflux diseas  umbil hernia  inguin hernia repair  umbil hernia repair  inguin hernia surgeri
+back pain  nutrit  pain back  healthi vegetarian diet  post traumat stress disord  second trimest pregnanc  hip pain  healthi pregnanc  fibromyalgia  holist medicin  titan light therapi  chronic fatigu syndrom  vitamin defici  laser genesi
+allergi  asthma  skin rash  allerg reaction  rhiniti  celiac diseas  dermat  immun diseas  atop dermat  black mold allergi
+sonogram
 asthma  pediatr  immun  prevent medicin  metabol syndrom  endocrinolog
 surgeri  cancer  hemorrhoid  diarrhea  headach  cough  abdomin pain  dizzi  back pain  constip  anxieti  sleep  pain back  endoscopi  numb
 vision  diabet  eye health  surgeri  eye exam  blurri vision  dri eye  cataract  vision loss  hazi vision  glaucoma  loss vision  cataract surgeri  color blind
@@ -515,6 +1011,13 @@ hepat  inflammatori bowel diseas  gastroesophag reflux diseas  cirrhosi liver  c
 sleep  headach  ovul  diarrhea  cough  anxieti  sonogram  dizzi  back pain  surgeri  loos stool  depress  exercis  cancer  sore throat  pregnanc loss  throat pain  flu  nutrit  angina
 asthma  pediatr  immun  prevent medicin  metabol syndrom  endocrinolog
 sleep  breast pump  breast engorg  clog milk duct  safeti
+nan
+breast implant  liposuct  tummi tuck  facelift  breast augment  tuck  facial plastic surgeri  labiaplasti  labial reduct
+liposuct  breast augment  surgeri  fat transfer  eyelid surgeri  tummi tuck  butt augment  breast implant  butt lift  eyelid lift  brazilian butt lift  breast reduct surgeri  butt implant  plastic cosmet surgeri  brow lift  rhinoplasti  dermal filler  breast enlarg surgeri  breast revis
+nan
+sleep  anxieti  femal health  exercis  exercis  depress  psychiatri  eat healthier  stress  lose weight  stress less  psychiatr drug  insomnia  exercis program  acupunctur  sleep better  health educ  women health  anxieti disord  lifestyl chang
+tmj syndrom  tooth pain  canker sore  root canal  cari  dental pain  dental implant
+surgeri  hernia  abdomin pain  motor vehicl accid  sonogram
 dizzi  back pain  allergi  blister  diabet type 2  depress  amoxil  anxieti disord  asthma  streptococc infect  aerob exercis  depress adult  telemedicin  essenti hypertens  primari care facil
 hernia  surgeri  hiatal hernia  hernia repair  inguin hernia  lump groin  groin hernia  gastroesophag reflux diseas  umbil hernia  inguin hernia repair  umbil hernia repair  inguin hernia surgeri
 nan
@@ -522,6 +1025,12 @@ male health  surgeri  urinari tract infect  cancer  sexual transmit diseas  sexu
 hernia  abdomin discomfort  abdomin pain  cancer  surgeri  lump groin  groin hernia  inguin hernia  hernia repair  pain back  back pain  hemorrhoid  muscl spasm  sciatica  inguin hernia repair  breast cancer  femal health  crohn diseas  blister  anal fissur
 abdomin pain  chest pain  difficulti breath  integr medicin
 nan
+diabet  human immunodefici virus  constip  asthma  suboxon  hyperlipidemia  weight loss program
+cancer  surgeri  anal fissur  lipoma  breast cancer  hemorrhoid  femal health  breast carcinoma  hernia  burn  verruca  breast tender  mole remov  breast ach  gi surgeri  paronychia  treat genit wart  std prevent  fleet enema  sodium bisphosph
+nan
+obes  difficulti breath  healthi diet  weight manag  healthi live  fit exercis  weight loss program  well lifestyl  sport fit  live asthma  healthi eat  breath difficulti
+nan
+gastroenterolog  irrit bowel syndrom  heartburn  colonoscopi  endoscopi
 diarrhea  skin rash  contracept  sore throat  supplement  abdomin pain  allergi  tmj syndrom  hemorrhoid  dermatolog  mole  cystic acn  facial pimpl  liver diseas  heart diseas  skin abscess  follicul  telemedicin
 nan
 nan
@@ -529,27 +1038,57 @@ tonsillectomi adenoidectomi  ear infect  ear nose throat
 dental pain  orthodontia  cosmet dentistri  dental surgeri
 surgeri  septoplasti  ear infect  dizzi  throat pain  vertigo  otiti media  deviat nasal septum  middl ear infect  rhinoplasti  perfor eardrum  hear loss  ocean  chronic sinus  deviat septum surgeri  botox  voic disord  otiti externa  nasal allergi
 oral surgeri  oral maxillofaci surgeri  tooth pain  manag tmj  dental pain  wisdom tooth extract  deal wisdom teeth  facial pain  facial plastic surgeri  tmj surgeri  oral cancer  botox  acn  open repair jawbon fractur
+breast cancer  oncolog  malign melanoma
+dental care  gum diseas  swollen gland  dental cari  enlarg lymph node  difficulti swallow  dental pain  sinus pain  dental fill  dri mouth  dentistri  child dental health  dental procedur  swallow disord  esthet dentistri  dental clean  dental health  dental sealant  cosmet dentistri
+chlamydia infect  sexual transmit diseas  sexual transmit infect  human immunodefici virus  gonorrhea  hsv type 1 2  trichomona  hsv  syphili  bacteri vaginosi vagin panel  urethr  std prevent  hiv prevent
+aid  pneumonia  urinari tract infect  sexual transmit diseas  infect heart valv  bacteri infect  bacteri endocard  osteomyel  respiratori tract infect  septic arthriti  pneumocysti jirovecii pneumonia  prophylact antibiot
+dri mouth  aortic stenosi  dental pain  teeth
+diabet  women health  hyperlipidemia  hypertens
+abnorm vagin bleed  depress  chest pain  cognit behavior therapi  herniat disk  gastroesophag reflux diseas  medit  irregular menstrual period  urinari tract infect  panic attack  pelvic pain  delay menstrual period  heartburn  oral herp simplex  menstrual cycl chang  tinnitus  otiti media  manag migrain  chronic cough  live major depress
 children health  vaccin
 cancer  nutrit  cervic cancer  ovarian cancer
 cancer  nutrit  cervic cancer  ovarian cancer
 children health  vaccin
 cough  sore throat  throat pain  children health  exercis  concuss  healthi eat  lose weight  sport medicin  eat healthier  obes  pediatr  healthi live  emerg medicin  treat concuss  exercis  pain manag  famili medicin  degen disc diseas  sport injuri
 femal health  contracept  ovul  mens  fertil  healthi pregnanc  yeast infect  oral contracept  sexual transmit diseas  home pregnanc test  pregnanc loss  tri conceiv  get pregnant  polycyst ovarian syndrom  sexual transmit infect  pap smear  intrauterin devic  first trimest pregnanc  pelvic inflammatori diseas  endometriosi
+sleep  diarrhea  pimpl  cough  acn  nutrit  constip  sonogram  cancer  contracept  lose weight  pediatr  alopecia  thyroxin  mole  vaccin  heavi bleed  synthroid  levoxyl  pancreat cancer
+obes  gastroenterolog  nutrit  obes  respiratori system  diabet  gastroenterolog  nutrit  obes  diabet  respiratori system  nutrit  respiratori system  diabet  respiratori system  diabet  gastroenterolog  respiratori system  diabet  gastroenterolog
+endometriosi  infertil  laparoscop surgeri  embryo transfer  oocyt cryopreserv
+depress  feel anxious  sleep hygien  stress manag
+cancer  nutrit  cervic cancer  ovarian cancer
 chest pain  heart attack  heart diseas  congest heart failur
 vein  varicos vein  deep venous thrombosi  venous insuffici  spider vein  varicos vein leg  blood clot leg  sclerotherapi  lymphedema  spider angioma  coumadin  venous stasi  phlebiti  laser ablat  telangiectasia
 chest pain  heart attack  heart diseas  congest heart failur
 cancer  breast cancer  anemia  chemotherapi  colon cancer  lymphoma  lung cancer  leukemia
 stroke  stent  aortic aneurysm  carotid bruit  carotid arteri stenosi  lower limb bypass
+osteopath  pain manag  chronic pain  backach  spine manipul  headach  prolotherapi  nerv injuri  neck pain  back pain  neuropathi  neuralgia  sciatica  migrain  fibromyalgia  chest wall pain  stiff neck  pain medic  chest pain  numb
+vein  varicos vein  exercis  eat healthier  spider vein  lymphedema  spider angioma  varicos vein leg  sclerotherapi  venous insuffici  liposuct  phlebiti  venous stasi  skincar  prevent wrinkl  superfici thrombophleb  laserl liposuct
+heart attack  myocardi infarct  deep venous thrombosi  coronari arteri diseas  aortic aneurysm  cardiovascular diseas  coronari arteri bypass graft  thorac neoplasm  peripher vascular diseas  thorac surgeon  venous insuffici  thorac outlet syndrom  thoracotomi  carotid duplex  carotid arteri stenosi  carotid arteri diseas  ultrasound extrem vein  cardiac bypass  cardiac pace  carotid bruit
+nan
+heart attack  myocardi infarct  deep venous thrombosi  coronari arteri diseas  aortic aneurysm  cardiovascular diseas  coronari arteri bypass graft  thorac neoplasm  peripher vascular diseas  thorac surgeon  venous insuffici  thorac outlet syndrom  thoracotomi  carotid duplex  carotid arteri stenosi  carotid arteri diseas  ultrasound extrem vein  cardiac bypass  cardiac pace  carotid bruit
+vein  varicos vein leg  varicos vein  spider vein  venous insuffici
+ct scan  stroke  varicos vein  carotid arteri diseas  venous insuffici  vascular ultrasound  aorta bilater iliofemor runoff cta
 dental pain  orthodontia  cosmet dentistri  dental surgeri
 deviat nasal septum  facelift  septoplasti  facial plastic surgeri  botox  ent head neck surgeri  dermal filler  deviat septum surgeri  eye lift  neck lift  brow lift  mini lift  revis rhinoplasti  constip  rhinoplasti  rhinoplasti  asian american health  asian eyelid surgeri  blepharoplasti
 asthma  child allergi  celiac diseas  vascul  angiiti  non allerg rhiniti  allerg conjunct  atop dermat  immun defici  hypogammaglobulinemia  allerg reaction insect bite
 nan
 aid  pneumonia  urinari tract infect  sexual transmit diseas  infect heart valv  bacteri infect  bacteri endocard  osteomyel  respiratori tract infect  septic arthriti  pneumocysti jirovecii pneumonia  prophylact antibiot
+voic disord  swallow disord  parathyroid disord
+pediatr pulmonolog  pulmonolog  infant health  infant toddler health  prematur deliveri
+nan
+allergi  asthma  skin rash  allerg reaction  rhiniti  celiac diseas  dermat  immun diseas  atop dermat  black mold allergi
+development behavior pediatr  pediatr  mental ill  adhd  adult adhd self report scale
 testosteron  androderm  male health  testoderm  erectil dysfunct  inabl sustain erect  inabl attain erect  dementia  alzheim diseas  dht  muse  hypogonad  fluphenazin  alprostadil  impot  viagra  erectil failur  prolixin
 contracept  cancer  endometriosi
 urinari tract infect
 femal health  healthi pregnanc  polycyst ovarian syndrom  mens  contracept  hysterectomi  cancer  ovul  laparoscop surgeri  normal childbirth  child health  pap smear  endometriosi  bleed  vagin hysterectomi  surgeri  spot  breast cancer  robot surgeri  da vinci robot surgeri
 ct scan  ct guid fine needl aspir  ct guid biopsi  ct guid drainag  ct guid extern biliari drainag  ct guid biopsi muscl soft tissu  ct guid biopsi abdomen  patient communic  ct guid biopsi pancrea  ct guid biopsi liver  ct guid biopsi lung mediastinum  ct guid biopsi kidney  ct guid biopsi bone  ct guid abscess drainag
+famili relationship  hospic care  emerg medic care  high risk pregnanc  educ
+famili relationship  hospic care  emerg medic care  high risk pregnanc  educ
+breast implant  liposuct  tummi tuck  facelift  breast augment  tuck  facial plastic surgeri  labiaplasti  labial reduct
+diabet  women health  hyperlipidemia  hypertens
+sleep  anxieti  femal health  exercis  exercis  depress  psychiatri  eat healthier  stress  lose weight  stress less  psychiatr drug  insomnia  exercis program  acupunctur  sleep better  health educ  women health  anxieti disord  lifestyl chang
+cancer  nutrit  cervic cancer  ovarian cancer
 anxieti disord  manag posttraumat stress disord  pain manag  stress manag
 anxieti  depress  person disord  adhd  manag anger  children teenag  bodi weight  self help  famili relationship  divorc
 famili relationship  hospic care  emerg medic care  high risk pregnanc  educ
@@ -560,18 +1099,40 @@ depress  anxieti  neuropsycholog test  panic attack
 bipolar disord  depress  manic depress disord  psychiatri  anxieti  sleep  antipsychot  sertralin  citalopram  adhd  schizophrenia  addict  bupropion  live bipolar disord  mood disord  feel anxious  mania
 echocardiogram  cardiovascular diseas  nuclear scan  peripher vascular diseas  cardiac catheter
 deal depress  panic attack  postpartum depress  anxieti disord
+nan
+heart diseas  heart murmur  chest pain
+hypertroph cardiomyopathi  atrial fibril  coronari arteri diseas  ventricular fibril
+depress  panic attack  stress  anxieti disord  psychotherapi  post traumat stress disord  psychopharmacolog treatment
+clinic lipidolog  diabet  cholesterol test  hypertens
+dizzi  back pain  allergi  blister  diabet type 2  depress  amoxil  anxieti disord  asthma  streptococc infect  aerob exercis  depress adult  telemedicin  essenti hypertens  primari care facil
+bipolar disord  schizophrenia  panic attack  alcohol  psychiatri  suboxon  child health  manic depress disord  addict  eat disord  anorexia  bulimia  panic disord  adhd  children health  behavior problem  mood disord  perimenopaus
+aortic aneurysm  lung cancer  coronari arteri bypass graft  aortic valv replac
+chest pain  heart attack  heart diseas  congest heart failur
 diarrhea  ulcer  gastroesophag reflux diseas  irrit bowel syndrom  constip  nutrit  abdomin pain  helicobact pylori  gastriti  coliti  gallston  blood stool  cirrhosi liver  alkalin phosphatas  esophag  anti reflux surgeri  spinal cord injuri
 back pain  nutrit  pain back  healthi vegetarian diet  post traumat stress disord  second trimest pregnanc  hip pain  healthi pregnanc  fibromyalgia  holist medicin  titan light therapi  chronic fatigu syndrom  vitamin defici  laser genesi
 aid  pneumonia  urinari tract infect  sexual transmit diseas  infect heart valv  bacteri infect  bacteri endocard  osteomyel  respiratori tract infect  septic arthriti  pneumocysti jirovecii pneumonia  prophylact antibiot
 chest pain
 child health  adhd  adderal  seizur  concuss  dextroamphetamin racem amphetamin  seizur disord  ritalin  convuls  brain injuri  depress  mening  paralysi  csf cultur  traumat brain injuri  lead exposur  learn disabl
 arthriti  fibromyalgia  rheumatoid arthriti  osteoarthr  vascul
+nan
+coliti  crohn diseas  abdomin pain  intestin diseas  breast diseas
+surgeri  varicos vein  vein  spider vein  sonogram  varicos vein leg  sclerotherapi  ultrasound extrem vein  superfici thrombophleb  leg surgeri
+diarrhea  ulcer  gastroesophag reflux diseas  irrit bowel syndrom  constip  nutrit  abdomin pain  helicobact pylori  gastriti  coliti  gallston  blood stool  cirrhosi liver  alkalin phosphatas  esophag  anti reflux surgeri  spinal cord injuri
+nutrit  vaccin  adhd  pediatr allergi asthma  newborn infant diseas  obes children  skincar
 allergi  asthma  skin rash  allerg reaction  rhiniti  celiac diseas  dermat  immun diseas  atop dermat  black mold allergi
 children health  cough  sleep  skin rash  diarrhea  loos stool  femal health  otiti media  ear infect  vaccin  healthi pregnanc  dermat  vomit  pediatr  fever  child allergi  dysenteri  placement stent bile duct  pediatr allergi
 home pregnanc test  abdomin pain  ovul  sleep  urinari tract infect  headach  irregular menstrual period  sore throat  migrain  allergi  oral contracept  hoars  migrain headach  flu  testicular ultrasound  gastrointestin diseas  essenti hypertens  mental health behavior
 diabet  human immunodefici virus  constip  asthma  suboxon  hyperlipidemia  weight loss program
 orthodont  tooth pain  child health  dentistri  tmj syndrom  children health  surgeri  dental pain  oral surgeri  cari  abscess  dental care  oral maxillofaci surgeri  root canal  dental cari  dental health  tooth abscess  teeth  gum diseas  gingiv
 circumcis  bedwet  incontin  kidney problem  hypospadia repair  bladder exstrophi repair
+cancer  acn  human immunodefici virus  nutrit  femal health  child health  breast cancer  male health  vitamin defici  breast carcinoma  pap smear  scar  exercis  anemia  lung cancer  iron defici anemia
+children health  cough  sleep  skin rash  diarrhea  loos stool  femal health  otiti media  ear infect  vaccin  healthi pregnanc  dermat  vomit  pediatr  fever  child allergi  dysenteri  placement stent bile duct  pediatr allergi
+arthriti  fibromyalgia  rheumatoid arthriti  osteoarthr  vascul
+allergi  skin rash  asthma  cough  child health  dermat  runni nose  rhiniti  food allergi  child allergi  allerg reaction  stuf nose  chronic sinus  allerg rhiniti  hereditari angioedema
+nan
+cancer  acn  human immunodefici virus  nutrit  femal health  child health  breast cancer  male health  vitamin defici  breast carcinoma  pap smear  scar  exercis  anemia  lung cancer  iron defici anemia
+acn  rosacea  common wart  psoriasi  eczema  skin cancer surgeri
+chest pain  chest tight  angina  chest pressur  sore throat  urgent care  famili medicin  sexual health
 plantar fasciiti  diabet foot  neuroma
 surgeri  hernia  abdomin pain  motor vehicl accid  sonogram
 nan
@@ -580,40 +1141,90 @@ surgeri  scoliosi  abnorm curvatur spine  broken bone  back pain  pain back  her
 neuroma  tendon  corn  toenail fungus  plantar fasciiti  plantar wart  bacteri infect  sport injuri  fungal skin infect  patient communic  ankl pain  hammer toe  wound infect  skincar  orthot  foot arthriti  diabet foot  flat feet  ingrown toenail  bunion repair
 hernia  surgeri  hemorrhoid  safe sex  abdomin pain  lump groin  hiatal hernia  gallbladd diseas  one side abdomin pain  pancreat  emerg medicin  breast diseas  general surgeri  well lifestyl
 heat pad  varicos vein  exercis  pain manag  spinal compress fractur  dialysi  peripher arteri diseas
+nan
+neck pain  carpal tunnel syndrom  radiculopathi  meniscus injuri  torn meniscus  knee swell  ankl pain  stress manag  phantom limb  physiotherapi  retrograd ejacul
+anxieti  bipolar disord  manic depress disord  person disord  dementia  memori  anxieti disord  borderlin person disord  post traumat stress disord  social anxieti disord  mind medit  general anxieti disord  vascular dementia  age grace  relax techniqu
+sleep  anxieti  depress  bipolar disord  stress  psychiatri  manic depress disord  adhd  klonopin  zoloft  clonazepam  sertralin  memori  adderal  dextroamphetamin racem amphetamin  person disord  psychot  major depress
+impair vision  glass  bing eat  enter  contact len
+sleep  heart attack  nutrit  diabet risk  insur  fever  sickl cell diseas  bleed  rash  hospit
 pimpl  facial pimpl  allerg reaction
 oral surgeri  oral maxillofaci surgeri  tooth pain  manag tmj  dental pain  wisdom tooth extract  deal wisdom teeth  facial pain  facial plastic surgeri  tmj surgeri  oral cancer  botox  acn  open repair jawbon fractur
 exercis  lose weight  stress  supplement  ulcer  age grace  diabet type 2  migrain headach  white cell count  oxygen  suboxon  intern medicin  suboxon withdraw  opiat withdraw  medic  pharmacolog
 abdomin pain  chest pain  difficulti breath  integr medicin
 migrain  emerg medicin  urgent care  famili medicin  hypertens  weight train
 children health  cough  sleep  skin rash  diarrhea  loos stool  femal health  otiti media  ear infect  vaccin  healthi pregnanc  dermat  vomit  pediatr  fever  child allergi  dysenteri  placement stent bile duct  pediatr allergi
+tooth pain  root canal  dentistri  tmj syndrom  tooth abscess  dri mouth  dental health  dental abscess  aphthous stomat  teeth  teeth clean  dental anxieti
+dentistri  dental health  dental care  child health  dental implant  gum diseas  cosmet dentistri  manag teeth
+skin rash  dehydr  electrolyt abnorm  infecti diseas
+delay menstrual period  ovul  contracept  tri conceiv  mens  fertil  oral contracept  polycyst ovarian syndrom  sexual transmit diseas  pregnanc loss  sexual transmit infect  chlamydia infect  ectop pregnanc  perimenopaus
+sleep  femal health  acn  diabet  cancer  depress  child diabet  facial pimpl  lose weight  asthma  diabet risk  cerebr apoplexi  laparoscop surgeri  sleep disord  foul tast mouth  feel anxious  drowsi  fever  weight loss program  intern medicin pediatr
+diabet  women health  hyperlipidemia  hypertens
+nan
 depress  adhd  anxieti disord  teen mental health  attent deficit hyperact disord children
 aid  pneumonia  urinari tract infect  sexual transmit diseas  infect heart valv  bacteri infect  bacteri endocard  osteomyel  respiratori tract infect  septic arthriti  pneumocysti jirovecii pneumonia  prophylact antibiot
 cancer  headach  health educ  skin chang  prevent medicin
 job relat anxieti  stress manag  deal depress  relationship difficulti  holist medicin
 children health  cough  sleep  skin rash  diarrhea  loos stool  femal health  otiti media  ear infect  vaccin  healthi pregnanc  dermat  vomit  pediatr  fever  child allergi  dysenteri  placement stent bile duct  pediatr allergi
 tmj syndrom  sleep apnea  facial pain  trigemin neuralgia  headach disord
+sleep  nutrit  glucophag  anxieti disord
+chest pain  heart attack  heart diseas  congest heart failur
+spine surgeri  pinch nerv  weak  curv spine  slip disc  cervic disc replac  bone cancer  brain tumor  minim invas surgeri
+migrain  epilepsi  common migrain  eeg  motor tic  infantil spasm
+diabet  obes  addict  chronic renal diseas
+sleep  anxieti  femal health  exercis  exercis  depress  psychiatri  eat healthier  stress  lose weight  stress less  psychiatr drug  insomnia  exercis program  acupunctur  sleep better  health educ  women health  anxieti disord  lifestyl chang
+dizzi  headach  seizur  seizur disord  depress  migrain  epilepsi  memori  vitamin b12  head injuri  head trauma  traumat nerv injuri  traumat brain injuri  aphasia
+dizzi  headach  seizur  seizur disord  depress  migrain  epilepsi  memori  vitamin b12  head injuri  head trauma  traumat nerv injuri  traumat brain injuri  aphasia
+nan
 nan
 dizzi  back pain  allergi  blister  diabet type 2  depress  amoxil  anxieti disord  asthma  streptococc infect  aerob exercis  depress adult  telemedicin  essenti hypertens  primari care facil
 child health  vaccin  autism  autism spectrum disord  pediatr  sid  foster care  fever  age grace  immun  babi hiccup
 knee pain  viral mening  alcohol  emerg medic care  injuri prevent
 urolog neoplasm  urolog diseas
+vagin discharg  pelvic laparoscopi  high risk pregnanc
+nan
+total testosteron
+skin  hair nail
+contracept  cancer  endometriosi
+nan
+vagin discharg  pelvic laparoscopi  high risk pregnanc
 gi surgeri  primari care facil
 dizzi  back pain  fibromyalgia
 rheumatoid arthriti  autoimmun diseas  rheumatolog  sjogren syndrom  psoriat arthriti  lupus
 aid  pneumonia  urinari tract infect  sexual transmit diseas  infect heart valv  bacteri infect  bacteri endocard  osteomyel  respiratori tract infect  septic arthriti  pneumocysti jirovecii pneumonia  prophylact antibiot
 lymphoma  anemia  lung cancer
+multipl sclerosi  headach  migrain  numb  stroke  cerebr vascular accid  neuropathi  dizzi  migrain headach  seizur  sleep  tingl  alzheim diseas  memori  dementia  exercis  weak  thorac outlet syndrom  memori loss  dementia lewi bodi
+fetal ultrasound  ultrasound thyroid
+prevent medicin  famili medicin
+sleep  femal health  acn  diabet  cancer  depress  child diabet  facial pimpl  lose weight  asthma  diabet risk  cerebr apoplexi  laparoscop surgeri  sleep disord  foul tast mouth  feel anxious  drowsi  fever  weight loss program  intern medicin pediatr
+child health  children health  fluorid  dentistri  dental cari  teeth  dental care  orthodont  dental health  tooth abscess  dental abscess
+weak  exercis  angina  depress  allergi  stroke  dizzi  chest pain  acn  cerebr vascular accid  amnesia  balan  supplement  retrograd ejacul  eeg  fever
+famili relationship  hospic care  emerg medic care  high risk pregnanc  educ
+allergi  cancer  throat pain  sore throat  anxieti  rhiniti  cough  hypertens  male health  pap smear  dizzi  lightheaded  depress  femal health  chest pain  arthriti  numb  bleed
 nan
 cancer  femal health  lymph node biopsi  healthi pregnanc  cervic cancer  heart failur  skin cancer  perspir  dizzi  insomnia  feel anxious  antibiot
 pimpl  acn  facial pimpl  skin rash  mole  burn  herp zoster  melanoma  hair loss  skin  hair nail  alopecia  yeast infect  dermatolog  skin tag  psoriasi  cold sore  scabi  suspici mole  impetigo  sunburn
 ivf pregnanc  infertil women  male infertil  hysteroscopi  laparoscopi
 contracept  hysterectomi  sexual transmit diseas  urinari incontin  menorrhagia  teen pregnanc  endometri ablat  high risk pregnanc  hysteroscopi  essur
 mens  sexual transmit diseas  pelvic exam
+abnorm vagin bleed  depress  chest pain  cognit behavior therapi  herniat disk  gastroesophag reflux diseas  medit  irregular menstrual period  urinari tract infect  panic attack  pelvic pain  delay menstrual period  heartburn  oral herp simplex  menstrual cycl chang  tinnitus  otiti media  manag migrain  chronic cough  live major depress
+cancer  nutrit  cervic cancer  ovarian cancer
+ovul  contracept  polycyst ovarian syndrom  clomid  obstetr  pelvic laparoscopi  women health  gynecolog surgeri  gynecolog  pelvic support problem
+contracept  hysterectomi  sexual transmit diseas  urinari incontin  menorrhagia  teen pregnanc  endometri ablat  high risk pregnanc  hysteroscopi  essur
+nan
+oncolog  patholog  liver injuri
 nan
 prevent medicin  malign hyperthermia  emerg medic care  sport medicin
 home pregnanc test  abdomin pain  ovul  sleep  urinari tract infect  headach  irregular menstrual period  sore throat  migrain  allergi  oral contracept  hoars  migrain headach  flu  testicular ultrasound  gastrointestin diseas  essenti hypertens  mental health behavior
 cancer  nutrit  cervic cancer  ovarian cancer
 nutrit  kidney diseas  gout  nephrolithiasi  hypertens  kidney stone  sodium  exercis  potassium  urinari tract infect  nephrolog dialysi  abnorm blood pressur  dialysi  polycyst kidney diseas  periton dialysi  diabet nephropathi
 patient safeti  aerospac medicin  case manag  risk manag  malpractic
+circumcis  bedwet  incontin  kidney problem  hypospadia repair  bladder exstrophi repair
+prostat cancer  bladder cancer  vasectomi  kidney cancer  robot surgeri  urolog diseas
+urinari tract infect  incontin  urinari incontin  rectocel  overact bladder  pain bladder syndrom  surgic mesh  stress incontin  uterin prolaps  cystocel  vagin prolaps  leak urin  bladder sling surgeri  inform consent
+contracept  hysterectomi  sexual transmit diseas  urinari incontin  menorrhagia  teen pregnanc  endometri ablat  high risk pregnanc  hysteroscopi  essur
+vitamin defici  supplement  vitamin  lyme diseas  stress less  vitamin supplement  vitamin b12  child health  vitamin c  homeopathi  ascorb acid  diet  vegetarian diet  herbal supplement  holist medicin  integr medicin  well lifestyl  nutrit support  medicin herb  medit program
+nutrit  kidney diseas  gout  nephrolithiasi  hypertens  kidney stone  sodium  exercis  potassium  urinari tract infect  nephrolog dialysi  abnorm blood pressur  dialysi  polycyst kidney diseas  periton dialysi  diabet nephropathi
+dizzi  indigest  headach  heartburn  allergi  mens  premenstru syndrom  lactos intoler
 surgeri  hernia  abdomin pain  motor vehicl accid  sonogram
 nan
 heart attack  myocardi infarct  deep venous thrombosi  coronari arteri diseas  aortic aneurysm  cardiovascular diseas  coronari arteri bypass graft  thorac neoplasm  peripher vascular diseas  thorac surgeon  venous insuffici  thorac outlet syndrom  thoracotomi  carotid duplex  carotid arteri stenosi  carotid arteri diseas  ultrasound extrem vein  cardiac bypass  cardiac pace  carotid bruit
@@ -625,6 +1236,14 @@ nutrit  prevent medicin  public health  medic research
 anxieti  depress  insomnia  sleep  bulimia  obsess compuls disord  healthi diet  post traumat stress disord  eat disord  adhd  counsel  live add adhd  depress med
 nan
 supplement  prostat cancer  menopaus  sexual transmit infect  diabet  sex educ  erectil dysfunct  sexual health  altern medicin  enlarg prostat  men health  bioident hormon  prevent breast cancer  sexual transmit diseas  loss sex drive  medit
+nan
+anxieti  bipolar disord  manic depress disord  person disord  dementia  memori  anxieti disord  borderlin person disord  post traumat stress disord  social anxieti disord  mind medit  general anxieti disord  vascular dementia  age grace  relax techniqu
+nan
+general anxieti disord  bipolar disord adult  geriatr psychiatri  posttraumat stress disord
+supraventricular tachycardia  long qt syndrom  cathet ablat  pediatr cardiolog  congenit heart diseas  ventricular tachycardia  tachyarrhythmia  pacemak implant defibril  sudden cardiac death  arrhythmia
+nan
+heart attack  difficulti breath  bypass surgeri  mitral valv replac  aortic valv replac  breathless  mitral stenosi  carotid arteri stenosi  heart transplant
+anxieti  depress  panic attack  chest wall pain  stress  sleep  decreas sleep  feel anxious  bipolar disord  difficulti breath  clonazepam
 chlamydia infect  sexual transmit diseas  sexual transmit infect  human immunodefici virus  gonorrhea  hsv type 1 2  trichomona  hsv  syphili  bacteri vaginosi vagin panel  urethr  std prevent  hiv prevent
 contracept  hysterectomi  sexual transmit diseas  urinari incontin  menorrhagia  teen pregnanc  endometri ablat  high risk pregnanc  hysteroscopi  essur
 ultrasound kidney show stone  kidney stone remov  kidney cancer  kidney stone agent  complic kidney stone  kidney remov  shockwav lithotripsi kidney stone  dietari supplement  ureteroscop stone remov
@@ -632,12 +1251,25 @@ kidney stone  bladder cancer  vasectomi  prostat cancer  vasectomi revers  trans
 human immunodefici virus  male health  sexual transmit infect  depress  lose weight  testosteron  diabet  aid  std  addict  alcohol  men health  gay  lesbian transgend health
 contracept  hysterectomi  sexual transmit diseas  urinari incontin  menorrhagia  teen pregnanc  endometri ablat  high risk pregnanc  hysteroscopi  essur
 male health  cancer  shockwav lithotripsi kidney stone  prostat cancer  circumcis  alprostadil  stent  free total psa  incontin  bph  kidney stone remov  reproduct urolog  urinari tract infect
+antibiot  lyme diseas  chronic fatigu syndrom  mening  chronic fatigu  pneumonia  infecti diseas  csf cultur  mrsa  interstiti pneumonia  foodborn ill  ebola virus  mycobacterium avium intracellular  hiv aid
+male health  surgeri  urinari tract infect  cancer  sexual transmit diseas  sexual transmit infect  testosteron  androderm  chlamydia infect  testoderm  vasectomi  circumcis  hernia  erectil dysfunct  torsion testi  prostat specif antigen  prostat cancer cryotherapi  remov testi  greenlight pvptm
+nan
+contracept  nexplanon  pap smear  pelvic pain  uterin fibroid  menstrual cycl chang
+stress manag  well lifestyl  uterin fibroid  irrit bowel syndrom  polycyst ovarian syndrom  infertil  labor induct  natur labor  routin prenat care  postpartum depress
+child health  chickenpox  ear infect  sleep hygien  learn disord
+femal infertil  gynecolog cancer  anterior vagin wall repair  gynecolog surgeri
 nan
 vision  glass  vision loss  eyeglass  contact len  glaucoma  loss vision  pink eye  conjunct  lasik  nearsighted  hazi vision  blurri vision  ophthalmolog  astigmat  artifici tear  cataract
 glaucoma  vision  glass  conjunct  cataract  dri eye  surgeri  eye health  vision loss  contact len  eyeglass  ophthalmolog  cataract surgeri  artifici tear  vitamin supplement  sport activ  healthi live
 nan
 lasik  cataract surgeri  dri eye  corneal transplant
 mole  wart  skin age  skin cancer  skin  hair nail
+lasik  cataract surgeri  dri eye  corneal transplant
+urinari tract infect
+corneal transplant  corneal ulcer  disloc len  cataract surgeri  refract surgeri
+retin disord  eye floater  macular degener  diabet eye problem  cataract surgeri
+testosteron  androderm  male health  testoderm  erectil dysfunct  inabl sustain erect  inabl attain erect  dementia  alzheim diseas  dht  muse  hypogonad  fluphenazin  alprostadil  impot  viagra  erectil failur  prolixin
+hemorrhoid  backach
 surgeri  knee pain  broken bone  acl reconstruct  sprain strain  sprain  rotat cuff tear  hip fractur  rotat cuff injuri  total knee replac  arthroscopi  acl injuri  swell  sport medicin  shoulder injuri  knee arthroscopi  joint replac surgeri  total hip replac
 nan
 hip arthroscopi  knee arthroscopi  shoulder arthroscopi  shoulder injuri disord
@@ -645,6 +1277,11 @@ podiatri  foot care  sprain  neuropathi  foot ankl injuri  diabet foot  diabet n
 famili relationship  hospic care  emerg medic care  high risk pregnanc  educ
 exercis  back pain  osteoporosi  sprain strain  mri shoulder  exercis fit program  bone infect  shoulder mri arthrogram  mri scan  osteochondr dissecan  tibia fractur  fever  ankl surgeri  acl injuri  low impact exercis  comminut fractur surgeri  laminectomi
 surgeri  ankl sprain  exercis  arthriti  total ankl replac  swollen ball foot
+backach  scoliosi  back pain  pain back  sciatica  abnorm curvatur spine  bulg disk  spinal fusion  spinal stenosi
+contracept  intrauterin devic  obstetr  tubal ligat  prevent medicin  minim invas surgeri  gynecolog surgeri
+dizzi  vertigo  surgeri  congest  thyroid surgeri  rhiniti  chronic sinus  septoplasti  acut sinus  facial pain  hear loss  thyroidectomi  endoscop sinus surgeri  ear drop  salivari gland disord
+nan
+arthriti  nutrit support  well lifestyl  cardiovascular diseas  drug problem
 cancer  depress pregnanc  wart  ovarian cancer  chronic pelvic pain
 nan
 hypertens  prevent medicin  diabet  vascular diseas
@@ -653,17 +1290,35 @@ tooth pain  root canal  dentistri  tmj syndrom  tooth abscess  dri mouth  dental
 tmj syndrom  dental implant  sleep  cosmet dentistri  manag tmj  frequent headach  treat headach  emerg dentistri  obstruct sleep apnea
 back pain  neck pain  complex region pain syndrom
 sleep  anxieti  femal health  exercis  exercis  depress  psychiatri  eat healthier  stress  lose weight  stress less  psychiatr drug  insomnia  exercis program  acupunctur  sleep better  health educ  women health  anxieti disord  lifestyl chang
+hysterectomi  da vinci robot surgeri  obstetr  patient safeti  minim invas surgeri
+hernia  surgeri  hiatal hernia  hernia repair  inguin hernia  lump groin  groin hernia  gastroesophag reflux diseas  umbil hernia  inguin hernia repair  umbil hernia repair  inguin hernia surgeri
+anxieti  bipolar disord  manic depress disord  person disord  dementia  memori  anxieti disord  borderlin person disord  post traumat stress disord  social anxieti disord  mind medit  general anxieti disord  vascular dementia  age grace  relax techniqu
+critic care  laparoscop surgeri  emerg surgeri  abdomin
+colon cancer  pilonid cyst  diverticul  colonoscopi  hemorrhoid  anal fissur  append  diverticulosi  lipoma  rectocel  inguin hernia  colon polyp  umbil hernia  adenocarcinoma  hirschsprung diseas  rectal prolaps  anal cancer  sacral nerv stimul  fecal incontin adult  rectal prolaps repair
+knee pain  burn  sleep  male health  exercis  loud snore  famili medicin  sport medicin  sexual dysfunct  sciatica  urgent care  tendon  colonoscopi  patella  immun diseas  ach  acut sinus
+cancer  clostridium difficil infect  gastroenter
 hemorrhoid  backach
 children health  cough  sleep  skin rash  diarrhea  loos stool  femal health  otiti media  ear infect  vaccin  healthi pregnanc  dermat  vomit  pediatr  fever  child allergi  dysenteri  placement stent bile duct  pediatr allergi
 knee replac  total knee replac  arthriti  ra  total hip replac  total shoulder joint replac  partial knee replac  total elbow replac  osteoarthr  walk
 nan
 endometriosi  infertil  laparoscop surgeri  embryo transfer  oocyt cryopreserv
 nan
+cervic spine  cervic spinal disk remov  minim invas surgeri
+femal health  healthi pregnanc  mens  contracept  bleed  tubal ligat  vagin discharg  pelvic pain  vagin bleed  high risk pregnanc  hormon treatment
+nan
+nan
+exercis  back pain  osteoporosi  sprain strain  mri shoulder  exercis fit program  bone infect  shoulder mri arthrogram  mri scan  osteochondr dissecan  tibia fractur  fever  ankl surgeri  acl injuri  low impact exercis  comminut fractur surgeri  laminectomi
+child health  femal health  cough  sleep  hormon disord  thyroid hormon  anti age medicin
 age relat macular degener  retin disord  diabet eye problem  retin detach repair
 menopaus  cancer  itch  abdomin pain  dysmenorrhea  pelvic exam  male menopaus  bioident hormon  gynecolog surgeri  urinari incontin
 multipl sclerosi  headach  migrain  numb  stroke  cerebr vascular accid  neuropathi  dizzi  migrain headach  seizur  sleep  tingl  alzheim diseas  memori  dementia  exercis  weak  thorac outlet syndrom  memori loss  dementia lewi bodi
 child health  femal health  cough  sleep  hormon disord  thyroid hormon  anti age medicin
 back pain  nutrit  pain back  healthi vegetarian diet  post traumat stress disord  second trimest pregnanc  hip pain  healthi pregnanc  fibromyalgia  holist medicin  titan light therapi  chronic fatigu syndrom  vitamin defici  laser genesi
+cardiolog  coronari arteri diseas  cholesterol test  congest heart failur  cardiac echo  echocardiogram  arrhythmia  prevent medicin  heart diseas prevent  ct heart scan  abnorm electrocardiogram  gestat hypertens
+vision  glass  vision loss  eyeglass  contact len  glaucoma  loss vision  pink eye  conjunct  lasik  nearsighted  hazi vision  blurri vision  ophthalmolog  astigmat  artifici tear  cataract
+nan
+seizur  multipl sclerosi  neuropathi  nerv damag  live al
+cardiolog  coronari arteri diseas  cholesterol test  congest heart failur  cardiac echo  echocardiogram  arrhythmia  prevent medicin  heart diseas prevent  ct heart scan  abnorm electrocardiogram  gestat hypertens
 sciatica  pain back  epidur steroid inject  osteoarthr  neck pain  migrain  botox  mri spine  radiofrequ ablat  rhizotomi  complex region pain syndrom  lumbar facet inject  stem cell therapi  nerv injuri  lumbar facet rhizotomi  xray spine  lumbar sympathet block  stellat ganglion block  percutan discectomi
 vitamin defici  vitamin  osteoporosi  total knee replac  foot surgeri  joint replac surgeri
 multipl sclerosi  neurolog  neuromuscular disord  immunosuppress therapi
@@ -674,12 +1329,26 @@ sciatica  pain back  epidur steroid inject  osteoarthr  neck pain  migrain  boto
 rheumatoid arthriti  gout  osteoporosi  breathless  breath difficulti
 pain back  surgeri  cough  halfprin  allergi  asthma  cancer  empirin  hemorrhoid  skin rash  itch  gout  bayer  rash  chest pain  swell  fever  mens  diet  pimpl
 nan
+stress
+sciatica  pain back  epidur steroid inject  osteoarthr  neck pain  migrain  botox  mri spine  radiofrequ ablat  rhizotomi  complex region pain syndrom  lumbar facet inject  stem cell therapi  nerv injuri  lumbar facet rhizotomi  xray spine  lumbar sympathet block  stellat ganglion block  percutan discectomi
+nan
+multipl sclerosi  headach  migrain  numb  stroke  cerebr vascular accid  neuropathi  dizzi  migrain headach  seizur  sleep  tingl  alzheim diseas  memori  dementia  exercis  weak  thorac outlet syndrom  memori loss  dementia lewi bodi
+sciatica  pain back  epidur steroid inject  osteoarthr  neck pain  migrain  botox  mri spine  radiofrequ ablat  rhizotomi  complex region pain syndrom  lumbar facet inject  stem cell therapi  nerv injuri  lumbar facet rhizotomi  xray spine  lumbar sympathet block  stellat ganglion block  percutan discectomi
+cough  contracept  children health  surgeri  ear infect  otiti media  bruis  home remedi  adolesc health  neonatolog  childhood immun  pediatr dermatolog  get pierc  asthma children  topic medic laser treatment  adult immun  botox
+acupunctur  sciatica  physic medicin rehabilit  physic rehabilit medicin  physic therapi  bulg disk  herniat disk  whiplash injuri  cervic spine injuri  physic rehabilit  arthriti  hypnosi  motor vehicl accid  neurolog  manag neck pain  spine manipul  stress headach  peripher neuropathi  radiculopathi  quit smoke
 hernia  laparoscop surgeri  cancer  breast cancer  surgeri  gallston  tender abdomen  colon cancer  hiatal hernia  hernia repair  inguin hernia  gastroesophag reflux diseas  lump groin  lipoma  hemorrhoid  thyroid nodul  acid reflux surgeri  breast cancer  hernia repair  robot surgeri
 dysmenorrhea  pelvic pain  cervic dysplasia  infertil  dyspareunia
 urinari tract infect
 fibromyalgia  burn  wound  numb  physic therapi  scar  wound heal  abnorm wound heal  poor heal  diabet ulcer  spinal cord injuri  hydrotherapi  head injuri  venous stasi  blood blister  calciphylaxi  brain injuri  diabet foot  cervic spine  brain damag
 nan
 contracept  hysterectomi  sexual transmit diseas  urinari incontin  menorrhagia  teen pregnanc  endometri ablat  high risk pregnanc  hysteroscopi  essur
+nan
+cardiolog  intervent catheter  telemedicin  medic devic  peripher vascular diseas
+male health  surgeri  urinari tract infect  cancer  sexual transmit diseas  sexual transmit infect  testosteron  androderm  chlamydia infect  testoderm  vasectomi  circumcis  hernia  erectil dysfunct  torsion testi  prostat specif antigen  prostat cancer cryotherapi  remov testi  greenlight pvptm
+aid  pneumonia  urinari tract infect  sexual transmit diseas  infect heart valv  bacteri infect  bacteri endocard  osteomyel  respiratori tract infect  septic arthriti  pneumocysti jirovecii pneumonia  prophylact antibiot
+mrsa  infecti diseas  pneumonia  streptococc infect  urinari tract infect  mono  cough  abscess  bacteri infect  antibiot  common cold  fever  fungal infect  treatment antibiot
+autism spectrum disord  adhd  communic doctor  travel medicin
+vaccin  aid  viral hepat  biodefens bioterror  foodborn ill
 pelvic pain  fertil  cesarean section  aortic stenosi
 femal health  pelvic pain  healthi pregnanc  contracept  mens  eat disord  exercis  eat healthier  healthi cook  bleed  endometriosi  uterin fibroid  hormon treatment  minim invas surgeri  femal sexual dysfunct
 femal infertil  gynecolog cancer  anterior vagin wall repair  gynecolog surgeri
@@ -687,6 +1356,12 @@ contracept  hysterectomi  sexual transmit diseas  urinari incontin  menorrhagia 
 contracept  ovul
 nan
 ct scan  radiolog  ultrasound joint
+mens  pelvic pain  backach  difficulti sleep  bleed  gonorrhea  sleep  frequent urin  cancer  polycyst ovarian syndrom  spot  intrauterin devic  infertil  oligohydramnio  pregnanc test  blight ovum  difficult labor  ovul  irregular bleed  bioident hormon
+endometriosi  pelvic pain  pelvic laparoscopi  excess menstrual bleed
+oral contracept  menopaus  genit herp  gynecolog
+contracept  cancer  endometriosi
+acn  pimpl  ectop pregnanc  common cold
+sexual dysfunct  marriag famili therapi
 knee pain  arthriti  sport medicin  knee swell  arthroscopi  knee arthroscopi  shoulder arthroscopi  acl reconstruct  shoulder arthroplasti  knee pop  knee injuri  osteoarthr  knee buckl  sport injuri  shoulder injuri disord  rotat cuff repair  shoulder hemiarthroplasti  total shoulder joint replac
 plantar fasciiti  diabet foot  neuroma
 arthroscopi  ankl pain  mri ankl  ankl arthroscopi  total ankl replac  ankl surgeri  ct foot  ankl disord  broken foot
@@ -701,6 +1376,14 @@ diabet foot  heel injuri disord  diabet ulcer  nail diseas
 ankl fractur  talus fractur  sport activ  achill tendon injuri
 orthot  gout  bunion  podiatri  foot surgeri
 backach
+exercis  broken bone  splint  shin splint  sport medicin  bruis  acl reconstruct  knee arthroscopi  plantar fasciiti  patella  sport injuri  shoulder injuri  rotat cuff repair  shoulder arthroscopi  acl reconstruct rehab  accid
+surgeri  orthot  co2 laser  co2 laser  fungal nail infect  foot surgeri  orthot
+acl reconstruct  knee arthroscopi  shoulder arthroscopi  shoulder injuri disord
+arthriti  fibromyalgia  rheumatoid arthriti  osteoarthr  vascul
+arthriti  fibromyalgia  rheumatoid arthriti  osteoarthr  vascul
+surgeri  knee pain  broken bone  acl reconstruct  sprain strain  sprain  rotat cuff tear  hip fractur  rotat cuff injuri  total knee replac  arthroscopi  acl injuri  swell  sport medicin  shoulder injuri  knee arthroscopi  joint replac surgeri  total hip replac
+nan
+acn  pediatr  asthma children  breastfeed child  delay growth
 heart attack  myocardi infarct  deep venous thrombosi  coronari arteri diseas  aortic aneurysm  cardiovascular diseas  coronari arteri bypass graft  thorac neoplasm  peripher vascular diseas  thorac surgeon  venous insuffici  thorac outlet syndrom  thoracotomi  carotid duplex  carotid arteri stenosi  carotid arteri diseas  ultrasound extrem vein  cardiac bypass  cardiac pace  carotid bruit
 child health  chickenpox  ear infect  sleep hygien  learn disord
 chest pain  copd  chest tight  chest pressur  hear loss  angina  diabet  heart attack  rapid heart beat  diabet type 2  transient ischem attack  mening  viral mening
@@ -708,6 +1391,14 @@ chest pain
 cardiolog  hypertens  angina  myocardi infarct  coronari arteri diseas  valvular heart diseas  coronari angioplasti  congest heart failur
 heart attack  myocardi infarct  deep venous thrombosi  coronari arteri diseas  aortic aneurysm  cardiovascular diseas  coronari arteri bypass graft  thorac neoplasm  peripher vascular diseas  thorac surgeon  venous insuffici  thorac outlet syndrom  thoracotomi  carotid duplex  carotid arteri stenosi  carotid arteri diseas  ultrasound extrem vein  cardiac bypass  cardiac pace  carotid bruit
 hepat  birth defect  infecti diseas  frequent ear infect  asthma children
+coronari arteri diseas  aortic aneurysm  mitral valv repair  lung cancer  aortic valv
+chest pain  cardiac catheter  heart attack  coronari arteri diseas  congest heart failur  echocardiogram  coronari arteriosclerosi  stress echocardiographi  cardiac pace  angiogram coronari arteri  acut cardiovascular diseas  peripher arteri diseas  drug elut stent  coronari angioplasti  ultrasound coronari arteri  transesophag echocardiogram  peripher vascular diseas
+child health  congenit heart diseas  children health  heart diseas  heart murmur  chest pain  ventricular septal defect  endocardi cushion defect  supraventricular tachycardia  patent foramen oval  syncop  echocardiogram  cardiac echo  cardiomyopathi  arrhythmia  echocardiographi
+chest pain  heart attack  heart diseas  congest heart failur
+fibromyalgia  soft tissu injuri  joint hypermobl  chronic pain  hypermobl syndrom  back pain  sciatica  irrit bowel syndrom  cannabinoid panel  muscl spasm  ligament laxiti  complementari altern medicin  depress  thorac outlet syndrom  altern medicin  pain back  pelvic pain  sleep  ligament injuri  femal health
+chest pain
+cardiac echo  anesthesia  cardiac bypass  neurolog problem
+nan
 nan
 femal health  mens  psychopharmacolog treatment  healthi pregnanc  ultrasound guid paracentesi  ultrasound guid fine needl aspir  ultrasound guid chorion villus sampl  ct guid vertebroplasti  ultrasound guid pericardiocentesi  ultrasound guid ova aspir  ultrasound guid amniocentesi  ct guid fine needl aspir  ultrasound guid amnioinfus  ct guid csf leak repair  ultrasound guid abscess drainag  ct guid thoracentesi  asthma  high aluminum level  bleed  underact thyroid
 menopaus  cancer  itch  abdomin pain  dysmenorrhea  pelvic exam  male menopaus  bioident hormon  gynecolog surgeri  urinari incontin
@@ -715,3 +1406,12 @@ nan
 cll  lymphoma  cml  blood lymph cancer  multipl myeloma  hemochromatosi  langerhan cell histiocytosi
 vagin deliveri  lose weight
 endometriosi  femal infertil  uterin fibroid  male infertil
+cancer  laparoscop surgeri  surgeri  hernia  femal health  breast cancer  hemorrhoid  lump groin  breast carcinoma  lose weight  inguin hernia repair  abdomin pain  colon cancer  weight loss surgeri  lymphedema  abdomin discomfort  gastric bypass surgeri  bypass surgeri  gastroparesi
+menopaus  laparoscop surgeri  post deliveri contracept  femal steril surgeri  osteoporosi
+infertil  fertil  femal infertil  fertil treatment  polycyst ovarian syndrom  ivf pregnanc  male fertil
+insomnia  sleep apnea  sleepi
+fertil  get pregnant  polycyst ovarian syndrom  ivf pregnanc  endometriosi  pregnanc loss  ectop pregnanc
+femal health  healthi pregnanc  polycyst ovarian syndrom  mens  contracept  hysterectomi  cancer  ovul  laparoscop surgeri  normal childbirth  child health  pap smear  endometriosi  bleed  vagin hysterectomi  surgeri  spot  breast cancer  robot surgeri  da vinci robot surgeri
+pelvic pain  uterin fibroid  manag endometriosi  pelvic support surgeri  bioident hormon
+femal health  healthi pregnanc  child health  mens  fertil  tri conceiv  burn  infertil  pregnanc loss  ovul  polycyst ovarian syndrom  intraven fluid  ivf pregnanc  tubal ligat  clomid  clomiphen  endometriosi  scar  pain back  back pain
+pelvic pain  uterin fibroid  manag endometriosi  pelvic support surgeri  bioident hormon
